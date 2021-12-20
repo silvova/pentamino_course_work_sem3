@@ -1,0 +1,16 @@
+Solution 1 :
+U U X I I I I I N N N F T W Y Y Y Y Z V 
+U X X X P P L N N F F F T W W Y Z Z Z V 
+U U X P P P L L L L F T T T W W Z V V V 
+Solution 2 :
+U U X I I I I I Z W W T T T F L L L L V 
+U X X X P P Z Z Z Y W W T F F F N N L V 
+U U X P P P Z Y Y Y Y W T F N N N V V V 
+Solution 3 :
+U U X P P P Z Y Y Y Y W T F N N N V V V 
+U X X X P P Z Z Z Y W W T F F F N N L V 
+U U X I I I I I Z W W T T T F L L L L V 
+Solution 4 :
+U U X P P P L L L L F T T T W W Z V V V 
+U X X X P P L N N F F F T W W Y Z Z Z V 
+U U X I I I I I N N N F T W Y Y Y Y Z V 

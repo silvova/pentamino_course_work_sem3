@@ -1,0 +1,7595 @@
+Solution 1 :
+U U X I I I I I N N 
+U X X X F F N N N Y 
+U U X Z Z F F P Y Y 
+V V V Z W F P P T Y 
+V L Z Z W W P P T Y 
+V L L L L W W T T T 
+Solution 2 :
+U U X I I I I I N N 
+U X X X F F N N N T 
+U U X F F V Z T T T 
+P P P W F V Z Z Z T 
+P P Y W W V V V Z L 
+Y Y Y Y W W L L L L 
+Solution 3 :
+U U X I I I I I N N 
+U X X X F F N N N L 
+U U X F F V V V Z L 
+P P T W F V Z Z Z L 
+P P T W W V Z Y L L 
+P T T T W W Y Y Y Y 
+Solution 4 :
+U U X I I I I I N N 
+U X X X F F N N N L 
+U U X F F T L L L L 
+P P P W F T T T Z V 
+P P Y W W T Z Z Z V 
+Y Y Y Y W W Z V V V 
+Solution 5 :
+U U X I I I I I N N 
+U X X X W W N N N Y 
+U U X F F W W V Y Y 
+P P Z Z F F W V T Y 
+P P Z L F V V V T Y 
+P Z Z L L L L T T T 
+Solution 6 :
+U U X I I I I I N N 
+U X X X W W N N N T 
+U U X W W V Z T T T 
+P P P W F V Z Z Z T 
+P P Y F F V V V Z L 
+Y Y Y Y F F L L L L 
+Solution 7 :
+U U X I I I I I N N 
+U X X X W W N N N L 
+U U X W W V V V Z L 
+P F F W T V Z Z Z L 
+P P F F T V Z Y L L 
+P P F T T T Y Y Y Y 
+Solution 8 :
+U U X I I I I I N N 
+U X X X W W N N N L 
+U U X W W V V V Z L 
+P P F W T V Z Z Z L 
+P P F F T V Z Y L L 
+P F F T T T Y Y Y Y 
+Solution 9 :
+U U X I I I I I N N 
+U X X X W W N N N L 
+U U X W W V V V Z L 
+P P T W F V Z Z Z L 
+P P T F F V Z Y L L 
+P T T T F F Y Y Y Y 
+Solution 10 :
+U U X I I I I I N N 
+U X X X W W N N N L 
+U U X W W T L L L L 
+P P P W F T T T Z V 
+P P Y F F T Z Z Z V 
+Y Y Y Y F F Z V V V 
+Solution 11 :
+U U X I I I I I N N 
+U X X X W T N N N Y 
+U U X W W T T T Y Y 
+P P W W V T F Z Z Y 
+P P P L V F F F Z Y 
+L L L L V V V F Z Z 
+Solution 12 :
+U U X I I I I I F Y 
+U X X X W W F F F Y 
+U U X W W V Z F Y Y 
+N N N W T V Z Z Z Y 
+P P N N T V V V Z L 
+P P P T T T L L L L 
+Solution 13 :
+U U X I I I I I F Y 
+U X X X W W F F F Y 
+U U X W W V Z F Y Y 
+P P P W T V Z Z Z Y 
+P P N N T V V V Z L 
+N N N T T T L L L L 
+Solution 14 :
+U U X I I I I I F F 
+U X X X N N N F F Y 
+U U X Z Z P N N F Y 
+V V V Z P P T W Y Y 
+V L Z Z P P T W W Y 
+V L L L L T T T W W 
+Solution 15 :
+U U X I I I I I W W 
+U X X X F Z Z W W Y 
+U U X F F F Z W Y Y 
+V V V F N N Z Z T Y 
+V L N N N P P P T Y 
+V L L L L P P T T T 
+Solution 16 :
+U U X I I I I I W W 
+U X X X F F N W W Y 
+U U X F F V N W Y Y 
+P P Z Z F V N N T Y 
+P P Z V V V L N T Y 
+P Z Z L L L L T T T 
+Solution 17 :
+U U X I I I I I W W 
+U X X X F Z Z W W N 
+U U X F F F Z W N N 
+T Y Y Y Y F Z Z N V 
+T T T Y L P P P N V 
+T L L L L P P V V V 
+Solution 18 :
+U U X I I I I I W W 
+U X X X F Z Z W W N 
+U U X F F F Z W N N 
+T L L L L F Z Z N V 
+T T T Y L P P P N V 
+T Y Y Y Y P P V V V 
+Solution 19 :
+U U X I I I I I W W 
+U X X X F Z Z W W N 
+U U X F F F Z W N N 
+Y Y Y Y T F Z Z N V 
+L Y T T T P P P N V 
+L L L L T P P V V V 
+Solution 20 :
+U U X I I I I I W W 
+U X X X F Z Z W W N 
+U U X F F F Z W N N 
+L L L L T F Z Z N V 
+L Y T T T P P P N V 
+Y Y Y Y T P P V V V 
+Solution 21 :
+U U X I I I I I W W 
+U X X X F Z Z W W Y 
+U U X F F F Z W Y Y 
+N N V V V F Z Z T Y 
+L N N N V P P P T Y 
+L L L L V P P T T T 
+Solution 22 :
+U U X I I I I I W W 
+U X X X F Z Z W W Y 
+U U X F F F Z W Y Y 
+V V V N N F Z Z T Y 
+V N N N L P P P T Y 
+V L L L L P P T T T 
+Solution 23 :
+U U X I I I I I W W 
+U X X X F Z Z W W Y 
+U U X F F F Z W Y Y 
+V L L L L F Z Z T Y 
+V N N N L P P P T Y 
+V V V N N P P T T T 
+Solution 24 :
+U U X I I I I I W W 
+U X X X F Z Z W W Y 
+U U X F F F Z W Y Y 
+L L L L V F Z Z T Y 
+L N N N V P P P T Y 
+N N V V V P P T T T 
+Solution 25 :
+U U X I I I I I W W 
+U X X X Y Z Z W W N 
+U U X T Y Y Z W N N 
+P T T T Y F Z Z N V 
+P P L T Y F F F N V 
+P P L L L L F V V V 
+Solution 26 :
+U U X I I I I I W W 
+U X X X L L P W W Y 
+U U X Z L P P W Y Y 
+V Z Z Z L P P F T Y 
+V Z N N L F F F T Y 
+V V V N N N F T T T 
+Solution 27 :
+U U X I I I I I Z Y 
+U X X X W W Z Z Z Y 
+U U X W W V Z F Y Y 
+N N N W T V F F F Y 
+P P N N T V V V F L 
+P P P T T T L L L L 
+Solution 28 :
+U U X I I I I I Z Y 
+U X X X W W Z Z Z Y 
+U U X W W V Z F Y Y 
+P P P W T V F F F Y 
+P P N N T V V V F L 
+N N N T T T L L L L 
+Solution 29 :
+U U X I I I I I Z V 
+U X X X F F Z Z Z V 
+U U X F F T Z V V V 
+P P P W F T T T N N 
+P P Y W W T N N N L 
+Y Y Y Y W W L L L L 
+Solution 30 :
+U U X I I I I I Z V 
+U X X X F F Z Z Z V 
+U U X F F L Z V V V 
+P P P W F L L L L T 
+P P Y W W N N T T T 
+Y Y Y Y W W N N N T 
+Solution 31 :
+U U X I I I I I Z V 
+U X X X W W Z Z Z V 
+U U X W W T Z V V V 
+P P P W F T T T N N 
+P P Y F F T N N N L 
+Y Y Y Y F F L L L L 
+Solution 32 :
+U U X I I I I I Z V 
+U X X X W W Z Z Z V 
+U U X W W L Z V V V 
+N N N W F L L L L T 
+P P N N F F Y T T T 
+P P P F F Y Y Y Y T 
+Solution 33 :
+U U X I I I I I Z V 
+U X X X W W Z Z Z V 
+U U X W W L Z V V V 
+P P P W F L L L L T 
+P P Y F F N N T T T 
+Y Y Y Y F F N N N T 
+Solution 34 :
+U U X I I I I I Z V 
+U X X X W W Z Z Z V 
+U U X W W L Z V V V 
+P P P W F L L L L T 
+P P N N F F Y T T T 
+N N N F F Y Y Y Y T 
+Solution 35 :
+U U X I I I I I Z Z 
+U X X X N T T T Z Y 
+U U X N N F T Z Z Y 
+V V V N F F T W Y Y 
+V P P N L F F W W Y 
+V P P P L L L L W W 
+Solution 36 :
+U U X I I I I I Z Z 
+U X X X F T T T Z Y 
+U U X F F F T Z Z Y 
+V V V F N N T W Y Y 
+V L N N N P P W W Y 
+V L L L L P P P W W 
+Solution 37 :
+U U X I I I I I Z Z 
+U X X X F T T T Z Y 
+U U X F F F T Z Z Y 
+N N V V V F T W Y Y 
+L N N N V P P W W Y 
+L L L L V P P P W W 
+Solution 38 :
+U U X I I I I I Z Z 
+U X X X F T T T Z Y 
+U U X F F F T Z Z Y 
+V V V N N F T W Y Y 
+V N N N L P P W W Y 
+V L L L L P P P W W 
+Solution 39 :
+U U X I I I I I Z Z 
+U X X X F T T T Z Y 
+U U X F F F T Z Z Y 
+V L L L L F T W Y Y 
+V N N N L P P W W Y 
+V V V N N P P P W W 
+Solution 40 :
+U U X I I I I I Z Z 
+U X X X F T T T Z Y 
+U U X F F F T Z Z Y 
+L L L L V F T W Y Y 
+L N N N V P P W W Y 
+N N V V V P P P W W 
+Solution 41 :
+U U X I I I I I Z Z 
+U X X X L L L L Z Y 
+U U X N L F F Z Z Y 
+V V V N F F T W Y Y 
+V P P N N F T W W Y 
+V P P P N T T T W W 
+Solution 42 :
+U U X I I I I I P P 
+U X X X N N N T P P 
+U U X N N T T T F P 
+V Z Y Y Y Y W T F F 
+V Z Z Z Y W W F F L 
+V V V Z W W L L L L 
+Solution 43 :
+U U X I I I I I P P 
+U X X X F T T T P P 
+U U X F F F T W W P 
+V V V F N N T Z W W 
+V L N N N Z Z Z Y W 
+V L L L L Z Y Y Y Y 
+Solution 44 :
+U U X I I I I I P P 
+U X X X F T T T P P 
+U U X F F F T W W P 
+N N V V V F T Z W W 
+L N N N V Z Z Z Y W 
+L L L L V Z Y Y Y Y 
+Solution 45 :
+U U X I I I I I P P 
+U X X X F T T T P P 
+U U X F F F T W W P 
+V V V N N F T Z W W 
+V N N N L Z Z Z Y W 
+V L L L L Z Y Y Y Y 
+Solution 46 :
+U U X I I I I I P P 
+U X X X F T T T P P 
+U U X F F F T W W P 
+V L L L L F T Z W W 
+V N N N L Z Z Z Y W 
+V V V N N Z Y Y Y Y 
+Solution 47 :
+U U X I I I I I P P 
+U X X X F T T T P P 
+U U X F F F T W W P 
+L L L L V F T Z W W 
+L N N N V Z Z Z Y W 
+N N V V V Z Y Y Y Y 
+Solution 48 :
+U U X I I I I I P P 
+U X X X L L L L P P 
+U U X F T T T L N P 
+V Z F F F T W W N N 
+V Z Z Z F T Y W W N 
+V V V Z Y Y Y Y W N 
+Solution 49 :
+U U X I I I I I P P 
+U X X X L L L L P P 
+U U X Z T T T L N P 
+V Z Z Z F T W W N N 
+V Z F F F T Y W W N 
+V V V F Y Y Y Y W N 
+Solution 50 :
+U U X I I I I I P P 
+U X X X W T T T P P 
+U U X W W N T F P Y 
+V Z W W N N T F F Y 
+V Z Z Z N L F F Y Y 
+V V V Z N L L L L Y 
+Solution 51 :
+U U X I I I I I P P 
+U X X X W T T T P P 
+U U X W W F T N P Y 
+V Z W W F F T N Y Y 
+V Z Z Z L F F N N Y 
+V V V Z L L L L N Y 
+Solution 52 :
+U U X I I I I I P P 
+U X X X Z V V V P P 
+U U X Y Z Z Z V P W 
+T Y Y Y Y F Z V W W 
+T T T N N F F W W L 
+T N N N F F L L L L 
+Solution 53 :
+U U X I I I I I P P 
+U X X X Z V V V P P 
+U U X Y Z Z Z V P L 
+T Y Y Y Y F Z V W L 
+T T T N N F F W W L 
+T N N N F F W W L L 
+Solution 54 :
+U U X I I I I I P P 
+U X X X L L L L P P 
+U U X F L N N N P Y 
+V Z F F F T W N N Y 
+V Z Z Z F T W W Y Y 
+V V V Z T T T W W Y 
+Solution 55 :
+U U X I I I I I P P 
+U X X X L L L L P P 
+U U X Z L N N N P Y 
+V Z Z Z F T W N N Y 
+V Z F F F T W W Y Y 
+V V V F T T T W W Y 
+Solution 56 :
+U U X I I I I I L L 
+U X X X W W T T T L 
+U U X P P W W T N L 
+V Z P P P F W T N L 
+V Z Z Z F F F Y N N 
+V V V Z F Y Y Y Y N 
+Solution 57 :
+U U X I I I I I L V 
+U X X X F L L L L V 
+U U X Y F F F V V V 
+T Y Y Y Y F W Z Z P 
+T T T N N W W Z P P 
+T N N N W W Z Z P P 
+Solution 58 :
+U U X N N I I I I I 
+U X X X N N N F F Y 
+U U X Z Z W F F Y Y 
+V P P P Z W W F T Y 
+V P P L Z Z W W T Y 
+V V V L L L L T T T 
+Solution 59 :
+U U X N N I I I I I 
+U X X X N N N T T T 
+U U X Z Z P P P T Y 
+V V V Z W P P F T Y 
+V L Z Z W W F F Y Y 
+V L L L L W W F F Y 
+Solution 60 :
+U U X N N I I I I I 
+U X X X N N N Y L L 
+U U X Z F Y Y Y Y L 
+V Z Z Z F F F W T L 
+V Z P P P F W W T L 
+V V V P P W W T T T 
+Solution 61 :
+U U X N N I I I I I 
+U X X X N N N Z Z Y 
+U U X T V V V Z Y Y 
+P T T T V W Z Z F Y 
+P P L T V W W F F Y 
+P P L L L L W W F F 
+Solution 62 :
+U U X N N I I I I I 
+U X X X N N N Z Z Y 
+U U X L L L L Z Y Y 
+V V V L T W Z Z F Y 
+V P P P T W W F F Y 
+V P P T T T W W F F 
+Solution 63 :
+U U X N N I I I I I 
+U X X X N N N Z Z Y 
+U U X L L L L Z Y Y 
+V P P L T W Z Z F Y 
+V P P P T W W F F Y 
+V V V T T T W W F F 
+Solution 64 :
+U U X N N I I I I I 
+U X X X N N N V V V 
+U U X L L L L Z Z V 
+P P T L F F W W Z V 
+P P T F F W W Y Z Z 
+P T T T F W Y Y Y Y 
+Solution 65 :
+U U X N N I I I I I 
+U X X X N N N P P P 
+U U X Z Z W W P P T 
+V V V Z W W F T T T 
+V L Z Z W F F F Y T 
+V L L L L F Y Y Y Y 
+Solution 66 :
+U U X N N Y Y Y Y I 
+U X X X N N N Y F I 
+U U X Z Z W F F F I 
+V P P P Z W W F T I 
+V P P L Z Z W W T I 
+V V V L L L L T T T 
+Solution 67 :
+U U X N N Y Y Y Y I 
+U X X X N N N Y T I 
+U U X Z Z F T T T I 
+V V V Z F F F W T I 
+V L Z Z F P P W W I 
+V L L L L P P P W W 
+Solution 68 :
+U U X N N Y Y Y Y I 
+U X X X N N N Y T I 
+U U X Z Z F T T T I 
+V V V Z W F F F T I 
+V L Z Z W W F P P I 
+V L L L L W W P P P 
+Solution 69 :
+U U X N N Y Y Y Y I 
+U X X X N N N Y L I 
+U U X Z F L L L L I 
+V Z Z Z F F F W T I 
+V Z P P P F W W T I 
+V V V P P W W T T T 
+Solution 70 :
+U U X N N L L L L I 
+U X X X N N N Y L I 
+U U X Z F Y Y Y Y I 
+V Z Z Z F F F W T I 
+V Z P P P F W W T I 
+V V V P P W W T T T 
+Solution 71 :
+U U X N N N T T T Y 
+U X X X W N N T Y Y 
+U U X W W F F T Z Y 
+V L W W F F Z Z Z Y 
+V L L L L F Z P P P 
+V V V I I I I I P P 
+Solution 72 :
+U U X N N N T T T Y 
+U X X X W N N T Y Y 
+U U X W W P P T F Y 
+V Z W W P P P F F Y 
+V Z Z Z L L L L F F 
+V V V Z L I I I I I 
+Solution 73 :
+U U X N N N Y Y Y Y 
+U X X X W N N T Y I 
+U U X W W T T T L I 
+V Z W W P F F T L I 
+V Z Z Z P P F F L I 
+V V V Z P P F L L I 
+Solution 74 :
+U U X N N N Y Y Y Y 
+U X X X W N N T Y I 
+U U X W W T T T L I 
+V Z W W P P F T L I 
+V Z Z Z P P F F L I 
+V V V Z P F F L L I 
+Solution 75 :
+U U X N N N V V V I 
+U X X X F N N W V I 
+U U X F F F W W V I 
+P P T F Y W W Z Z I 
+P P T Y Y Y Y L Z I 
+P T T T L L L L Z Z 
+Solution 76 :
+U U X N N N V V V L 
+U X X X F N N W V L 
+U U X F F F W W V L 
+P P T F Y W W Z L L 
+P P T Y Y Y Y Z Z Z 
+P T T T I I I I I Z 
+Solution 77 :
+U U X N N N L L L L 
+U X X X W N N Z F L 
+U U X W W Z Z Z F F 
+P P W W Y Z T F F V 
+P P Y Y Y Y T T T V 
+P I I I I I T V V V 
+Solution 78 :
+U U X N N N L L L L 
+U X X X W N N Z F L 
+U U X W W Z Z Z F F 
+P P W W Y Z V F F T 
+P P Y Y Y Y V T T T 
+P I I I I I V V V T 
+Solution 79 :
+U U X F F I I I I I 
+U X X X F F N N N Y 
+U U X T F N N W W Y 
+V V V T Z Z W W Y Y 
+V L T T T Z W P P Y 
+V L L L L Z Z P P P 
+Solution 80 :
+U U X F F I I I I I 
+U X X X F F T T T P 
+U U X Z F W W T P P 
+V Z Z Z W W Y T P P 
+V Z N N W Y Y Y Y L 
+V V V N N N L L L L 
+Solution 81 :
+U U X F F I I I I I 
+U X X X F F W Z Z N 
+U U X T F W W Z N N 
+P T T T W W Z Z N V 
+P P L T Y Y Y Y N V 
+P P L L L L Y V V V 
+Solution 82 :
+U U X F F I I I I I 
+U X X X F F W Z Z Y 
+U U X V F W W Z Y Y 
+P P P V W W Z Z T Y 
+L P P V V V N N T Y 
+L L L L N N N T T T 
+Solution 83 :
+U U X F F I I I I I 
+U X X X F F W V V V 
+U U X T F W W Z Z V 
+P T T T W W N N Z V 
+P P L T N N N Y Z Z 
+P P L L L L Y Y Y Y 
+Solution 84 :
+U U X F F I I I I I 
+U X X X F F Y Y Y Y 
+U U X Z F W W Y T L 
+V Z Z Z W W T T T L 
+V Z N N W P P P T L 
+V V V N N N P P L L 
+Solution 85 :
+U U X F F T T T W W 
+U X X X F F T W W I 
+U U X N F Y T W V I 
+P Z Z N Y Y Y Y V I 
+P P Z N N L V V V I 
+P P Z Z N L L L L I 
+Solution 86 :
+U U X F F T T T W W 
+U X X X F F T W W I 
+U U X Y F Z T W L I 
+V Y Y Y Y Z Z Z L I 
+V N N N P P P Z L I 
+V V V N N P P L L I 
+Solution 87 :
+U U X F F T T T W W 
+U X X X F F T W W I 
+U U X V F Y T W L I 
+P Z Z V Y Y Y Y L I 
+P P Z V V V N N L I 
+P P Z Z N N N L L I 
+Solution 88 :
+U U X F F T T T W W 
+U X X X F F T W W N 
+U U X Y F Z T W N N 
+L Y Y Y Y Z Z Z N V 
+L L L L P P P Z N V 
+I I I I I P P V V V 
+Solution 89 :
+U U X F F T T T W W 
+U X X X F F T W W N 
+U U X L F Z T W N N 
+L L L L Y Z Z Z N V 
+P P P Y Y Y Y Z N V 
+P P I I I I I V V V 
+Solution 90 :
+U U X F F T T T W W 
+U X X X F F T W W P 
+U U X Z F Y T W P P 
+V Z Z Z Y Y Y Y P P 
+V Z N N I I I I I L 
+V V V N N N L L L L 
+Solution 91 :
+U U X F F T T T P P 
+U X X X F F T P P P 
+U U X Y F W T V V V 
+L Y Y Y Y W W Z Z V 
+L L L L N N W W Z V 
+I I I I I N N N Z Z 
+Solution 92 :
+U U X F F T T T P P 
+U X X X F F T P P P 
+U U X Z F W T N L L 
+V Z Z Z Y W W N N L 
+V Z Y Y Y Y W W N L 
+V V V I I I I I N L 
+Solution 93 :
+U U X F F T T T P P 
+U X X X F F T W P P 
+U U X Z F Y T W W P 
+V Z Z Z Y Y Y Y W W 
+V Z N N I I I I I L 
+V V V N N N L L L L 
+Solution 94 :
+U U X F F T T T P P 
+U X X X F F T N P P 
+U U X Z F W T N P L 
+V Z Z Z Y W W N N L 
+V Z Y Y Y Y W W N L 
+V V V I I I I I L L 
+Solution 95 :
+U U X F F W W T T T 
+U X X X F F W W T I 
+U U X Y F Z Z W T I 
+V Y Y Y Y Z P P P I 
+V N N N Z Z P P L I 
+V V V N N L L L L I 
+Solution 96 :
+U U X F F W W T T T 
+U X X X F F W W T L 
+U U X Y F Z Z W T L 
+V Y Y Y Y Z P P P L 
+V N N N Z Z P P L L 
+V V V N N I I I I I 
+Solution 97 :
+U U X F F W W V V V 
+U X X X F F W W N V 
+U U X Y F Z Z W N V 
+L Y Y Y Y Z T N N P 
+L L L L Z Z T N P P 
+I I I I I T T T P P 
+Solution 98 :
+U U X F F W W P P P 
+U X X X F F W W P P 
+U U X Y F V Z W L L 
+T Y Y Y Y V Z Z Z L 
+T T T N N V V V Z L 
+T N N N I I I I I L 
+Solution 99 :
+U U X F F Y Y Y Y T 
+U X X X F F Y T T T 
+U U X W F L L L L T 
+N N N W W L Z V V V 
+P P N N W W Z Z Z V 
+P P P I I I I I Z V 
+Solution 100 :
+U U X F F Y Y Y Y T 
+U X X X F F Y T T T 
+U U X W F L L L L T 
+P P P W W L Z V V V 
+P P N N W W Z Z Z V 
+N N N I I I I I Z V 
+Solution 101 :
+U U X F F P P P L L 
+U X X X F F P P Z L 
+U U X Y F V Z Z Z L 
+T Y Y Y Y V Z W W L 
+T T T N N V V V W W 
+T N N N I I I I I W 
+Solution 102 :
+U U X F F L L L L Y 
+U X X X F F W I L Y 
+U U X Z F W W I Y Y 
+V Z Z Z W W T I P Y 
+V Z N N T T T I P P 
+V V V N N N T I P P 
+Solution 103 :
+U U X F F L L P P P 
+U X X X F F L Z P P 
+U U X Y F V L Z Z Z 
+T Y Y Y Y V L W W Z 
+T T T N N V V V W W 
+T N N N I I I I I W 
+Solution 104 :
+U U X T T T N N N Y 
+U X X X T N N F Y Y 
+U U X Z T F F F W Y 
+V V V Z Z Z F W W Y 
+V L L L L Z W W P P 
+V L I I I I I P P P 
+Solution 105 :
+U U X T T T N N N Z 
+U X X X T N N Z Z Z 
+U U X F T W W Z L L 
+P P F F F Y W W V L 
+P P F Y Y Y Y W V L 
+P I I I I I V V V L 
+Solution 106 :
+U U X T T T N V V V 
+U X X X T Y N Z Z V 
+U U X F T Y N N Z V 
+P F F F W Y Y N Z Z 
+P P F W W Y L L L L 
+P P W W I I I I I L 
+Solution 107 :
+U U X T T T N Y L L 
+U X X X T N N Y L I 
+U U X F T N Y Y L I 
+V Z F F F N W Y L I 
+V Z Z Z F W W P P I 
+V V V Z W W P P P I 
+Solution 108 :
+U U X T T T N Y L L 
+U X X X T N N Y L I 
+U U X Z T N Y Y L I 
+V Z Z Z F N W Y L I 
+V Z F F F W W P P I 
+V V V F W W P P P I 
+Solution 109 :
+U U X T T T F P P P 
+U X X X T F F F P P 
+U U X Z T F W W L L 
+V Z Z Z N N N W W L 
+V Z Y Y Y Y N N W L 
+V V V Y I I I I I L 
+Solution 110 :
+U U X T T T F P P P 
+U X X X T F F F P P 
+U U X Z T F L L L L 
+V Z Z Z N N N W W L 
+V Z Y Y Y Y N N W W 
+V V V Y I I I I I W 
+Solution 111 :
+U U X T T T F L L I 
+U X X X T F F F L I 
+U U X V T F N N L I 
+P Z Z V N N N W L I 
+P P Z V V V Y W W I 
+P P Z Z Y Y Y Y W W 
+Solution 112 :
+U U X T T T F F W W 
+U X X X T F F W W I 
+U U X N T Y F W V I 
+P Z Z N Y Y Y Y V I 
+P P Z N N L V V V I 
+P P Z Z N L L L L I 
+Solution 113 :
+U U X T T T F F W W 
+U X X X T F F W W I 
+U U X Y T Z F W L I 
+V Y Y Y Y Z Z Z L I 
+V N N N P P P Z L I 
+V V V N N P P L L I 
+Solution 114 :
+U U X T T T F F W W 
+U X X X T F F W W I 
+U U X V T Y F W L I 
+P Z Z V Y Y Y Y L I 
+P P Z V V V N N L I 
+P P Z Z N N N L L I 
+Solution 115 :
+U U X T T T F F W W 
+U X X X T F F W W N 
+U U X Y T Z F W N N 
+L Y Y Y Y Z Z Z N V 
+L L L L P P P Z N V 
+I I I I I P P V V V 
+Solution 116 :
+U U X T T T F F W W 
+U X X X T F F W W N 
+U U X L T Z F W N N 
+L L L L Y Z Z Z N V 
+P P P Y Y Y Y Z N V 
+P P I I I I I V V V 
+Solution 117 :
+U U X T T T F F W W 
+U X X X T F F W W P 
+U U X Z T Y F W P P 
+V Z Z Z Y Y Y Y P P 
+V Z N N I I I I I L 
+V V V N N N L L L L 
+Solution 118 :
+U U X T T T F F P P 
+U X X X T F F P P P 
+U U X Y T W F V V V 
+L Y Y Y Y W W Z Z V 
+L L L L N N W W Z V 
+I I I I I N N N Z Z 
+Solution 119 :
+U U X T T T F F P P 
+U X X X T F F P P P 
+U U X Z T W F N L L 
+V Z Z Z Y W W N N L 
+V Z Y Y Y Y W W N L 
+V V V I I I I I N L 
+Solution 120 :
+U U X T T T F F P P 
+U X X X T F F W P P 
+U U X Z T Y F W W P 
+V Z Z Z Y Y Y Y W W 
+V Z N N I I I I I L 
+V V V N N N L L L L 
+Solution 121 :
+U U X T T T F F P P 
+U X X X T F F N P P 
+U U X Z T W F N P L 
+V Z Z Z Y W W N N L 
+V Z Y Y Y Y W W N L 
+V V V I I I I I L L 
+Solution 122 :
+U U X T T T F L L I 
+U X X X T F F F L I 
+U U X Z T W W F L I 
+V Z Z Z P P W W L I 
+V Z N N P P P W Y I 
+V V V N N N Y Y Y Y 
+Solution 123 :
+U U X T T T F L L I 
+U X X X T F F F L I 
+U U X Z T W W F L I 
+V Z Z Z W W P P L I 
+V Z N N W P P P Y I 
+V V V N N N Y Y Y Y 
+Solution 124 :
+U U X T T T W W L L 
+U X X X T P P W W L 
+U U X Y T P P P W L 
+V Z Y Y Y Y N N F L 
+V Z Z Z N N N F F F 
+V V V Z I I I I I F 
+Solution 125 :
+U U X T T T W W F F 
+U X X X T W W F F Y 
+U U X L T W Z Z F Y 
+V V V L L L L Z Y Y 
+V P P P N N N Z Z Y 
+V P P N N I I I I I 
+Solution 126 :
+U U X T T T W W F F 
+U X X X T W W F F Y 
+U U X L T W Z Z F Y 
+V P P L L L L Z Y Y 
+V P P P N N N Z Z Y 
+V V V N N I I I I I 
+Solution 127 :
+U U X T T T W W P P 
+U X X X T W W P P P 
+U U X Y T W N V V V 
+L Y Y Y Y F N Z Z V 
+L L L L F F N N Z V 
+I I I I I F F N Z Z 
+Solution 128 :
+U U X T T T W W P P 
+U X X X T W W P P P 
+U U X Y T W F V V V 
+L Y Y Y Y F F Z Z V 
+L L L L N N F F Z V 
+I I I I I N N N Z Z 
+Solution 129 :
+U U X T T T W W P P 
+U X X X T W W P P P 
+U U X Y T W Z V V V 
+L Y Y Y Y F Z Z Z V 
+L L L L F F N N Z V 
+I I I I I F F N N N 
+Solution 130 :
+U U X T T T W W P P 
+U X X X T W W P P P 
+U U X Y T W L L L L 
+V Z Y Y Y Y N N F L 
+V Z Z Z N N N F F F 
+V V V Z I I I I I F 
+Solution 131 :
+U U X T T T W W P P 
+U X X X T W W P P P 
+U U X Z T W F N L L 
+V Z Z Z Y F F N N L 
+V Z Y Y Y Y F F N L 
+V V V I I I I I N L 
+Solution 132 :
+U U X T T T W W P P 
+U X X X T W W N P P 
+U U X Z T W F N P L 
+V Z Z Z Y F F N N L 
+V Z Y Y Y Y F F N L 
+V V V I I I I I L L 
+Solution 133 :
+U U X T T T W W P P 
+U X X X T W W F P P 
+U U X Y T W F F P V 
+N N Y Y Y Y Z F F V 
+L N N N Z Z Z V V V 
+L L L L Z I I I I I 
+Solution 134 :
+U U X T T T W W P P 
+U X X X T W W F P P 
+U U X Z T W F F P L 
+V Z Z Z N N Y F F L 
+V Z N N N Y Y Y Y L 
+V V V I I I I I L L 
+Solution 135 :
+U U X T T T W W P P 
+U X X X T W W F P P 
+U U X Z T W F F P L 
+V Z Z Z Y N N F F L 
+V Z Y Y Y Y N N N L 
+V V V I I I I I L L 
+Solution 136 :
+U U X T T T W W L L 
+U X X X T W W P P L 
+U U X Y T W P P P L 
+V Z Y Y Y Y N N F L 
+V Z Z Z N N N F F F 
+V V V Z I I I I I F 
+Solution 137 :
+U U X T T T Y Y Y Y 
+U X X X T V Z Y L L 
+U U X W T V Z Z Z L 
+P F F W W V V V Z L 
+P P F F W W N N N L 
+P P F I I I I I N N 
+Solution 138 :
+U U X T T T Y Y Y Y 
+U X X X T V Z Y L L 
+U U X W T V Z Z Z L 
+P P F W W V V V Z L 
+P P F F W W N N N L 
+P F F I I I I I N N 
+Solution 139 :
+U U X T T T Y P P P 
+U X X X T Y Y Z P P 
+U U X F T V Y Z Z Z 
+N N F F F V Y W W Z 
+L N N N F V V V W W 
+L L L L I I I I I W 
+Solution 140 :
+U U X T T T Y Y Y Y 
+U X X X T N W W Y L 
+U U X F T N N W W L 
+P P F F Z Z N V W L 
+P P P F F Z N V L L 
+I I I I I Z Z V V V 
+Solution 141 :
+U U X T T T Z V V V 
+U X X X T Y Z Z Z V 
+U U X F T Y N N Z V 
+P F F F W Y Y N N N 
+P P F W W Y L L L L 
+P P W W I I I I I L 
+Solution 142 :
+U U X T T T V V V I 
+U X X X T P P P V I 
+U U X F T W P P V I 
+N N F F F W W Z Z I 
+L N N N F Y W W Z I 
+L L L L Y Y Y Y Z Z 
+Solution 143 :
+U U X T T T P P V I 
+U X X X T P P P V I 
+U U X F T W V V V I 
+N N F F F W W Z Z I 
+L N N N F Y W W Z I 
+L L L L Y Y Y Y Z Z 
+Solution 144 :
+U U X T T T P L L I 
+U X X X T N P P L I 
+U U X F T N P P L I 
+V Z F F F N N W L I 
+V Z Z Z F Y N W W I 
+V V V Z Y Y Y Y W W 
+Solution 145 :
+U U X T T T P L L I 
+U X X X T N P P L I 
+U U X Z T N P P L I 
+V Z Z Z F N N W L I 
+V Z F F F Y N W W I 
+V V V F Y Y Y Y W W 
+Solution 146 :
+U U X T T T L L L L 
+U X X X T Y Y Y Y L 
+U U X F T W Y V V V 
+P P P F F W W Z Z V 
+P P F F N N W W Z V 
+I I I I I N N N Z Z 
+Solution 147 :
+U U X T T T L L L L 
+U X X X T V V V N L 
+U U X F T V Z Z N Y 
+P F F F W V Z N N Y 
+P P F W W Z Z N Y Y 
+P P W W I I I I I Y 
+Solution 148 :
+U U X T T T L L L L 
+U X X X T V V V F L 
+U U X W T V F F F Y 
+N N N W W V Z F Y Y 
+P P N N W W Z Z Z Y 
+P P P I I I I I Z Y 
+Solution 149 :
+U U X T T T L L L L 
+U X X X T V V V F L 
+U U X W T V F F F Y 
+P P P W W V Z F Y Y 
+P P N N W W Z Z Z Y 
+N N N I I I I I Z Y 
+Solution 150 :
+U U X T T T L L L L 
+U X X X T V V V Z L 
+U U X F T V Z Z Z Y 
+P F F F W V Z N N Y 
+P P F W W N N N Y Y 
+P P W W I I I I I Y 
+Solution 151 :
+U U X T T T L L L L 
+U X X X T V V V Z L 
+U U X W T V Z Z Z Y 
+N N N W W V Z F Y Y 
+P P N N W W F F F Y 
+P P P I I I I I F Y 
+Solution 152 :
+U U X T T T L L L L 
+U X X X T V V V Z L 
+U U X W T V Z Z Z Y 
+P P P W W V Z F Y Y 
+P P N N W W F F F Y 
+N N N I I I I I F Y 
+Solution 153 :
+U U X T T T L L L L 
+U X X X T P P P F L 
+U U X Z T P P F F F 
+V Z Z Z N N N W W F 
+V Z Y Y Y Y N N W W 
+V V V Y I I I I I W 
+Solution 154 :
+U U X T T T L L L L 
+U X X X T P P W W L 
+U U X Y T P P P W W 
+V Z Y Y Y Y N N F W 
+V Z Z Z N N N F F F 
+V V V Z I I I I I F 
+Solution 155 :
+U U X T T T L L L L 
+U X X X T W L V V V 
+U U X F T W W Z Z V 
+P P F F N N W W Z V 
+P P Y F F N N N Z Z 
+P Y Y Y Y I I I I I 
+Solution 156 :
+U U X W W I I I I I 
+U X X X W W F F L L 
+U U X N N W Y F F L 
+P N N N Z V Y F T L 
+P P Z Z Z V Y Y T L 
+P P Z V V V Y T T T 
+Solution 157 :
+U U X W W I I I I I 
+U X X X W W F F L L 
+U U X Z N W Y F F L 
+V Z Z Z N N Y F T L 
+V Z P P P N Y Y T L 
+V V V P P N Y T T T 
+Solution 158 :
+U U X W W I I I I I 
+U X X X W W F F L L 
+U U X Z P W Y F F L 
+V Z Z Z P P Y F T L 
+V Z N N P P Y Y T L 
+V V V N N N Y T T T 
+Solution 159 :
+U U X W W I I I I I 
+U X X X W W T T T N 
+U U X Z Z W F T N N 
+Y Y Y Y Z F F T N V 
+P P Y L Z Z F F N V 
+P P P L L L L V V V 
+Solution 160 :
+U U X W W I I I I I 
+U X X X W W T T T Y 
+U U X N N W L T Y Y 
+P N N N Z V L T F Y 
+P P Z Z Z V L F F Y 
+P P Z V V V L L F F 
+Solution 161 :
+U U X W W I I I I I 
+U X X X W W T T T Y 
+U U X Z N W L T Y Y 
+V Z Z Z N N L T F Y 
+V Z P P P N L F F Y 
+V V V P P N L L F F 
+Solution 162 :
+U U X W W I I I I I 
+U X X X W W T T T Y 
+U U X Z P W L T Y Y 
+V Z Z Z P P L T F Y 
+V Z N N P P L F F Y 
+V V V N N N L L F F 
+Solution 163 :
+U U X W W I I I I I 
+U X X X W W Y T T T 
+U U X N N W Y Y T L 
+P N N N Z V Y F T L 
+P P Z Z Z V Y F F L 
+P P Z V V V F F L L 
+Solution 164 :
+U U X W W I I I I I 
+U X X X W W Y T T T 
+U U X Z N W Y Y T L 
+V Z Z Z N N Y F T L 
+V Z P P P N Y F F L 
+V V V P P N F F L L 
+Solution 165 :
+U U X W W I I I I I 
+U X X X W W Y T T T 
+U U X Z P W Y Y T L 
+V Z Z Z P P Y F T L 
+V Z N N P P Y F F L 
+V V V N N N F F L L 
+Solution 166 :
+U U X W W I I I I I 
+U X X X W W Z Z F F 
+U U X P P W Z F F Y 
+V L P P P Z Z T F Y 
+V L L L L N N T Y Y 
+V V V N N N T T T Y 
+Solution 167 :
+U U X W W I I I I I 
+U X X X W W Z Z F F 
+U U X L V W Z F F Y 
+L L L L V Z Z T F Y 
+P P V V V N N T Y Y 
+P P P N N N T T T Y 
+Solution 168 :
+U U X W W I I I I I 
+U X X X W W Z Z F F 
+U U X L V W Z F F Y 
+L L L L V Z Z T F Y 
+P P N N V V V T Y Y 
+P P P N N N T T T Y 
+Solution 169 :
+U U X W W I I I I I 
+U X X X W W P P L L 
+U U X N N W P P P L 
+V V V Z N N N F T L 
+V Z Z Z Y F F F T L 
+V Z Y Y Y Y F T T T 
+Solution 170 :
+U U X W W I I I I I 
+U X X X W W L L F F 
+U U X N N W L F F Y 
+P N N N Z V L T F Y 
+P P Z Z Z V L T Y Y 
+P P Z V V V T T T Y 
+Solution 171 :
+U U X W W I I I I I 
+U X X X W W L L F F 
+U U X Z N W L F F Y 
+V Z Z Z N N L T F Y 
+V Z P P P N L T Y Y 
+V V V P P N T T T Y 
+Solution 172 :
+U U X W W I I I I I 
+U X X X W W L L F F 
+U U X Z P W L F F Y 
+V Z Z Z P P L T F Y 
+V Z N N P P L T Y Y 
+V V V N N N T T T Y 
+Solution 173 :
+U U X W W N N N L L 
+U X X X W W Y N N L 
+U U X F T W Y Z Z L 
+P F F F T Y Y V Z L 
+P P F T T T Y V Z Z 
+P P I I I I I V V V 
+Solution 174 :
+U U X W W F F T T T 
+U X X X W W F F T I 
+U U X V Z W F N T I 
+P P P V Z Z Z N N I 
+P P Y V V V Z L N I 
+Y Y Y Y L L L L N I 
+Solution 175 :
+U U X W W F F T T T 
+U X X X W W F F T Y 
+U U X P P W F Z T Y 
+V L P P P Z Z Z Y Y 
+V L L L L Z N N N Y 
+V V V I I I I I N N 
+Solution 176 :
+U U X W W F F T T T 
+U X X X W W F F T Y 
+U U X L V W F Z T Y 
+L L L L V Z Z Z Y Y 
+P P V V V Z N N N Y 
+P P P I I I I I N N 
+Solution 177 :
+U U X W W T T T N Y 
+U X X X W W T N N Y 
+U U X V Z W T N Y Y 
+P P P V Z Z Z N F Y 
+L P P V V V Z F F F 
+L L L L I I I I I F 
+Solution 178 :
+U U X W W T T T F F 
+U X X X W W T F F I 
+U U X V Z W T N F I 
+P P P V Z Z Z N N I 
+P P Y V V V Z L N I 
+Y Y Y Y L L L L N I 
+Solution 179 :
+U U X W W T T T F F 
+U X X X W W T F F Y 
+U U X P P W T Z F Y 
+V L P P P Z Z Z Y Y 
+V L L L L Z N N N Y 
+V V V I I I I I N N 
+Solution 180 :
+U U X W W T T T F F 
+U X X X W W T F F Y 
+U U X L V W T Z F Y 
+L L L L V Z Z Z Y Y 
+P P V V V Z N N N Y 
+P P P I I I I I N N 
+Solution 181 :
+U U X W W T T T Y I 
+U X X X W W T Y Y I 
+U U X N N W T F Y I 
+P N N N Z V F F Y I 
+P P Z Z Z V L F F I 
+P P Z V V V L L L L 
+Solution 182 :
+U U X W W T T T Y I 
+U X X X W W T Y Y I 
+U U X F F W T N Y I 
+V V V Z F F N N Y I 
+V Z Z Z F L N P P I 
+V Z L L L L N P P P 
+Solution 183 :
+U U X W W T T T Y I 
+U X X X W W T Y Y I 
+U U X Z N W T F Y I 
+V Z Z Z N N F F Y I 
+V Z P P P N L F F I 
+V V V P P N L L L L 
+Solution 184 :
+U U X W W T T T Y I 
+U X X X W W T Y Y I 
+U U X Z P W T F Y I 
+V Z Z Z P P F F Y I 
+V Z N N P P L F F I 
+V V V N N N L L L L 
+Solution 185 :
+U U X W W T T T P I 
+U X X X W W T P P I 
+U U X Z Z W T P P I 
+V V V Z Y Y Y Y F I 
+V L Z Z N N Y F F I 
+V L L L L N N N F F 
+Solution 186 :
+U U X W W Y Y Y Y I 
+U X X X W W Y F F I 
+U U X Z T W F F L I 
+V Z Z Z T T T F L I 
+V Z N N T P P P L I 
+V V V N N N P P L L 
+Solution 187 :
+U U X W W Y Y Y Y I 
+U X X X W W Y P P I 
+U U X Z Z W T P P I 
+V V V Z T T T P F I 
+V L Z Z N N T F F I 
+V L L L L N N N F F 
+Solution 188 :
+U U X W W Y Y Y Y N 
+U X X X W W Y F F N 
+U U X V Z W F F N N 
+P P P V Z Z Z F N T 
+L P P V V V Z T T T 
+L L L L I I I I I T 
+Solution 189 :
+U U X W W Y Y Y Y T 
+U X X X W W Y T T T 
+U U X F F W Z Z P T 
+L L L L F F Z V P P 
+L N N N F Z Z V P P 
+N N I I I I I V V V 
+Solution 190 :
+U U X W W Y Y Y Y T 
+U X X X W W Y T T T 
+U U X F F W Z Z P T 
+L L L L F F Z P P V 
+L N N N F Z Z P P V 
+N N I I I I I V V V 
+Solution 191 :
+U U X W W Y Y Y Y T 
+U X X X W W Y T T T 
+U U X F F W Z V N T 
+P P F F Z Z Z V N N 
+P P P F Z V V V L N 
+I I I I I L L L L N 
+Solution 192 :
+U U X W W Y Y Y Y T 
+U X X X W W Y T T T 
+U U X Z Z W F P P T 
+L L L L Z F F P P V 
+L N N N Z Z F F P V 
+N N I I I I I V V V 
+Solution 193 :
+U U X W W Y Y Y Y T 
+U X X X W W Y T T T 
+U U X Z Z W F F P T 
+L L L L Z F F V P P 
+L N N N Z Z F V P P 
+N N I I I I I V V V 
+Solution 194 :
+U U X W W Y Y Y Y T 
+U X X X W W Y T T T 
+U U X Z Z W F F P T 
+L L L L Z F F P P V 
+L N N N Z Z F P P V 
+N N I I I I I V V V 
+Solution 195 :
+U U X W W P P P N I 
+U X X X W W P P N I 
+U U X F F W Y N N I 
+V V V Z F F Y N T I 
+V Z Z Z F L Y Y T I 
+V Z L L L L Y T T T 
+Solution 196 :
+U U X W W L L L L I 
+U X X X W W F F L I 
+U U X N N W Y F F I 
+P N N N Z V Y F T I 
+P P Z Z Z V Y Y T I 
+P P Z V V V Y T T T 
+Solution 197 :
+U U X W W L L L L I 
+U X X X W W F F L I 
+U U X Z N W Y F F I 
+V Z Z Z N N Y F T I 
+V Z P P P N Y Y T I 
+V V V P P N Y T T T 
+Solution 198 :
+U U X W W L L L L I 
+U X X X W W F F L I 
+U U X Z P W Y F F I 
+V Z Z Z P P Y F T I 
+V Z N N P P Y Y T I 
+V V V N N N Y T T T 
+Solution 199 :
+U U X W W L L L L I 
+U X X X W W P P L I 
+U U X N N W P P P I 
+V V V Z N N N F T I 
+V Z Z Z Y F F F T I 
+V Z Y Y Y Y F T T T 
+Solution 200 :
+U U X W W L L T T T 
+U X X X W W L N T I 
+U U X P P W L N T I 
+V Z P P P F L N N I 
+V Z Z Z F F F Y N I 
+V V V Z F Y Y Y Y I 
+Solution 201 :
+U U X Y Y Y Y N N I 
+U X X X Y N N N F I 
+U U X Z Z W F F F I 
+V P P P Z W W F T I 
+V P P L Z Z W W T I 
+V V V L L L L T T T 
+Solution 202 :
+U U X Y Y Y Y N N I 
+U X X X Y N N N T I 
+U U X Z Z F T T T I 
+V V V Z F F F W T I 
+V L Z Z F P P W W I 
+V L L L L P P P W W 
+Solution 203 :
+U U X Y Y Y Y N N I 
+U X X X Y N N N T I 
+U U X Z Z F T T T I 
+V V V Z W F F F T I 
+V L Z Z W W F P P I 
+V L L L L W W P P P 
+Solution 204 :
+U U X Y Y Y Y N N I 
+U X X X Y N N N L I 
+U U X Z F L L L L I 
+V Z Z Z F F F W T I 
+V Z P P P F W W T I 
+V V V P P W W T T T 
+Solution 205 :
+U U X Y Y Y Y N L L 
+U X X X Y W W N N L 
+U U X V W W F F N L 
+P P T V W F F Z N L 
+P P T V V V F Z Z Z 
+P T T T I I I I I Z 
+Solution 206 :
+U U X Y Y Y Y F N I 
+U X X X Y F F F N I 
+U U X Z Z W F N N I 
+V P P P Z W W N T I 
+V P P L Z Z W W T I 
+V V V L L L L T T T 
+Solution 207 :
+U U X Y Y Y Y T T T 
+U X X X Y N N W T V 
+U U X N N N W W T V 
+P P Z Z F W W V V V 
+P P Z F F F L L L L 
+P Z Z F I I I I I L 
+Solution 208 :
+U U X Y Y Y Y T T T 
+U X X X Y N N L T I 
+U U X N N N F L T I 
+P Z Z W F F F L V I 
+P P Z W W F L L V I 
+P P Z Z W W V V V I 
+Solution 209 :
+U U X Y Y Y Y T T T 
+U X X X Y F N L T I 
+U U X F F F N L T I 
+P Z Z W F N N L V I 
+P P Z W W N L L V I 
+P P Z Z W W V V V I 
+Solution 210 :
+U U X Y Y Y Y T T T 
+U X X X Y W W N T I 
+U U X Z W W F N T I 
+V Z Z Z W F F N N I 
+V Z P P P L F F N I 
+V V V P P L L L L I 
+Solution 211 :
+U U X Y Y Y Y T T T 
+U X X X Y W W F T I 
+U U X N W W F F T I 
+P P P N W V Z F F I 
+L P P N N V Z Z Z I 
+L L L L N V V V Z I 
+Solution 212 :
+U U X Y Y Y Y T T T 
+U X X X Y W W F T I 
+U U X Z W W F F T I 
+V Z Z Z W N N F F I 
+V Z P P P L N N N I 
+V V V P P L L L L I 
+Solution 213 :
+U U X Y Y Y Y T T T 
+U X X X Y V V V T N 
+U U X Z Z W W V T N 
+P P P Z W W F V N N 
+P P Z Z W F F F N L 
+I I I I I F L L L L 
+Solution 214 :
+U U X Y Y Y Y W W I 
+U X X X Y F W W N I 
+U U X F F F W N N I 
+L L L L F Z V N T I 
+L P P Z Z Z V N T I 
+P P P Z V V V T T T 
+Solution 215 :
+U U X Y Y Y Y Z V I 
+U X X X Y Z Z Z V I 
+U U X N F Z V V V I 
+P P P N F F F W T I 
+L P P N N F W W T I 
+L L L L N W W T T T 
+Solution 216 :
+U U X Y Y Y Y Z V I 
+U X X X Y Z Z Z V I 
+U U X N N Z V V V I 
+P P P F N N N W T I 
+L P P F F F W W T I 
+L L L L F W W T T T 
+Solution 217 :
+U U X Y Y Y Y Z V I 
+U X X X Y Z Z Z V I 
+U U X N N Z V V V I 
+P P P W N N N F T I 
+L P P W W F F F T I 
+L L L L W W F T T T 
+Solution 218 :
+U U X Y Y Y Y V V V 
+U X X X Y F T V L I 
+U U X F F F T V L I 
+P Z Z W F T T T L I 
+P P Z W W N N L L I 
+P P Z Z W W N N N I 
+Solution 219 :
+U U X Y Y Y Y V V V 
+U X X X Y N N W T V 
+U U X N N N W W T V 
+P P Z Z F W W T T T 
+P P Z F F F L L L L 
+P Z Z F I I I I I L 
+Solution 220 :
+U U X Y Y Y Y V V V 
+U X X X Y W W Z Z V 
+U U X N N N W W Z V 
+P T T T F N N W Z Z 
+P P T F F F L L L L 
+P P T F I I I I I L 
+Solution 221 :
+U U X Y Y Y Y V V V 
+U X X X Y W W Z Z V 
+U U X F W W N T Z V 
+P P F F W N N T Z Z 
+P P P F F N T T T L 
+I I I I I N L L L L 
+Solution 222 :
+U U X Y Y Y Y V V V 
+U X X X Y Z Z W W V 
+U U X N N Z W W F V 
+T N N N Z Z W F F F 
+T T T L L L L F P P 
+T I I I I I L P P P 
+Solution 223 :
+U U X Y Y Y Y V V V 
+U X X X Y Z Z W W V 
+U U X N N Z W W F V 
+T N N N Z Z W F F F 
+T T T L L L L P P F 
+T I I I I I L P P P 
+Solution 224 :
+U U X Y Y Y Y P P P 
+U X X X Y Z F P P W 
+U U X Z Z Z F F W W 
+V V V Z L F F W W T 
+V L L L L N N T T T 
+V I I I I I N N N T 
+Solution 225 :
+U U X Y Y Y Y P P P 
+U X X X Y Z Z P P F 
+U U X N N Z W F F F 
+T N N N Z Z W W F V 
+T T T L L L L W W V 
+T I I I I I L V V V 
+Solution 226 :
+U U X Y Y Y Y P P P 
+U X X X Y W W F P P 
+U U X Z W W F F F T 
+V Z Z Z W L F T T T 
+V Z L L L L N N N T 
+V V V I I I I I N N 
+Solution 227 :
+U U X Y Y Y Y P P P 
+U X X X Y Z Z F P P 
+U U X N N Z W F F F 
+T N N N Z Z W W F V 
+T T T L L L L W W V 
+T I I I I I L V V V 
+Solution 228 :
+U U X Y Y Y Y T T T 
+U X X X W Y F F T I 
+U U X W W F F N T I 
+V Z W W P P F N N I 
+V Z Z Z P P P L N I 
+V V V Z L L L L N I 
+Solution 229 :
+U U X Y Y Y Y T T T 
+U X X X W Y F F T I 
+U U X W W F F N T I 
+P P W W V Z F N N I 
+P P P L V Z Z Z N I 
+L L L L V V V Z N I 
+Solution 230 :
+U U X Y Y Y Y T T T 
+U X X X L Y W W T I 
+U U X Z L W W F T I 
+V Z Z Z L W F F F I 
+V Z N N L L F P P I 
+V V V N N N P P P I 
+Solution 231 :
+U U X Y Y Y Y T T T 
+U X X X L Y W W T I 
+U U X Z L W W F T I 
+V Z Z Z L W F F F I 
+V Z N N L L P P F I 
+V V V N N N P P P I 
+Solution 232 :
+U U X Y Y Y Y V V V 
+U X X X W Y F Z Z V 
+U U X W W F F F Z V 
+P P W W T F N N Z Z 
+P P P L T T T N N N 
+L L L L T I I I I I 
+Solution 233 :
+U U X Y Y Y Y V V V 
+U X X X Z Y T T T V 
+U U X F Z Z Z T N V 
+P F F F W L Z T N N 
+P P F W W L L L L N 
+P P W W I I I I I N 
+Solution 234 :
+U U X Y Y Y Y P P I 
+U X X X F Y P P P I 
+U U X F F L L L L I 
+V V V Z F F T W L I 
+V Z Z Z N N T W W I 
+V Z N N N T T T W W 
+Solution 235 :
+U U X Y Y Y Y P P P 
+U X X X N Y L P P T 
+U U X F N N L T T T 
+V Z F F F N L W W T 
+V Z Z Z F N L L W W 
+V V V Z I I I I I W 
+Solution 236 :
+U U X Y Y Y Y P P P 
+U X X X N Y L P P T 
+U U X Z N N L T T T 
+V Z Z Z F N L W W T 
+V Z F F F N L L W W 
+V V V F I I I I I W 
+Solution 237 :
+U U X Y Y Y Y P P P 
+U X X X F Y L P P T 
+U U X F F F L T T T 
+V Z N N N F L W W T 
+V Z Z Z N N L L W W 
+V V V Z I I I I I W 
+Solution 238 :
+U U X Y Y Y Y P P L 
+U X X X W Y F P P L 
+U U X W W F F F P L 
+V Z W W T F N N L L 
+V Z Z Z T T T N N N 
+V V V Z T I I I I I 
+Solution 239 :
+U U X Y Y Y Y L L I 
+U X X X F Y P P L I 
+U U X F F P P P L I 
+V V V Z F F T W L I 
+V Z Z Z N N T W W I 
+V Z N N N T T T W W 
+Solution 240 :
+U U X Z Z I I I I I 
+U X X X Z W W T T T 
+U U X Y Z Z W W T L 
+V Y Y Y Y F F W T L 
+V N N N F F P P P L 
+V V V N N F P P L L 
+Solution 241 :
+U U X Z Z I I I I I 
+U X X X Z Y Y Y Y N 
+U U X W Z Z Y T N N 
+P F F W W T T T N V 
+P P F F W W L T N V 
+P P F L L L L V V V 
+Solution 242 :
+U U X Z Z I I I I I 
+U X X X Z Y Y Y Y N 
+U U X W Z Z Y T N N 
+P P F W W T T T N V 
+P P F F W W L T N V 
+P F F L L L L V V V 
+Solution 243 :
+U U X Z Z F Y Y Y Y 
+U X X X Z F F F Y T 
+U U X V Z Z F T T T 
+P P P V N N N W W T 
+L P P V V V N N W W 
+L L L L I I I I I W 
+Solution 244 :
+U U X Z Z W Y Y Y Y 
+U X X X Z W W Y V I 
+U U X F Z Z W W V I 
+N N F F F T V V V I 
+L N N N F T P P P I 
+L L L L T T T P P I 
+Solution 245 :
+U U X Z Z W L L L L 
+U X X X Z W W F F L 
+U U X T Z Z W W F F 
+P P P T Y Y Y Y F V 
+P P T T T Y N N N V 
+I I I I I N N V V V 
+Solution 246 :
+U U X Z Z Y Y Y Y N 
+U X X X Z W W Y N N 
+U U X F Z Z W W N V 
+P P F F T T T W N V 
+P P P F F T L V V V 
+I I I I I T L L L L 
+Solution 247 :
+U U X Z Z P P P F F 
+U X X X Z P P F F V 
+U U X Y Z Z W W F V 
+T Y Y Y Y W W V V V 
+T T T N N W L L L L 
+T N N N I I I I I L 
+Solution 248 :
+U U X Z Z P P P W W 
+U X X X Z P P W W N 
+U U X Y Z Z F W N N 
+T Y Y Y Y F F F N V 
+T T T L L L L F N V 
+T I I I I I L V V V 
+Solution 249 :
+U U X Z Z P P V V V 
+U X X X Z P P V Y I 
+U U X F Z Z P V Y I 
+N N F F F T W Y Y I 
+L N N N F T W W Y I 
+L L L L T T T W W I 
+Solution 250 :
+U U X Z Z P P T T T 
+U X X X Z P P P T I 
+U U X Y Z Z W F T I 
+V Y Y Y Y W W F F I 
+V N N N W W F F L I 
+V V V N N L L L L I 
+Solution 251 :
+U U X Z Z P P T T T 
+U X X X Z P P P T L 
+U U X Y Z Z W F T L 
+V Y Y Y Y W W F F L 
+V N N N W W F F L L 
+V V V N N I I I I I 
+Solution 252 :
+U U X Z Z L L L L N 
+U X X X Z V V V L N 
+U U X F Z Z W V N N 
+P P P F F W W V N T 
+P P F F W W Y T T T 
+I I I I I Y Y Y Y T 
+Solution 253 :
+U U X Z Z L L L L F 
+U X X X Z L W F F F 
+U U X V Z Z W W F Y 
+P P T V N N N W W Y 
+P P T V V V N N Y Y 
+P T T T I I I I I Y 
+Solution 254 :
+U U X V V V N L L I 
+U X X X F V N N L I 
+U U X F F V T N L I 
+P Z Z W F F T N L I 
+P P Z W W T T T Y I 
+P P Z Z W W Y Y Y Y 
+Solution 255 :
+U U X V V V T T T I 
+U X X X F V L T N I 
+U U X F F V L T N I 
+P Z Z W F F L N N I 
+P P Z W W L L N Y I 
+P P Z Z W W Y Y Y Y 
+Solution 256 :
+U U X V V V Y Y Y Y 
+U X X X N V Z Y L L 
+U U X F N V Z Z Z L 
+P P F F N N T W Z L 
+P P P F F N T W W L 
+I I I I I T T T W W 
+Solution 257 :
+U U X V V V Y Y Y Y 
+U X X X F V Z Y L L 
+U U X F F V Z Z Z L 
+P P N N F F T W Z L 
+P P P N N N T W W L 
+I I I I I T T T W W 
+Solution 258 :
+U U X V V V Y Y Y Y 
+U X X X N V W W Y I 
+U U X N N V F W W I 
+P Z Z N T F F F W I 
+P P Z N T T T F L I 
+P P Z Z T L L L L I 
+Solution 259 :
+U U X V V V Y Y Y Y 
+U X X X N V W W Y L 
+U U X N N V F W W L 
+P Z Z N T F F F W L 
+P P Z N T T T F L L 
+P P Z Z T I I I I I 
+Solution 260 :
+U U X V V V Y Y Y Y 
+U X X X F V L N Y I 
+U U X F F V L N N I 
+P Z Z W F F L T N I 
+P P Z W W L L T N I 
+P P Z Z W W T T T I 
+Solution 261 :
+U U X V V V Y Y Y Y 
+U X X X L V Z Z Y T 
+U U X F L V Z T T T 
+P F F F L Z Z W W T 
+P P F L L N N N W W 
+P P I I I I I N N W 
+Solution 262 :
+U U X V V V P P P Y 
+U X X X W V P P Y Y 
+U U X W W V F Z Z Y 
+N N W W T F F F Z Y 
+L N N N T T T F Z Z 
+L L L L T I I I I I 
+Solution 263 :
+U U X V V V L L W W 
+U X X X F V L W W Y 
+U U X F F V L W Y Y 
+T N N N F F L Z Z Y 
+T T T N N P P P Z Y 
+T I I I I I P P Z Z 
+Solution 264 :
+U U X V V V L L L L 
+U X X X F V L W W Y 
+U U X F F V W W Y Y 
+T N N N F F W Z Z Y 
+T T T N N P P P Z Y 
+T I I I I I P P Z Z 
+Solution 265 :
+U U X P P P T T T I 
+U X X X P P W T N I 
+U U X Z Z W W T N I 
+V V V Z W W F N N I 
+V L Z Z F F F N Y I 
+V L L L L F Y Y Y Y 
+Solution 266 :
+U U X P P P T V V V 
+U X X X P P T T T V 
+U U X N N F T W W V 
+L N N N F F F Z W W 
+L L L L F Z Z Z Y W 
+I I I I I Z Y Y Y Y 
+Solution 267 :
+U U X P P P T V V V 
+U X X X P P T T T V 
+U U X N N Z T W W V 
+L N N N F Z Z Z W W 
+L L L L F F F Z Y W 
+I I I I I F Y Y Y Y 
+Solution 268 :
+U U X P P P Y Y Y Y 
+U X X X P P N Y W W 
+U U X T T T N W W L 
+V V V Z T N N W F L 
+V Z Z Z T N F F F L 
+V Z I I I I I F L L 
+Solution 269 :
+U U X P P P Y Y Y Y 
+U X X X P P W W Y I 
+U U X N N N F W W I 
+V Z N N T F F F W I 
+V Z Z Z T T T F L I 
+V V V Z T L L L L I 
+Solution 270 :
+U U X P P P Y Y Y Y 
+U X X X P P W W Y L 
+U U X N N N F W W L 
+V Z N N T F F F W L 
+V Z Z Z T T T F L L 
+V V V Z T I I I I I 
+Solution 271 :
+U U X P P P Y Y Y Y 
+U X X X P P W W Y L 
+U U X T T T F W W L 
+V V V Z T F F F W L 
+V Z Z Z T F N N L L 
+V Z I I I I I N N N 
+Solution 272 :
+U U X P P P Y Y Y Y 
+U X X X P P W N Y I 
+U U X Z Z W W N N I 
+V V V Z W W F T N I 
+V L Z Z F F F T N I 
+V L L L L F T T T I 
+Solution 273 :
+U U X P P P Y Y Y Y 
+U X X X P P W F Y I 
+U U X Z Z W W F F I 
+V V V Z W W F F T I 
+V L Z Z N N T T T I 
+V L L L L N N N T I 
+Solution 274 :
+U U X P P P V V V T 
+U X X X P P V T T T 
+U U X N N F V W W T 
+L N N N F F F Z W W 
+L L L L F Z Z Z Y W 
+I I I I I Z Y Y Y Y 
+Solution 275 :
+U U X P P P V V V T 
+U X X X P P V T T T 
+U U X N N Z V W W T 
+L N N N F Z Z Z W W 
+L L L L F F F Z Y W 
+I I I I I F Y Y Y Y 
+Solution 276 :
+U U X P P P L L L L 
+U X X X P P L V V V 
+U U X N N W F Z Z V 
+T N N N W W F F Z V 
+T T T W W F F Y Z Z 
+T I I I I I Y Y Y Y 
+Solution 277 :
+U U X P P P L L L L 
+U X X X P P L V V V 
+U U X N N W Z Z F V 
+T N N N W W Z F F V 
+T T T W W Z Z Y F F 
+T I I I I I Y Y Y Y 
+Solution 278 :
+U U X P P P L L L L 
+U X X X P P L V V V 
+U U X W W F F Z Z V 
+T N N N W W F F Z V 
+T T T N N W F Y Z Z 
+T I I I I I Y Y Y Y 
+Solution 279 :
+U U X L L L L T T T 
+U X X X F F L N T Y 
+U U X F F V N N T Y 
+P P Z Z F V N W Y Y 
+P P Z V V V N W W Y 
+P Z Z I I I I I W W 
+Solution 280 :
+U U X L L L L T T T 
+U X X X W W L N T I 
+U U X P P W W N T I 
+V Z P P P F W N N I 
+V Z Z Z F F F Y N I 
+V V V Z F Y Y Y Y I 
+Solution 281 :
+U U X L L L L V V V 
+U X X X F F L Z N V 
+U U X F F Z Z Z N V 
+P P P Y F Z T W N N 
+P P Y Y Y Y T W W N 
+I I I I I T T T W W 
+Solution 282 :
+U U X L L L L V V V 
+U X X X W W L T N V 
+U U X W W T T T N V 
+P F F W Z Z Y T N N 
+P P F F Z Y Y Y Y N 
+P P F Z Z I I I I I 
+Solution 283 :
+U U X L L L L V V V 
+U X X X W W L T N V 
+U U X W W T T T N V 
+P Z Z W F F Y T N N 
+P P Z F F Y Y Y Y N 
+P P Z Z F I I I I I 
+Solution 284 :
+U U X L L L L V V V 
+U X X X W W L T N V 
+U U X W W T T T N V 
+P P F W Z Z Y T N N 
+P P F F Z Y Y Y Y N 
+P F F Z Z I I I I I 
+Solution 285 :
+U U X L L L L P P P 
+U X X X F W L P P T 
+U U X F F W W T T T 
+V V V Z F F W W Y T 
+V Z Z Z N N Y Y Y Y 
+V Z N N N I I I I I 
+Solution 286 :
+U U X L L L L P P P 
+U X X X Z Z L P P I 
+U U X N N Z V V V I 
+T N N N W Z Z F V I 
+T T T Y W W F F V I 
+T Y Y Y Y W W F F I 
+Solution 287 :
+U U X L L I I I I I 
+U X X X L W W T T T 
+U U X Z L F W W T Y 
+V Z Z Z L F F W T Y 
+V Z N N F F P P Y Y 
+V V V N N N P P P Y 
+Solution 288 :
+U U X L L I I I I I 
+U X X X L Y Y Y Y T 
+U U X Z L F Y T T T 
+V Z Z Z L F F W W T 
+V Z N N F F P P W W 
+V V V N N N P P P W 
+Solution 289 :
+U U X L L I I I I I 
+U X X X L Y Y Y Y T 
+U U X Z L F Y T T T 
+V Z Z Z L F F W W T 
+V Z N N F F W W P P 
+V V V N N N W P P P 
+Solution 290 :
+U U X L L W P P P I 
+U X X X L W W P P I 
+U U X Z L T W W F I 
+V Z Z Z L T F F F I 
+V Z N N T T T F Y I 
+V V V N N N Y Y Y Y 
+Solution 291 :
+U U X L L W P P P N 
+U X X X L W W P P N 
+U U X Z L F W W N N 
+V Z Z Z L F F F N T 
+V Z Y Y Y Y F T T T 
+V V V Y I I I I I T 
+Solution 292 :
+U U X L L P P P W I 
+U X X X L P P W W I 
+U U X Z L T W W F I 
+V Z Z Z L T F F F I 
+V Z N N T T T F Y I 
+V V V N N N Y Y Y Y 
+Solution 293 :
+U U X L L P P P W N 
+U X X X L P P W W N 
+U U X Z L F W W N N 
+V Z Z Z L F F F N T 
+V Z Y Y Y Y F T T T 
+V V V Y I I I I I T 
+Solution 294 :
+U U I I I I I X L L 
+U T T T W W X X X L 
+U U T W W F F X N L 
+V Z T W P P F F N L 
+V Z Z Z P P F Y N N 
+V V V Z P Y Y Y Y N 
+Solution 295 :
+U U I I I I I X L L 
+U T T T P W X X X L 
+U U T P P W W X N L 
+V Z T P P F W W N L 
+V Z Z Z F F F Y N N 
+V V V Z F Y Y Y Y N 
+Solution 296 :
+U U I I I I I N L L 
+U W W T T T X N N L 
+U U W W T X X X N L 
+V V V W T F X Z N L 
+V P P F F F Y Z Z Z 
+V P P P F Y Y Y Y Z 
+Solution 297 :
+U U I I I I I P P P 
+U F F Y Y Y Y P P N 
+U U F F X Y T T T N 
+V Z F X X X W T N N 
+V Z Z Z X W W T N L 
+V V V Z W W L L L L 
+Solution 298 :
+U U I I I I I P P P 
+U T T T W W F P P Y 
+U U T W W X F F F Y 
+V Z T W X X X F Y Y 
+V Z Z Z L X N N N Y 
+V V V Z L L L L N N 
+Solution 299 :
+U U I I I I I P P P 
+U T T T N N N X P P 
+U U T N N W X X X Y 
+V Z T F F W W X Y Y 
+V Z Z Z F F W W L Y 
+V V V Z F L L L L Y 
+Solution 300 :
+U U I I I I I P P P 
+U L L L L Z Z F P P 
+U U W W L Z F F F T 
+V W W X Z Z F T T T 
+V W X X X N N N Y T 
+V V V X N N Y Y Y Y 
+Solution 301 :
+U U I I I I I P P P 
+U L L L L Z Z F P P 
+U U W W L Z F F F T 
+V W W X Z Z F T T T 
+V W X X X Y N N N T 
+V V V X Y Y Y Y N N 
+Solution 302 :
+U U N N N X Y Y Y Y 
+U N N W X X X F Y V 
+U U Z W W X F F F V 
+Z Z Z T W W F V V V 
+Z P P T T T L L L L 
+P P P T I I I I I L 
+Solution 303 :
+U U N N N X V V V I 
+U N N F X X X L V I 
+U U F F F X Z L V I 
+P P F W Z Z Z L T I 
+P P W W Z Y L L T I 
+P W W Y Y Y Y T T T 
+Solution 304 :
+U U N N N X V V V I 
+U N N Y X X X W V I 
+U U Y Y L X W W V I 
+P Z Z Y L W W F T I 
+P P Z Y L F F F T I 
+P P Z Z L L F T T T 
+Solution 305 :
+U U N N N X L L L L 
+U N N F X X X W W L 
+U U F F F X W W P P 
+V Z F T T T W Y P P 
+V Z Z Z T Y Y Y Y P 
+V V V Z T I I I I I 
+Solution 306 :
+U U N N N X L L L L 
+U N N W X X X P P L 
+U U F W W X Z P P P 
+T F F F W W Z Z Z V 
+T T T F Y Y Y Y Z V 
+T I I I I I Y V V V 
+Solution 307 :
+U U N N N X L L L L 
+U N N W X X X P P L 
+U U W W F X Z P P P 
+T W W F F F Z Z Z V 
+T T T F Y Y Y Y Z V 
+T I I I I I Y V V V 
+Solution 308 :
+U U N N N X L L L L 
+U N N Y X X X W F L 
+U U Y Y V X W W F F 
+P Z Z Y V W W F F T 
+P P Z Y V V V T T T 
+P P Z Z I I I I I T 
+Solution 309 :
+U U N N N I I I I I 
+U N N X W W Y Y Y Y 
+U U X X X W W Y L L 
+P P T X F F W Z V L 
+P P T F F Z Z Z V L 
+P T T T F Z V V V L 
+Solution 310 :
+U U N N N I I I I I 
+U N N X Y Y Y Y Z Z 
+U U X X X Y W W Z V 
+P F F X T W W Z Z V 
+P P F F T W L V V V 
+P P F T T T L L L L 
+Solution 311 :
+U U N N N I I I I I 
+U N N X Y Y Y Y Z Z 
+U U X X X Y W W Z V 
+P P F X T W W Z Z V 
+P P F F T W L V V V 
+P F F T T T L L L L 
+Solution 312 :
+U U N N N I I I I I 
+U N N X Y Y Y Y Z Z 
+U U X X X Y W W Z V 
+P P T X F W W Z Z V 
+P P T F F W L V V V 
+P T T T F F L L L L 
+Solution 313 :
+U U N N N I I I I I 
+U N N F F Y Y Y Y T 
+U U W W F F Y T T T 
+V W W X F Z Z P P T 
+V W X X X Z P P P L 
+V V V X Z Z L L L L 
+Solution 314 :
+U U N N N I I I I I 
+U N N F F Y Y Y Y T 
+U U W W F F Y T T T 
+V W W X F Z Z P P T 
+V W X X X Z L P P P 
+V V V X Z Z L L L L 
+Solution 315 :
+U U N N N I I I I I 
+U N N F F Y Y Y Y P 
+U U W W F F Y T P P 
+V W W X F Z Z T P P 
+V W X X X Z T T T L 
+V V V X Z Z L L L L 
+Solution 316 :
+U U N N N I I I I I 
+U N N T T T L L L L 
+U U W W T Y Y Y Y L 
+V W W X T F Y Z Z P 
+V W X X X F F Z P P 
+V V V X F F Z Z P P 
+Solution 317 :
+U U N N N I I I I I 
+U N N T T T L L L L 
+U U W W T Y Y Y Y L 
+V W W F T X Y Z Z P 
+V W F F X X X Z P P 
+V V V F F X Z Z P P 
+Solution 318 :
+U U N N N I I I I I 
+U N N W W X Y Y Y Y 
+U U W W X X X Y T L 
+V Z W F F X T T T L 
+V Z Z Z F F P P T L 
+V V V Z F P P P L L 
+Solution 319 :
+U U N N N I I I I I 
+U N N W W X Y Y Y Y 
+U U W W X X X Y P L 
+V Z W F F X T P P L 
+V Z Z Z F F T P P L 
+V V V Z F T T T L L 
+Solution 320 :
+U U N N N I I I I I 
+U N N W W X Y Y Y Y 
+U U W W X X X Y L L 
+V Z W F F X T P P L 
+V Z Z Z F F T P P L 
+V V V Z F T T T P L 
+Solution 321 :
+U U N N N I I I I I 
+U N N W W X Y Y Y Y 
+U U W W X X X P Y L 
+V Z W F F X T P P L 
+V Z Z Z F F T P P L 
+V V V Z F T T T L L 
+Solution 322 :
+U U N N N I I I I I 
+U N N W W X L L L L 
+U U W W X X X P P L 
+V Z W F F X P P P T 
+V Z Z Z F F Y T T T 
+V V V Z F Y Y Y Y T 
+Solution 323 :
+U U N N N I I I I I 
+U N N P P P L L L L 
+U U Z P P X L T T T 
+Z Z Z F X X X W T V 
+Z Y F F F X W W T V 
+Y Y Y Y F W W V V V 
+Solution 324 :
+U U N N N I I I I I 
+U N N P P P L L L L 
+U U Z P P X L V V V 
+Z Z Z F X X X W T V 
+Z Y F F F X W W T V 
+Y Y Y Y F W W T T T 
+Solution 325 :
+U U N N N F L L L L 
+U N N X F F L Z Z I 
+U U X X X F F Z Y I 
+V V V X T W Z Z Y I 
+V P P P T W W Y Y I 
+V P P T T T W W Y I 
+Solution 326 :
+U U N N N F L L L L 
+U N N X F F L Z Z I 
+U U X X X F F Z Y I 
+V P P X T W Z Z Y I 
+V P P P T W W Y Y I 
+V V V T T T W W Y I 
+Solution 327 :
+U U N N N F L L L L 
+U N N W F F L V V V 
+U U W W X F F Z Z V 
+T W W X X X P P Z V 
+T T T Y X P P P Z Z 
+T Y Y Y Y I I I I I 
+Solution 328 :
+U U N N N F F P P I 
+U N N W F F P P P I 
+U U W W X F Z Z L I 
+T W W X X X Z V L I 
+T T T Y X Z Z V L I 
+T Y Y Y Y V V V L L 
+Solution 329 :
+U U N N N T V V V F 
+U N N T T T V F F F 
+U U Z Z W T V X F Y 
+P P P Z W W X X X Y 
+L P P Z Z W W X Y Y 
+L L L L I I I I I Y 
+Solution 330 :
+U U N N N W W T T T 
+U N N X F F W W T I 
+U U X X X F F W T I 
+V V V X Y F Z Z P I 
+V L Y Y Y Y Z P P I 
+V L L L L Z Z P P I 
+Solution 331 :
+U U N N N W W T T T 
+U N N X F F W W T I 
+U U X X X F F W T I 
+P Z Z X Y F V V V I 
+P P Z Y Y Y Y L V I 
+P P Z Z L L L L V I 
+Solution 332 :
+U U N N N W W T T T 
+U N N F F X W W T I 
+U U F F X X X W T I 
+V V V F Y X Z Z P I 
+V L Y Y Y Y Z P P I 
+V L L L L Z Z P P I 
+Solution 333 :
+U U N N N W W T T T 
+U N N F F X W W T I 
+U U F F X X X W T I 
+P Z Z F Y X V V V I 
+P P Z Y Y Y Y L V I 
+P P Z Z L L L L V I 
+Solution 334 :
+U U N N N Y Y Y Y F 
+U N N T T T Y F F F 
+U U Z V T P P P F W 
+Z Z Z V T X P P W W 
+Z V V V X X X W W L 
+I I I I I X L L L L 
+Solution 335 :
+U U N N N Y Y Y Y F 
+U N N T T T Y F F F 
+U U Z V T P P P F L 
+Z Z Z V T X P P W L 
+Z V V V X X X W W L 
+I I I I I X W W L L 
+Solution 336 :
+U U N N N Y Y Y Y T 
+U N N W W X Y T T T 
+U U W W X X X P P T 
+V Z W F F X P P P L 
+V Z Z Z F F L L L L 
+V V V Z F I I I I I 
+Solution 337 :
+U U N N N Y Y Y Y T 
+U N N W W X Y T T T 
+U U W W X X X P P T 
+V Z W F F X L P P P 
+V Z Z Z F F L L L L 
+V V V Z F I I I I I 
+Solution 338 :
+U U N N N Y Y Y Y P 
+U N N W W X Y T P P 
+U U W W X X X T P P 
+V Z W F F X T T T L 
+V Z Z Z F F L L L L 
+V V V Z F I I I I I 
+Solution 339 :
+U U N N N Y L L L L 
+U N N X Y Y Y Y F L 
+U U X X X W Z Z F F 
+V V V X W W Z F F T 
+V P P W W Z Z T T T 
+V P P P I I I I I T 
+Solution 340 :
+U U N N N Z F V V V 
+U N N Z Z Z F F F V 
+U U X Z T T T F Y V 
+P X X X W T Y Y Y Y 
+P P X W W T L L L L 
+P P W W I I I I I L 
+Solution 341 :
+U U N N N Z Y Y Y Y 
+U N N F F Z Z Z Y I 
+U U W W F F P Z L I 
+V W W X F T P P L I 
+V W X X X T P P L I 
+V V V X T T T L L I 
+Solution 342 :
+U U N N N V V V P P 
+U N N Y Y Y Y V P P 
+U U F Z Z Y X V P W 
+T F F F Z X X X W W 
+T T T F Z Z X W W L 
+T I I I I I L L L L 
+Solution 343 :
+U U N N N V V V P P 
+U N N Y Y Y Y V P P 
+U U F Z Z Y X V P L 
+T F F F Z X X X W L 
+T T T F Z Z X W W L 
+T I I I I I W W L L 
+Solution 344 :
+U U N N N V V V L L 
+U N N W F Z Z V L I 
+U U W W F F Z V L I 
+T W W F F X Z Z L I 
+T T T Y X X X P P I 
+T Y Y Y Y X P P P I 
+Solution 345 :
+U U N N N V V V L L 
+U N N W Z Z F V L I 
+U U W W Z F F V L I 
+T W W Z Z X F F L I 
+T T T Y X X X P P I 
+T Y Y Y Y X P P P I 
+Solution 346 :
+U U N N N P P T T T 
+U N N X P P P Z T Y 
+U U X X X Z Z Z T Y 
+V V V X L Z F W Y Y 
+V L L L L F F W W Y 
+V I I I I I F F W W 
+Solution 347 :
+U U N N N P P V V V 
+U N N F P P P W W V 
+U U Z F F F W W X V 
+Z Z Z Y F T W X X X 
+Z Y Y Y Y T T T X L 
+I I I I I T L L L L 
+Solution 348 :
+U U N N N L L L L I 
+U N N F F L V V V I 
+U U F F Y Y Y Y V I 
+P Z Z F X Y T W V I 
+P P Z X X X T W W I 
+P P Z Z X T T T W W 
+Solution 349 :
+U U N N I I I I I T 
+U F F N N N Y T T T 
+U U F F X Y Y Y Y T 
+V Z F X X X W P P P 
+V Z Z Z X W W P P L 
+V V V Z W W L L L L 
+Solution 350 :
+U U N N I I I I I T 
+U W W N N N Y T T T 
+U U W W Y Y Y Y X T 
+V V V W Z Z F X X X 
+V P P P Z F F F X L 
+V P P Z Z F L L L L 
+Solution 351 :
+U U N N I I I I I T 
+U W W N N N Y T T T 
+U U W W Y Y Y Y X T 
+V P P W Z Z F X X X 
+V P P P Z F F F X L 
+V V V Z Z F L L L L 
+Solution 352 :
+U U N N I I I I I L 
+U F F N N N L L L L 
+U U F F X T T T W W 
+V Z F X X X T W W P 
+V Z Z Z X Y T W P P 
+V V V Z Y Y Y Y P P 
+Solution 353 :
+U U N N I I I I I L 
+U F F N N N L L L L 
+U U F F X T T T P P 
+V Z F X X X T W P P 
+V Z Z Z X Y T W W P 
+V V V Z Y Y Y Y W W 
+Solution 354 :
+U U N N I I I I I L 
+U W W N N N L L L L 
+U U W W Z Z X V V V 
+P P T W Z X X X F V 
+P P T Z Z Y X F F V 
+P T T T Y Y Y Y F F 
+Solution 355 :
+U U N N Y Y Y Y L L 
+U F F N N N Y T L I 
+U U F F X T T T L I 
+V Z F X X X W T L I 
+V Z Z Z X W W P P I 
+V V V Z W W P P P I 
+Solution 356 :
+U U N N N I I I I I 
+U T T T N N Z Z F F 
+U U T V V V Z F F L 
+P P T V W Z Z X F L 
+P P Y V W W X X X L 
+P Y Y Y Y W W X L L 
+Solution 357 :
+U U N N N I I I I I 
+U P P P N N X T T T 
+U U P P W X X X T L 
+V V V Z W W X F T L 
+V Z Z Z Y W W F F L 
+V Z Y Y Y Y F F L L 
+Solution 358 :
+U U N N N W W T T T 
+U Z Z F N N W W T I 
+U U Z F F F X W T I 
+V L Z Z F X X X P I 
+V L L L L Y X P P I 
+V V V Y Y Y Y P P I 
+Solution 359 :
+U U F I I I I I N L 
+U F F T T T W W N L 
+U U F F T W W N N L 
+V V V Z T W X N L L 
+V Z Z Z Y X X X P P 
+V Z Y Y Y Y X P P P 
+Solution 360 :
+U U F I I I I I Z Z 
+U F F T T T W W Z V 
+U U F F T W W Z Z V 
+Y Y Y Y T W X V V V 
+L Y N N N X X X P P 
+L L L L N N X P P P 
+Solution 361 :
+U U F I I I I I Z Z 
+U F F T T T W W Z V 
+U U F F T W W Z Z V 
+L L L L T W X V V V 
+L N N N Y X X X P P 
+N N Y Y Y Y X P P P 
+Solution 362 :
+U U F I I I I I Z Z 
+U F F T T T W W Z V 
+U U F F T W W Z Z V 
+L L L L T W X V V V 
+L Y N N N X X X P P 
+Y Y Y Y N N X P P P 
+Solution 363 :
+U U F I I I I I P P 
+U F F Y Y Y Y W P P 
+U U F F T Y W W X P 
+V Z T T T W W X X X 
+V Z Z Z T N N N X L 
+V V V Z N N L L L L 
+Solution 364 :
+U U F N N N Y Y Y Y 
+U F F Z Z N N T Y I 
+U U F F Z T T T L I 
+V V V W Z Z X T L I 
+V P P W W X X X L I 
+V P P P W W X L L I 
+Solution 365 :
+U U F Z I I I I I N 
+U F F Z Z Z P P N N 
+U U F F W Z P P N Y 
+V V V W W X P T N Y 
+V L W W X X X T Y Y 
+V L L L L X T T T Y 
+Solution 366 :
+U U F Z I I I I I Y 
+U F F Z Z Z P P Y Y 
+U U F F W Z P P N Y 
+V V V W W X P T N Y 
+V L W W X X X T N N 
+V L L L L X T T T N 
+Solution 367 :
+U U F Z V V V T T T 
+U F F Z Z Z V Y T N 
+U U F F W Z V Y T N 
+P P P W W X Y Y N N 
+P P W W X X X Y N L 
+I I I I I X L L L L 
+Solution 368 :
+U U F P P W Y Y Y Y 
+U F F P P W W Y Z Z 
+U U F F P X W W Z V 
+T N N N X X X Z Z V 
+T T T N N X L V V V 
+T I I I I I L L L L 
+Solution 369 :
+U U F F T T T P P P 
+U Z Z F F T W W P P 
+U U Z F Y T X W W V 
+N N Z Z Y X X X W V 
+L N N N Y Y X V V V 
+L L L L Y I I I I I 
+Solution 370 :
+U U F F Y Y Y Y W W 
+U Z Z F F X Y W W I 
+U U Z F X X X W T I 
+P P Z Z V X T T T I 
+P P P L V N N N T I 
+L L L L V V V N N I 
+Solution 371 :
+U U F F X I I I I I 
+U F F X X X N N N Y 
+U U F T X N N W W Y 
+V V V T Z Z W W Y Y 
+V L T T T Z W P P Y 
+V L L L L Z Z P P P 
+Solution 372 :
+U U F F X I I I I I 
+U F F X X X T T T P 
+U U F Z X W W T P P 
+V Z Z Z W W Y T P P 
+V Z N N W Y Y Y Y L 
+V V V N N N L L L L 
+Solution 373 :
+U U F F X I I I I I 
+U F F X X X W Z Z N 
+U U F T X W W Z N N 
+P T T T W W Z Z N V 
+P P L T Y Y Y Y N V 
+P P L L L L Y V V V 
+Solution 374 :
+U U F F X I I I I I 
+U F F X X X W Z Z Y 
+U U F V X W W Z Y Y 
+P P P V W W Z Z T Y 
+L P P V V V N N T Y 
+L L L L N N N T T T 
+Solution 375 :
+U U F F X I I I I I 
+U F F X X X W V V V 
+U U F T X W W Z Z V 
+P T T T W W N N Z V 
+P P L T N N N Y Z Z 
+P P L L L L Y Y Y Y 
+Solution 376 :
+U U F F X I I I I I 
+U F F X X X Y Y Y Y 
+U U F Z X W W Y T L 
+V Z Z Z W W T T T L 
+V Z N N W P P P T L 
+V V V N N N P P L L 
+Solution 377 :
+U U F F X T T T W W 
+U F F X X X T W W I 
+U U F N X Y T W V I 
+P Z Z N Y Y Y Y V I 
+P P Z N N L V V V I 
+P P Z Z N L L L L I 
+Solution 378 :
+U U F F X T T T W W 
+U F F X X X T W W I 
+U U F Y X Z T W L I 
+V Y Y Y Y Z Z Z L I 
+V N N N P P P Z L I 
+V V V N N P P L L I 
+Solution 379 :
+U U F F X T T T W W 
+U F F X X X T W W I 
+U U F V X Y T W L I 
+P Z Z V Y Y Y Y L I 
+P P Z V V V N N L I 
+P P Z Z N N N L L I 
+Solution 380 :
+U U F F X T T T W W 
+U F F X X X T W W N 
+U U F Y X Z T W N N 
+L Y Y Y Y Z Z Z N V 
+L L L L P P P Z N V 
+I I I I I P P V V V 
+Solution 381 :
+U U F F X T T T W W 
+U F F X X X T W W N 
+U U F L X Z T W N N 
+L L L L Y Z Z Z N V 
+P P P Y Y Y Y Z N V 
+P P I I I I I V V V 
+Solution 382 :
+U U F F X T T T W W 
+U F F X X X T W W P 
+U U F Z X Y T W P P 
+V Z Z Z Y Y Y Y P P 
+V Z N N I I I I I L 
+V V V N N N L L L L 
+Solution 383 :
+U U F F X T T T P P 
+U F F X X X T P P P 
+U U F Y X W T V V V 
+L Y Y Y Y W W Z Z V 
+L L L L N N W W Z V 
+I I I I I N N N Z Z 
+Solution 384 :
+U U F F X T T T P P 
+U F F X X X T P P P 
+U U F Z X W T N L L 
+V Z Z Z Y W W N N L 
+V Z Y Y Y Y W W N L 
+V V V I I I I I N L 
+Solution 385 :
+U U F F X T T T P P 
+U F F X X X T W P P 
+U U F Z X Y T W W P 
+V Z Z Z Y Y Y Y W W 
+V Z N N I I I I I L 
+V V V N N N L L L L 
+Solution 386 :
+U U F F X T T T P P 
+U F F X X X T N P P 
+U U F Z X W T N P L 
+V Z Z Z Y W W N N L 
+V Z Y Y Y Y W W N L 
+V V V I I I I I L L 
+Solution 387 :
+U U F F X W W T T T 
+U F F X X X W W T I 
+U U F Y X Z Z W T I 
+V Y Y Y Y Z P P P I 
+V N N N Z Z P P L I 
+V V V N N L L L L I 
+Solution 388 :
+U U F F X W W T T T 
+U F F X X X W W T L 
+U U F Y X Z Z W T L 
+V Y Y Y Y Z P P P L 
+V N N N Z Z P P L L 
+V V V N N I I I I I 
+Solution 389 :
+U U F F X W W V V V 
+U F F X X X W W N V 
+U U F Y X Z Z W N V 
+L Y Y Y Y Z T N N P 
+L L L L Z Z T N P P 
+I I I I I T T T P P 
+Solution 390 :
+U U F F X W W P P P 
+U F F X X X W W P P 
+U U F Y X V Z W L L 
+T Y Y Y Y V Z Z Z L 
+T T T N N V V V Z L 
+T N N N I I I I I L 
+Solution 391 :
+U U F F X Y Y Y Y T 
+U F F X X X Y T T T 
+U U F W X L L L L T 
+N N N W W L Z V V V 
+P P N N W W Z Z Z V 
+P P P I I I I I Z V 
+Solution 392 :
+U U F F X Y Y Y Y T 
+U F F X X X Y T T T 
+U U F W X L L L L T 
+P P P W W L Z V V V 
+P P N N W W Z Z Z V 
+N N N I I I I I Z V 
+Solution 393 :
+U U F F X P P P L L 
+U F F X X X P P Z L 
+U U F Y X V Z Z Z L 
+T Y Y Y Y V Z W W L 
+T T T N N V V V W W 
+T N N N I I I I I W 
+Solution 394 :
+U U F F X L L L L Y 
+U F F X X X W I L Y 
+U U F Z X W W I Y Y 
+V Z Z Z W W T I P Y 
+V Z N N T T T I P P 
+V V V N N N T I P P 
+Solution 395 :
+U U F F X L L P P P 
+U F F X X X L Z P P 
+U U F Y X V L Z Z Z 
+T Y Y Y Y V L W W Z 
+T T T N N V V V W W 
+T N N N I I I I I W 
+Solution 396 :
+U U F F I I I I I Z 
+U F F V P P P Z Z Z 
+U U F V P P X Z N L 
+T V V V W X X X N L 
+T T T Y W W X N N L 
+T Y Y Y Y W W N L L 
+Solution 397 :
+U U F F N N N T P P 
+U F F N N T T T P P 
+U U F W W Z Z T X P 
+V V V Y W W Z X X X 
+V Y Y Y Y W Z Z X L 
+V I I I I I L L L L 
+Solution 398 :
+U U F F N W W T T T 
+U F F N N X W W T I 
+U U F N X X X W T I 
+V V V N Y X Z Z P I 
+V L Y Y Y Y Z P P I 
+V L L L L Z Z P P I 
+Solution 399 :
+U U F F N W W T T T 
+U F F N N X W W T I 
+U U F N X X X W T I 
+P Z Z N Y X V V V I 
+P P Z Y Y Y Y L V I 
+P P Z Z L L L L V I 
+Solution 400 :
+U U F F N L L L L I 
+U F F N N L V V V I 
+U U F N Y Y Y Y V I 
+P Z Z N X Y T W V I 
+P P Z X X X T W W I 
+P P Z Z X T T T W W 
+Solution 401 :
+U U F F N N N T T T 
+U F F V V V N N T Y 
+U U F V W W Z Z T Y 
+P P P V X W W Z Y Y 
+L P P X X X W Z Z Y 
+L L L L X I I I I I 
+Solution 402 :
+U U F F N N N L L I 
+U F F V V V N N L I 
+U U F V Y Y Y Y L I 
+P Z Z V X Y T W L I 
+P P Z X X X T W W I 
+P P Z Z X T T T W W 
+Solution 403 :
+U U F F T T T P P P 
+U F F Z Z T W W P P 
+U U F Z Y T X W W V 
+N N Z Z Y X X X W V 
+L N N N Y Y X V V V 
+L L L L Y I I I I I 
+Solution 404 :
+U U F F W W X L L I 
+U F F W W X X X L I 
+U U F W N N X T L I 
+V Z N N N T T T L I 
+V Z Z Z P P P T Y I 
+V V V Z P P Y Y Y Y 
+Solution 405 :
+U U F F W W X L L I 
+U F F W W X X X L I 
+U U F W Z Z X T L I 
+V P P P Z T T T L I 
+V P P Z Z N N T Y I 
+V V V N N N Y Y Y Y 
+Solution 406 :
+U U F F W W L L L L 
+U F F W W P P P X L 
+U U F W Y P P X X X 
+V Z Y Y Y Y N N X T 
+V Z Z Z N N N T T T 
+V V V Z I I I I I T 
+Solution 407 :
+U U F F W W L L L L 
+U F F W W X L T T T 
+U U F W X X X P T Y 
+V Z N N N X P P T Y 
+V Z Z Z N N P P Y Y 
+V V V Z I I I I I Y 
+Solution 408 :
+U U F F Y V V V P P 
+U F F Y Y Y Y V P P 
+U U F W W Z Z V X P 
+T N N N W W Z X X X 
+T T T N N W Z Z X L 
+T I I I I I L L L L 
+Solution 409 :
+U U F F Y Y Y Y W W 
+U F F Z Z X Y W W I 
+U U F Z X X X W T I 
+P P Z Z V X T T T I 
+P P P L V N N N T I 
+L L L L V V V N N I 
+Solution 410 :
+U U F F Y Y Y Y W W 
+U F F L L X Y W W I 
+U U F L X X X W T I 
+P Z Z L V X T T T I 
+P P Z L V N N N T I 
+P P Z Z V V V N N I 
+Solution 411 :
+U U F F V V V N N I 
+U F F L V N N N T I 
+U U F L V X T T T I 
+P Z Z L X X X W T I 
+P P Z L L X Y W W I 
+P P Z Z Y Y Y Y W W 
+Solution 412 :
+U U F F P P Y Y Y Y 
+U F F P P P X Y Z Z 
+U U F W W X X X Z V 
+T N N N W W X Z Z V 
+T T T N N W L V V V 
+T I I I I I L L L L 
+Solution 413 :
+U U F F P P P V V V 
+U F F W P P X Z Z V 
+U U F W W X X X Z V 
+T N N N W W X Y Z Z 
+T T T N N Y Y Y Y L 
+T I I I I I L L L L 
+Solution 414 :
+U U F F P W Y Y Y Y 
+U F F P P W W Y Z Z 
+U U F P P X W W Z V 
+T N N N X X X Z Z V 
+T T T N N X L V V V 
+T I I I I I L L L L 
+Solution 415 :
+U U F F L L L L N I 
+U F F W P P P L N I 
+U U F W W P P N N I 
+V V V Z W W X N T I 
+V Z Z Z Y X X X T I 
+V Z Y Y Y Y X T T T 
+Solution 416 :
+U U F F L L L L N I 
+U F F P P P W L N I 
+U U F P P W W N N I 
+V V V Z W W X N T I 
+V Z Z Z Y X X X T I 
+V Z Y Y Y Y X T T T 
+Solution 417 :
+U U F F L L L L V I 
+U F F Y Y Y Y L V I 
+U U F N Y X V V V I 
+P Z Z N X X X W T I 
+P P Z N N X W W T I 
+P P Z Z N W W T T T 
+Solution 418 :
+U U F F L L L L N I 
+U F F W L P P P N I 
+U U F W W P P N N I 
+V V V Z W W X N T I 
+V Z Z Z Y X X X T I 
+V Z Y Y Y Y X T T T 
+Solution 419 :
+U U F F L L L L Z Z 
+U F F V L N N N Z I 
+U U F V N N X Z Z I 
+T V V V W X X X P I 
+T T T Y W W X P P I 
+T Y Y Y Y W W P P I 
+Solution 420 :
+U U F I I I I I N N 
+U F F F W W N N N Y 
+U U Z F X W W V Y Y 
+Z Z Z X X X W V T Y 
+Z P P L X V V V T Y 
+P P P L L L L T T T 
+Solution 421 :
+U U F T T T X V V V 
+U F F F T X X X W V 
+U U Z F T Y X W W V 
+Z Z Z N N Y W W P P 
+Z N N N Y Y L P P P 
+I I I I I Y L L L L 
+Solution 422 :
+U U F T T T X P P P 
+U F F F T X X X P P 
+U U Y F T W X V V V 
+L Y Y Y Y W W Z Z V 
+L L L L N N W W Z V 
+I I I I I N N N Z Z 
+Solution 423 :
+U U F T T T N V V V 
+U F F F T Y N Z Z V 
+U U X F T Y N N Z V 
+P X X X W Y Y N Z Z 
+P P X W W Y L L L L 
+P P W W I I I I I L 
+Solution 424 :
+U U F T T T W W P P 
+U F F F T W W X P P 
+U U Z F T W X X X P 
+Z Z Z Y Y Y Y X L V 
+Z N N N Y L L L L V 
+N N I I I I I V V V 
+Solution 425 :
+U U F T T T Z V V V 
+U F F F T Y Z Z Z V 
+U U X F T Y N N Z V 
+P X X X W Y Y N N N 
+P P X W W Y L L L L 
+P P W W I I I I I L 
+Solution 426 :
+U U F T T T L L L L 
+U F F F T V V V N L 
+U U X F T V Z Z N Y 
+P X X X W V Z N N Y 
+P P X W W Z Z N Y Y 
+P P W W I I I I I Y 
+Solution 427 :
+U U F T T T L L L L 
+U F F F T V V V Z L 
+U U X F T V Z Z Z Y 
+P X X X W V Z N N Y 
+P P X W W N N N Y Y 
+P P W W I I I I I Y 
+Solution 428 :
+U U F W W N N N L L 
+U F F F W W Y N N L 
+U U X F T W Y Z Z L 
+P X X X T Y Y V Z L 
+P P X T T T Y V Z Z 
+P P I I I I I V V V 
+Solution 429 :
+U U F W W Y Y Y Y T 
+U F F F W W Y T T T 
+U U Z F X W P P P T 
+Z Z Z X X X P P L V 
+Z N N N X L L L L V 
+N N I I I I I V V V 
+Solution 430 :
+U U F W W L L P P P 
+U F F F W W L P P Y 
+U U Z F X W L V Y Y 
+Z Z Z X X X L V T Y 
+Z N N N X V V V T Y 
+N N I I I I I T T T 
+Solution 431 :
+U U F Y Y Y Y V V V 
+U F F F Z Y T T T V 
+U U X F Z Z Z T N V 
+P X X X W L Z T N N 
+P P X W W L L L L N 
+P P W W I I I I I N 
+Solution 432 :
+U U F V V V Y Y Y Y 
+U F F F L V Z Z Y T 
+U U X F L V Z T T T 
+P X X X L Z Z W W T 
+P P X L L N N N W W 
+P P I I I I I N N W 
+Solution 433 :
+U U F L L L L P P P 
+U F F F W W L P P Y 
+U U Z F X W W V Y Y 
+Z Z Z X X X W V T Y 
+Z N N N X V V V T Y 
+N N I I I I I T T T 
+Solution 434 :
+U U T T T F Y Y Y Y 
+U Z Z T F F F X Y I 
+U U Z T F W X X X I 
+N N Z Z P W W X V I 
+L N N N P P W W V I 
+L L L L P P V V V I 
+Solution 435 :
+U U T T T F F P P P 
+U Z Z T F F W W P P 
+U U Z T Y F X W W V 
+N N Z Z Y X X X W V 
+L N N N Y Y X V V V 
+L L L L Y I I I I I 
+Solution 436 :
+U U T T T W W P P P 
+U Z Z T W W F P P Y 
+U U Z T W X F F F Y 
+V L Z Z X X X F Y Y 
+V L L L L X N N N Y 
+V V V I I I I I N N 
+Solution 437 :
+U U W W I I I I I T 
+U F F W W P P T T T 
+U U F F W P P P X T 
+V Z F Y Y Y Y X X X 
+V Z Z Z Y N N N X L 
+V V V Z N N L L L L 
+Solution 438 :
+U U Y Y Y Y X T T T 
+U Z Z Y F X X X T I 
+U U Z F F F X W T I 
+N N Z Z V F W W P I 
+L N N N V W W P P I 
+L L L L V V V P P I 
+Solution 439 :
+U U Y Y Y Y X V V V 
+U Z Z Y F X X X W V 
+U U Z F F F X W W V 
+N N Z Z T F W W P P 
+L N N N T T T P P P 
+L L L L T I I I I I 
+Solution 440 :
+U U Y Y Y Y N N L L 
+U F F Y N N N T L I 
+U U F F X T T T L I 
+V Z F X X X W T L I 
+V Z Z Z X W W P P I 
+V V V Z W W P P P I 
+Solution 441 :
+U U Y Y Y Y F V V V 
+U Z Z Y X F F F N V 
+U U Z X X X W F N V 
+P P Z Z X T W W N N 
+P P P T T T L W W N 
+I I I I I T L L L L 
+Solution 442 :
+U U Y Y Y Y F V V V 
+U Z Z Y X F F F N V 
+U U Z X X X L F N V 
+P P Z Z X T L W N N 
+P P P T T T L W W N 
+I I I I I T L L W W 
+Solution 443 :
+U U Y T T T N N N Z 
+U Y Y L T N N Z Z Z 
+U U Y L T W W Z F F 
+P P Y L W W X F F V 
+P P L L W X X X F V 
+P I I I I I X V V V 
+Solution 444 :
+U U Y T I I I I I N 
+U Y Y T T T P P N N 
+U U Y T X P P P N L 
+V Z Y X X X W F N L 
+V Z Z Z X W W F F L 
+V V V Z W W F F L L 
+Solution 445 :
+U U Y V V V F P P P 
+U Y Y V F F F P P W 
+U U Y V X F Z Z W W 
+N N Y X X X Z W W T 
+L N N N X Z Z T T T 
+L L L L I I I I I T 
+Solution 446 :
+U U Y V V V F P P P 
+U Y Y V F F F Z P P 
+U U Y V X F T Z Z Z 
+N N Y X X X T W W Z 
+L N N N X T T T W W 
+L L L L I I I I I W 
+Solution 447 :
+U U Y V I I I I I T 
+U Y Y V N N N T T T 
+U U Y V V V N N X T 
+P P Y W Z Z F X X X 
+P P W W Z F F F X L 
+P W W Z Z F L L L L 
+Solution 448 :
+U U Y P P P F V V V 
+U Y Y P P X F F F V 
+U U Y W X X X F Z V 
+N N Y W W X Z Z Z T 
+L N N N W W Z T T T 
+L L L L I I I I I T 
+Solution 449 :
+U U Y P P P Z V V V 
+U Y Y P P X Z Z Z V 
+U U Y W X X X F Z V 
+N N Y W W X F F F T 
+L N N N W W F T T T 
+L L L L I I I I I T 
+Solution 450 :
+U U Y P P P L L L L 
+U Y Y P P X N N N L 
+U U Y W X X X F N N 
+V Z Y W W X F F F T 
+V Z Z Z W W F T T T 
+V V V Z I I I I I T 
+Solution 451 :
+U U Y I I I I I N N 
+U Y Y Y Y F N N N T 
+U U W W F F F T T T 
+V W W X F Z Z P P T 
+V W X X X Z P P P L 
+V V V X Z Z L L L L 
+Solution 452 :
+U U Y I I I I I N N 
+U Y Y Y Y F N N N T 
+U U W W F F F T T T 
+V W W X F Z Z P P T 
+V W X X X Z L P P P 
+V V V X Z Z L L L L 
+Solution 453 :
+U U Y I I I I I N N 
+U Y Y Y Y F N N N P 
+U U W W F F F T P P 
+V W W X F Z Z T P P 
+V W X X X Z T T T L 
+V V V X Z Z L L L L 
+Solution 454 :
+U U Y I I I I I T L 
+U Y Y Y Y F T T T L 
+U U W W F F F N T L 
+V W W X F Z Z N L L 
+V W X X X Z N N P P 
+V V V X Z Z N P P P 
+Solution 455 :
+U U Y I I I I I T L 
+U Y Y Y Y F T T T L 
+U U W W F F F Z T L 
+V W W X F Z Z Z L L 
+V W X X X Z N N P P 
+V V V X N N N P P P 
+Solution 456 :
+U U Y I I I I I T L 
+U Y Y Y Y Z T T T L 
+U U W W X Z Z Z T L 
+V W W X X X F Z L L 
+V W N N X F F P P P 
+V V V N N N F F P P 
+Solution 457 :
+U U Y I I I I I T L 
+U Y Y Y Y Z T T T L 
+U U W W F Z Z Z T L 
+V W W X F F F Z L L 
+V W X X X F N N P P 
+V V V X N N N P P P 
+Solution 458 :
+U U Y I I I I I L L 
+U Y Y Y Y F T T T L 
+U U W W F F F T N L 
+V W W X F Z Z T N L 
+V W X X X Z P P N N 
+V V V X Z Z P P P N 
+Solution 459 :
+U U Y L L L L T T T 
+U Y Y Y Y F L N T I 
+U U W W F F F N T I 
+V W W X F Z Z N N I 
+V W X X X Z P P N I 
+V V V X Z Z P P P I 
+Solution 460 :
+U U Y L L L L P P I 
+U Y Y Y Y F L P P I 
+U U W W F F F N P I 
+V W W X F Z Z N T I 
+V W X X X Z N N T I 
+V V V X Z Z N T T T 
+Solution 461 :
+U U Y L L L L P P I 
+U Y Y Y Y F L P P I 
+U U W W F F F Z P I 
+V W W X F Z Z Z T I 
+V W X X X Z N N T I 
+V V V X N N N T T T 
+Solution 462 :
+U U Y L L L L P P I 
+U Y Y Y Y Z L P P I 
+U U W W F Z Z Z P I 
+V W W X F F F Z T I 
+V W X X X F N N T I 
+V V V X N N N T T T 
+Solution 463 :
+U U Y Y Y Y X T T T 
+U V V V Y X X X T I 
+U U Z V W W X N T I 
+Z Z Z V F W W N N I 
+Z P P F F F W L N I 
+P P P F L L L L N I 
+Solution 464 :
+U U Y Y Y Y X T T T 
+U P P P Y X X X T I 
+U U P P N N X F T I 
+V Z N N N W W F F I 
+V Z Z Z W W F F L I 
+V V V Z W L L L L I 
+Solution 465 :
+U U Y Y Y Y X T T T 
+U P P P Y X X X T L 
+U U P P N N X F T L 
+V Z N N N W W F F L 
+V Z Z Z W W F F L L 
+V V V Z W I I I I I 
+Solution 466 :
+U U Y Y Y Y X V V V 
+U Z Z F Y X X X N V 
+U U Z F F F X T N V 
+P P Z Z F W W T N N 
+P P P L W W T T T N 
+L L L L W I I I I I 
+Solution 467 :
+U U Y Y Y Y X V V V 
+U Z Z F Y X X X W V 
+U U Z F F F X W W V 
+P P Z Z F T W W N N 
+P P P T T T N N N L 
+I I I I I T L L L L 
+Solution 468 :
+U U Y Y Y Y F V V V 
+U N N N Y F F Z Z V 
+U U X N N T F F Z V 
+P X X X W T T T Z Z 
+P P X W W T L L L L 
+P P W W I I I I I L 
+Solution 469 :
+U U Y Y Y Y F F L L 
+U P P P Y W W F F L 
+U U P P W W X F T L 
+V V V Z W X X X T L 
+V Z Z Z N N X T T T 
+V Z N N N I I I I I 
+Solution 470 :
+U U Y Y Y Y L L L L 
+U N N N Y V V V F L 
+U U X N N V Z Z F F 
+P X X X W V Z F F T 
+P P X W W Z Z T T T 
+P P W W I I I I I T 
+Solution 471 :
+U U Y Y Y Y L L L L 
+U V V V Y N N N X L 
+U U Z V N N F X X X 
+Z Z Z V W W F F X T 
+Z P P W W F F T T T 
+P P P W I I I I I T 
+Solution 472 :
+U U Y Y Y Y L L L L 
+U T T T Y X L N P P 
+U U T W X X X N P P 
+V Z T W W X N N F P 
+V Z Z Z W W N F F F 
+V V V Z I I I I I F 
+Solution 473 :
+U U P P I I I I I T 
+U P P P Z Z F T T T 
+U U W W Z F F F X T 
+V W W Z Z F Y X X X 
+V W N N Y Y Y Y X L 
+V V V N N N L L L L 
+Solution 474 :
+U U P P W I I I I I 
+U P P P W W F F L L 
+U U N N N W W F F L 
+V V V Z N N X F T L 
+V Z Z Z Y X X X T L 
+V Z Y Y Y Y X T T T 
+Solution 475 :
+U U P P W L L L L I 
+U P P P W W F F L I 
+U U N N N W W F F I 
+V V V Z N N X F T I 
+V Z Z Z Y X X X T I 
+V Z Y Y Y Y X T T T 
+Solution 476 :
+U U P P L L L L V I 
+U P P P N N N L V I 
+U U Z N N X V V V I 
+Z Z Z F X X X W T I 
+Z Y F F F X W W T I 
+Y Y Y Y F W W T T T 
+Solution 477 :
+U U P P L L N T T T 
+U P P P L N N F T I 
+U U W W L N F F T I 
+V W W X L N Z F F I 
+V W X X X Y Z Z Z I 
+V V V X Y Y Y Y Z I 
+Solution 478 :
+U U L L L L T V V V 
+U Y Y Y Y L T T T V 
+U U X Y Z Z T F N V 
+P X X X W Z F F N N 
+P P X W W Z Z F F N 
+P P W W I I I I I N 
+Solution 479 :
+U U L L L L Y Y Y Y 
+U T T T X L F Y Z Z 
+U U T X X X F F Z V 
+P P T W X F F Z Z V 
+P P W W N N N V V V 
+P W W N N I I I I I 
+Solution 480 :
+U U L L L L Y Y Y Y 
+U T T T F L X Y Z Z 
+U U T F F X X X Z V 
+P P T W F F X Z Z V 
+P P W W N N N V V V 
+P W W N N I I I I I 
+Solution 481 :
+U U L L L L V V V T 
+U Y Y Y Y L V T T T 
+U U X Y Z Z V F N T 
+P X X X W Z F F N N 
+P P X W W Z Z F F N 
+P P W W I I I I I N 
+Solution 482 :
+U U U I I I I I N N 
+U X U F Z Z N N N L 
+X X X F F Z L L L L 
+T X F F W Z Z V V V 
+T T T Y W W P P P V 
+T Y Y Y Y W W P P V 
+Solution 483 :
+U U U I I I I I N N 
+U X U F Z Z N N N L 
+X X X F F Z L L L L 
+T X F F W Z Z P P V 
+T T T Y W W P P P V 
+T Y Y Y Y W W V V V 
+Solution 484 :
+U U U I I I I I N N 
+U X U T T T N N N Y 
+X X X W T Z Z F Y Y 
+V X W W T Z F F F Y 
+V W W L Z Z F P P Y 
+V V V L L L L P P P 
+Solution 485 :
+U U U I I I I I N N 
+U X U Z Z F N N N L 
+X X X Z F F L L L L 
+T X Z Z W F F V V V 
+T T T Y W W P P P V 
+T Y Y Y Y W W P P V 
+Solution 486 :
+U U U I I I I I N N 
+U X U Z Z F N N N L 
+X X X Z F F L L L L 
+T X Z Z W F F P P V 
+T T T Y W W P P P V 
+T Y Y Y Y W W V V V 
+Solution 487 :
+U U U I I I I I N N 
+U F U X Z Z N N N L 
+F F X X X Z L L L L 
+T F F X W Z Z V V V 
+T T T Y W W P P P V 
+T Y Y Y Y W W P P V 
+Solution 488 :
+U U U I I I I I N N 
+U F U X Z Z N N N L 
+F F X X X Z L L L L 
+T F F X W Z Z P P V 
+T T T Y W W P P P V 
+T Y Y Y Y W W V V V 
+Solution 489 :
+U U U I I I I I N N 
+U Y U X Z Z N N N L 
+Y Y X X X Z L L L L 
+V Y W X F Z Z T P P 
+V Y W W F F F T P P 
+V V V W W F T T T P 
+Solution 490 :
+U U U I I I I I N N 
+U Y U W W F N N N T 
+Y Y W W F F F T T T 
+V Y W X F Z Z P P T 
+V Y X X X Z P P P L 
+V V V X Z Z L L L L 
+Solution 491 :
+U U U I I I I I N N 
+U Y U W W F N N N T 
+Y Y W W F F F T T T 
+V Y W X F Z Z P P T 
+V Y X X X Z L P P P 
+V V V X Z Z L L L L 
+Solution 492 :
+U U U I I I I I N N 
+U Y U W W F N N N P 
+Y Y W W F F F T P P 
+V Y W X F Z Z T P P 
+V Y X X X Z T T T L 
+V V V X Z Z L L L L 
+Solution 493 :
+U U U I I I I I N L 
+U X U F F T T T N L 
+X X X W F F T N N L 
+V X W W F Z T N L L 
+V W W Z Z Z Y P P P 
+V V V Z Y Y Y Y P P 
+Solution 494 :
+U U U I I I I I N L 
+U X U T T T F F N L 
+X X X W T F F N N L 
+V X W W T Z F N L L 
+V W W Z Z Z Y P P P 
+V V V Z Y Y Y Y P P 
+Solution 495 :
+U U U I I I I I F F 
+U X U Z Z W W F F L 
+X X X Z W W P P F L 
+V X Z Z W T P P P L 
+V Y Y Y Y T N N L L 
+V V V Y T T T N N N 
+Solution 496 :
+U U U I I I I I T L 
+U X U P N N T T T L 
+X X X P P N N N T L 
+V X F P P W W Z L L 
+V F F F W W Y Z Z Z 
+V V V F W Y Y Y Y Z 
+Solution 497 :
+U U U I I I I I T L 
+U X U P P P T T T L 
+X X X N P P W W T L 
+V X F N N W W Z L L 
+V F F F N W Y Z Z Z 
+V V V F N Y Y Y Y Z 
+Solution 498 :
+U U U I I I I I T L 
+U X U P P P T T T L 
+X X X F P P W W T L 
+V X F F F W W Z L L 
+V N N N F W Y Z Z Z 
+V V V N N Y Y Y Y Z 
+Solution 499 :
+U U U I I I I I T L 
+U Y U W W F T T T L 
+Y Y W W F F F N T L 
+V Y W X F Z Z N L L 
+V Y X X X Z N N P P 
+V V V X Z Z N P P P 
+Solution 500 :
+U U U I I I I I T L 
+U Y U W W F T T T L 
+Y Y W W F F F Z T L 
+V Y W X F Z Z Z L L 
+V Y X X X Z N N P P 
+V V V X N N N P P P 
+Solution 501 :
+U U U I I I I I T L 
+U Y U W W Z T T T L 
+Y Y W W X Z Z Z T L 
+V Y W X X X F Z L L 
+V Y N N X F F P P P 
+V V V N N N F F P P 
+Solution 502 :
+U U U I I I I I T L 
+U Y U W W Z T T T L 
+Y Y W W F Z Z Z T L 
+V Y W X F F F Z L L 
+V Y X X X F N N P P 
+V V V X N N N P P P 
+Solution 503 :
+U U U I I I I I W W 
+U X U Y Y Y Y W W N 
+X X X F F Y P W N N 
+T X F F Z Z P P N V 
+T T T F L Z P P N V 
+T L L L L Z Z V V V 
+Solution 504 :
+U U U I I I I I W W 
+U X U V V V N W W Y 
+X X X F F V N W Y Y 
+P X F F Z V N N T Y 
+P P L F Z Z Z N T Y 
+P P L L L L Z T T T 
+Solution 505 :
+U U U I I I I I W W 
+U N U L L L L W W P 
+N N X L T T T W P P 
+N X X X F T V Z P P 
+N Y X F F T V Z Z Z 
+Y Y Y Y F F V V V Z 
+Solution 506 :
+U U U I I I I I W N 
+U X U Y Y Y Y W W N 
+X X X F F Y W W N N 
+T X F F Z Z P P N V 
+T T T F L Z P P P V 
+T L L L L Z Z V V V 
+Solution 507 :
+U U U I I I I I Z N 
+U X U T T T Z Z Z N 
+X X X W T F Z Y N N 
+V X W W T F F Y N P 
+V W W L F F Y Y P P 
+V V V L L L L Y P P 
+Solution 508 :
+U U U I I I I I Z N 
+U W U P P P Z Z Z N 
+L W W P P X Z T N N 
+L F W W X X X T N V 
+L F F F Y X T T T V 
+L L F Y Y Y Y V V V 
+Solution 509 :
+U U U I I I I I Z Z 
+U X U P P T T T Z Y 
+X X X P P P T Z Z Y 
+V X F N N N T W Y Y 
+V F F F L N N W W Y 
+V V V F L L L L W W 
+Solution 510 :
+U U U I I I I I P P 
+U X U L L L L P P P 
+X X X N N N L F Z Z 
+T X N N W F F F Z V 
+T T T Y W W F Z Z V 
+T Y Y Y Y W W V V V 
+Solution 511 :
+U U U I I I I I P P 
+U X U Y W W F F P P 
+X X X Y N W W F F P 
+T X Y Y N N W F Z V 
+T T T Y L N Z Z Z V 
+T L L L L N Z V V V 
+Solution 512 :
+U U U I I I I I P P 
+U N U L L L L W P P 
+N N X L T T T W W P 
+N X X X F T V Z W W 
+N Y X F F T V Z Z Z 
+Y Y Y Y F F V V V Z 
+Solution 513 :
+U U U I I I I I L L 
+U X U N Z Y Y Y Y L 
+X X X N Z Z Z Y W L 
+V X F N N T Z W W L 
+V F F F N T W W P P 
+V V V F T T T P P P 
+Solution 514 :
+U U U I I I I I L L 
+U X U F F T T T N L 
+X X X W F F T N N L 
+V X W W F Z T N P L 
+V W W Z Z Z Y N P P 
+V V V Z Y Y Y Y P P 
+Solution 515 :
+U U U I I I I I L L 
+U X U T Z Y Y Y Y L 
+X X X T Z Z Z Y W L 
+V X T T T F Z W W L 
+V N N N F F W W P P 
+V V V N N F F P P P 
+Solution 516 :
+U U U I I I I I L L 
+U X U T T T N N N L 
+X X X W T N N F F L 
+V X W W T Z F F P L 
+V W W Z Z Z Y F P P 
+V V V Z Y Y Y Y P P 
+Solution 517 :
+U U U I I I I I L L 
+U X U T T T F F N L 
+X X X W T F F N N L 
+V X W W T Z F N P L 
+V W W Z Z Z Y N P P 
+V V V Z Y Y Y Y P P 
+Solution 518 :
+U U U I I I I I L L 
+U X U Z Y Y Y Y W L 
+X X X Z Z Z Y W W L 
+V X P P T Z W W F L 
+V P P P T N N F F F 
+V V V T T T N N N F 
+Solution 519 :
+U U U I I I I I L L 
+U X U P P P N N N L 
+X X X P P N N Z Z L 
+V X F T T T W W Z L 
+V F F F T W W Y Z Z 
+V V V F T W Y Y Y Y 
+Solution 520 :
+U U U I I I I I L L 
+U N U W W F V V V L 
+N N W W F F F Z V L 
+N T W X F Z Z Z V L 
+N T X X X Z Y P P P 
+T T T X Y Y Y Y P P 
+Solution 521 :
+U U U I I I I I L L 
+U N U W W Z V V V L 
+N N W W F Z Z Z V L 
+N T W X F F F Z V L 
+N T X X X F Y P P P 
+T T T X Y Y Y Y P P 
+Solution 522 :
+U U U I I I I I L L 
+U Y U X Z Z P P P L 
+Y Y X X X Z P P N L 
+V Y W X F Z Z T N L 
+V Y W W F F F T N N 
+V V V W W F T T T N 
+Solution 523 :
+U U U I I I I I L L 
+U Y U W W F T T T L 
+Y Y W W F F F T N L 
+V Y W X F Z Z T N L 
+V Y X X X Z P P N N 
+V V V X Z Z P P P N 
+Solution 524 :
+U U U I I I I I L N 
+U X U W W L L L L N 
+X X X F W W Z Z N N 
+P X F F F W T Z N V 
+P P F Y T T T Z Z V 
+P P Y Y Y Y T V V V 
+Solution 525 :
+U U U I I I I I L N 
+U X U W W L L L L N 
+X X X F W W Z Z N N 
+T X F F F W P Z N V 
+T T T Y F P P Z Z V 
+T Y Y Y Y P P V V V 
+Solution 526 :
+U U U I I I I I L N 
+U X U W W L L L L N 
+X X X F W W Z Z N N 
+T X F F F W Z V N P 
+T T T Y F Z Z V P P 
+T Y Y Y Y V V V P P 
+Solution 527 :
+U U U I I I I I L V 
+U X U W W L L L L V 
+X X X F W W N V V V 
+T X F F F W N Z Z P 
+T T T Y F N N Z P P 
+T Y Y Y Y N Z Z P P 
+Solution 528 :
+U U U I I I I I L V 
+U N U F Z L L L L V 
+N N F F Z Z Z V V V 
+N T W F F X Z P P P 
+N T W W X X X Y P P 
+T T T W W X Y Y Y Y 
+Solution 529 :
+U U U N I I I I I T 
+U X U N N Z Z T T T 
+X X X F N V Z W W T 
+P X F F N V Z Z W W 
+P P L F F V V V Y W 
+P P L L L L Y Y Y Y 
+Solution 530 :
+U U U N I I I I I T 
+U Y U N N F F T T T 
+Y Y Y Y N V F F X T 
+P Z Z W N V F X X X 
+P P Z W W V V V X L 
+P P Z Z W W L L L L 
+Solution 531 :
+U U U N I I I I I L 
+U Y U N N T L L L L 
+Y Y Y Y N T T T F F 
+P Z Z W N T X F F V 
+P P Z W W X X X F V 
+P P Z Z W W X V V V 
+Solution 532 :
+U U U N F F Z Z P P 
+U X U N N F F Z P P 
+X X X W N F Y Z Z P 
+V X W W N Y Y Y Y T 
+V W W L L L L T T T 
+V V V L I I I I I T 
+Solution 533 :
+U U U N T T T P L L 
+U X U N N T Y P P L 
+X X X W N T Y P P L 
+V X W W N Z Y Y F L 
+V W W Z Z Z Y F F F 
+V V V Z I I I I I F 
+Solution 534 :
+U U U N T T T P P P 
+U F U N N T W W P P 
+F F F Z N T X W W V 
+F Z Z Z N X X X W V 
+L Z Y Y Y Y X V V V 
+L L L L Y I I I I I 
+Solution 535 :
+U U U N T T T P P P 
+U Z U N N T W W P P 
+F Z Z Z N T X W W V 
+F F F Z N X X X W V 
+L F Y Y Y Y X V V V 
+L L L L Y I I I I I 
+Solution 536 :
+U U U N W W Z Z P P 
+U X U N N W W Z P P 
+X X X F N V W Z Z P 
+T X F F N V Y Y Y Y 
+T T T F F V V V Y L 
+T I I I I I L L L L 
+Solution 537 :
+U U U N W W Z Z P P 
+U X U N N W W Z P P 
+X X X F N V W Z Z P 
+T X F F N V L L L L 
+T T T F F V V V Y L 
+T I I I I I Y Y Y Y 
+Solution 538 :
+U U U N W W Z Z P P 
+U X U N N W W Z P P 
+X X X F N L W Z Z P 
+T X F F N L L L L V 
+T T T F F Y Y Y Y V 
+T I I I I I Y V V V 
+Solution 539 :
+U U U N W W L L L L 
+U X U N N W W Z Z L 
+X X X F N V W Z P P 
+T X F F N V Z Z P P 
+T T T F F V V V Y P 
+T I I I I I Y Y Y Y 
+Solution 540 :
+U U U N Y Y Y Y T I 
+U X U N N Y T T T I 
+X X X W N Z Z F T I 
+V X W W N Z F F F I 
+V W W L Z Z F P P I 
+V V V L L L L P P P 
+Solution 541 :
+U U U N Z Z Y Y Y Y 
+U X U N N Z W W Y L 
+X X X F N Z Z W W L 
+T X F F N P P V W L 
+T T T F F P P V L L 
+T I I I I I P V V V 
+Solution 542 :
+U U U N L L L L P P 
+U X U N N Z Z L P P 
+X X X F N V Z W W P 
+T X F F N V Z Z W W 
+T T T F F V V V Y W 
+T I I I I I Y Y Y Y 
+Solution 543 :
+U U U N L L L L W W 
+U X U N L Z Z W W Y 
+X X X N N T Z W Y Y 
+V X P P N T Z Z F Y 
+V P P P T T T F F Y 
+V V V I I I I I F F 
+Solution 544 :
+U U U N L L F T T T 
+U Y U N L F F F T I 
+Y Y N N L F W W T I 
+V Y N X L Z Z W W I 
+V Y X X X Z P P W I 
+V V V X Z Z P P P I 
+Solution 545 :
+U U U N N I I I I I 
+U X U F N N N V V V 
+X X X F F W W Z Z V 
+T X F F P P W W Z V 
+T T T Y P P L W Z Z 
+T Y Y Y Y P L L L L 
+Solution 546 :
+U U U N N I I I I I 
+U X U T N N N W W Y 
+X X X T T T W W Y Y 
+V X F T P P W Z Z Y 
+V F F F P P P L Z Y 
+V V V F L L L L Z Z 
+Solution 547 :
+U U U N N I I I I I 
+U X U P N N N W W Y 
+X X X P P T W W Y Y 
+V X F P P T W Z Z Y 
+V F F F T T T L Z Y 
+V V V F L L L L Z Z 
+Solution 548 :
+U U U N N I I I I I 
+U X U L N N N Z Z Y 
+X X X L L L L Z Y Y 
+V X P P T W Z Z F Y 
+V P P P T W W F F Y 
+V V V T T T W W F F 
+Solution 549 :
+U U U N N I I I I I 
+U F U X N N N V V V 
+F F X X X W W Z Z V 
+T F F X P P W W Z V 
+T T T Y P P L W Z Z 
+T Y Y Y Y P L L L L 
+Solution 550 :
+U U U N N I I I I I 
+U Y U X N N N T T T 
+Y Y X X X F Z Z T L 
+V Y W X F F F Z T L 
+V Y W W F P P Z Z L 
+V V V W W P P P L L 
+Solution 551 :
+U U U N N Y Y Y Y W 
+U X U T N N N Y W W 
+X X X T V V V W W Z 
+L X T T T F V Z Z Z 
+L L L L F F V Z P P 
+I I I I I F F P P P 
+Solution 552 :
+U U U N N Y Y Y Y W 
+U F U Z N N N Y W W 
+F F F Z Z Z T W W V 
+F P P P X Z T T T V 
+L P P X X X T V V V 
+L L L L X I I I I I 
+Solution 553 :
+U U U N N Y Y Y Y W 
+U F U Z N N N Y W W 
+F F F Z Z Z V W W T 
+F P P P X Z V T T T 
+L P P X X X V V V T 
+L L L L X I I I I I 
+Solution 554 :
+U U U N N Y Y Y Y W 
+U P U Z N N N Y W W 
+P P F Z Z Z T W W V 
+P P F F X Z T T T V 
+L F F X X X T V V V 
+L L L L X I I I I I 
+Solution 555 :
+U U U N N Y Y Y Y W 
+U P U Z N N N Y W W 
+P P F Z Z Z V W W T 
+P P F F X Z V T T T 
+L F F X X X V V V T 
+L L L L X I I I I I 
+Solution 556 :
+U U U N N N Y Y Y Y 
+U X U Z Z N N Y F I 
+X X X Z T W F F F I 
+P X Z Z T W W F V I 
+P P L T T T W W V I 
+P P L L L L V V V I 
+Solution 557 :
+U U U N N N Y Y Y Y 
+U F U Z Z N N Y L V 
+F F F T Z L L L L V 
+F W W T Z Z X V V V 
+W W T T T X X X P P 
+W I I I I I X P P P 
+Solution 558 :
+U U U N N N Y Y Y Y 
+U X U Z Z N N T Y I 
+X X X W Z T T T L I 
+V X W W Z Z F T L I 
+V W W P P P F F L I 
+V V V P P F F L L I 
+Solution 559 :
+U U U N N N Y Y Y Y 
+U F U Z Z N N X Y I 
+F F F Z T W X X X I 
+F P Z Z T W W X V I 
+P P L T T T W W V I 
+P P L L L L V V V I 
+Solution 560 :
+U U U N N N Z Z P P 
+U X U F F N N Z P P 
+X X X W F F Y Z Z P 
+V X W W F Y Y Y Y T 
+V W W L L L L T T T 
+V V V L I I I I I T 
+Solution 561 :
+U U U N N N V V V I 
+U X U Z Z N N F V I 
+X X X Z T W F F V I 
+P X Z Z T W W F F I 
+P P L T T T W W Y I 
+P P L L L L Y Y Y Y 
+Solution 562 :
+U U U N N N P P P I 
+U X U W W N N P P I 
+X X X F W W Z Z L I 
+T X F F F W Z V L I 
+T T T Y F Z Z V L I 
+T Y Y Y Y V V V L L 
+Solution 563 :
+U U U N N N L L L L 
+U X U Z Z N N F F L 
+X X X Z W P P P F F 
+V X Z Z W W P P F T 
+V Y Y Y Y W W T T T 
+V V V Y I I I I I T 
+Solution 564 :
+U U U N N N L L L L 
+U X U Z Z N N F F L 
+X X X Z P P P W F F 
+V X Z Z P P W W F T 
+V Y Y Y Y W W T T T 
+V V V Y I I I I I T 
+Solution 565 :
+U U U F F I I I I I 
+U X U T F F L L L L 
+X X X T F Z Z W W L 
+V X T T T Z W W P P 
+V N N N Z Z W Y P P 
+V V V N N Y Y Y Y P 
+Solution 566 :
+U U U F F I I I I I 
+U X U Y F F W Z Z N 
+X X X Y F W W Z N N 
+T X Y Y W W Z Z N V 
+T T T Y L P P P N V 
+T L L L L P P V V V 
+Solution 567 :
+U U U F F N N V V V 
+U X U T F F N N N V 
+X X X T F Z Z W W V 
+L X T T T Z W W P P 
+L L L L Z Z W Y P P 
+I I I I I Y Y Y Y P 
+Solution 568 :
+U U U F F P P P L L 
+U X U T F F P P W L 
+X X X T F Z Z W W L 
+V X T T T Z W W Y L 
+V N N N Z Z Y Y Y Y 
+V V V N N I I I I I 
+Solution 569 :
+U U U F I I I I I Y 
+U N U F F L L L L Y 
+N N F F X L Z Z Y Y 
+N T W X X X Z V P Y 
+N T W W X Z Z V P P 
+T T T W W V V V P P 
+Solution 570 :
+U U U F I I I I I P 
+U Y U F F N Z Z P P 
+Y Y F F X N N Z P P 
+V Y W X X X N Z Z T 
+V Y W W X L N T T T 
+V V V W W L L L L T 
+Solution 571 :
+U U U F I I I I I L 
+U N U F F X L L L L 
+N N F F X X X T T T 
+N Z Z W W X P P T V 
+N Z W W Y P P P T V 
+Z Z W Y Y Y Y V V V 
+Solution 572 :
+U U U F I I I I I L 
+U N U F F X L L L L 
+N N F F X X X W Z Z 
+N T P P P X W W Z V 
+N T P P Y W W Z Z V 
+T T T Y Y Y Y V V V 
+Solution 573 :
+U U U F I I I I I L 
+U N U F F X L L L L 
+N N F F X X X V V V 
+N Z Z W W X P P T V 
+N Z W W Y P P P T V 
+Z Z W Y Y Y Y T T T 
+Solution 574 :
+U U U F T T T N N N 
+U Y U F F T N N Z I 
+Y Y F F X T Z Z Z I 
+V Y W X X X Z P P I 
+V Y W W X L P P P I 
+V V V W W L L L L I 
+Solution 575 :
+U U U F T T T N N N 
+U Y U F F T N N L L 
+Y Y F F X T Z Z P L 
+V Y W X X X Z P P L 
+V Y W W X Z Z P P L 
+V V V W W I I I I I 
+Solution 576 :
+U U U F T T T N Z Z 
+U Y U F F T N N Z I 
+Y Y F F X T N Z Z I 
+V Y W X X X N P P I 
+V Y W W X L P P P I 
+V V V W W L L L L I 
+Solution 577 :
+U U U F Y Y Y Y N I 
+U P U F F Y W W N I 
+P P F F L W W N N I 
+P P Z V L W X N T I 
+Z Z Z V L X X X T I 
+Z V V V L L X T T T 
+Solution 578 :
+U U U F Z Z L L L L 
+U N U F F Z L V V V 
+N N F F X Z Z V P P 
+N T W X X X Y V P P 
+N T W W X Y Y Y Y P 
+T T T W W I I I I I 
+Solution 579 :
+U U U F P P P T T T 
+U Y U F F P P N T I 
+Y Y F F X Z Z N T I 
+V Y W X X X Z N N I 
+V Y W W X L Z Z N I 
+V V V W W L L L L I 
+Solution 580 :
+U U U F P P P V V V 
+U N U F F P P V Y I 
+N N F F X Z Z V Y I 
+N T W X X X Z Y Y I 
+N T W W X L Z Z Y I 
+T T T W W L L L L I 
+Solution 581 :
+U U U F L L V V V I 
+U N U F F L V P P I 
+N N F F W L V P P I 
+N Z Z W W L X P T I 
+N Z W W Y X X X T I 
+Z Z Y Y Y Y X T T T 
+Solution 582 :
+U U U F L L V V V I 
+U N U F F L P P V I 
+N N F F W L P P V I 
+N Z Z W W L X P T I 
+N Z W W Y X X X T I 
+Z Z Y Y Y Y X T T T 
+Solution 583 :
+U U U F I I I I I T 
+U Y U F F F X T T T 
+Y Y N Z F X X X W T 
+V Y N Z Z Z X W W P 
+V Y N N L Z W W P P 
+V V V N L L L L P P 
+Solution 584 :
+U U U F I I I I I Y 
+U T U F F F W W Y Y 
+L T T T F N N W W Y 
+L T X N N N V Z W Y 
+L X X X P P V Z Z Z 
+L L X P P P V V V Z 
+Solution 585 :
+U U U F L L L L Z Z 
+U Y U F F F W L Z V 
+Y Y Y Y F W W Z Z V 
+T N N N W W X V V V 
+T T T N N X X X P P 
+T I I I I I X P P P 
+Solution 586 :
+U U U T I I I I I W 
+U N U T Y Y Y Y W W 
+N N T T T X Y W W P 
+N Z Z F X X X V P P 
+N Z F F F X L V P P 
+Z Z F L L L L V V V 
+Solution 587 :
+U U U T W I I I I I 
+U N U T W W Y Y Y Y 
+N N T T T W W Y F F 
+N Z Z P P P X F F V 
+N Z L P P X X X F V 
+Z Z L L L L X V V V 
+Solution 588 :
+U U U T P P P W W I 
+U N U T P P W W Y I 
+N N T T T X W Y Y I 
+N Z Z F X X X V Y I 
+N Z F F F X L V Y I 
+Z Z F L L L L V V V 
+Solution 589 :
+U U U T T T X V V V 
+U N U W T X X X F V 
+N N W W T Y X F F V 
+N W W Y Y Y Y Z F F 
+N P P L L L L Z Z Z 
+P P P L I I I I I Z 
+Solution 590 :
+U U U T T T X V V V 
+U Y U N T X X X F V 
+L Y Y N T P X F F V 
+L Y N N W P P Z F F 
+L Y N W W P P Z Z Z 
+L L W W I I I I I Z 
+Solution 591 :
+U U U T T T X P P P 
+U Y U N T X X X P P 
+L Y Y N T W X V V V 
+L Y N N W W F Z Z V 
+L Y N W W F F F Z V 
+L L I I I I I F Z Z 
+Solution 592 :
+U U U T T T N N N Z 
+U F U Y T N N Z Z Z 
+F F F Y T W W Z L L 
+F P P Y Y X W W V L 
+P P P Y X X X W V L 
+I I I I I X V V V L 
+Solution 593 :
+U U U T T T N N N Z 
+U F U Y T N N Z Z Z 
+F F F Y T W W Z L L 
+P P F Y Y X W W V L 
+P P P Y X X X W V L 
+I I I I I X V V V L 
+Solution 594 :
+U U U T T T N N N Z 
+U P U L T N N Z Z Z 
+Y P P L T W W Z F F 
+Y P P L W W X F F V 
+Y Y L L W X X X F V 
+Y I I I I I X V V V 
+Solution 595 :
+U U U T T T N N N Z 
+U P U F T N N Z Z Z 
+P P F F T W W Z L L 
+P P Y F F X W W V L 
+Y Y Y Y X X X W V L 
+I I I I I X V V V L 
+Solution 596 :
+U U U T T T Y V V V 
+U X U N T L Y Y F V 
+X X X N T L Y F F V 
+P X N N W L Y Z F F 
+P P N W W L L Z Z Z 
+P P W W I I I I I Z 
+Solution 597 :
+U U U T T T V V V Y 
+U X U N T L V Z Z Y 
+X X X N T L V Z Y Y 
+P X N N W L Z Z F Y 
+P P N W W L L F F F 
+P P W W I I I I I F 
+Solution 598 :
+U U U T T T V V V Z 
+U X U N T L V Z Z Z 
+X X X N T L V Z F Y 
+P X N N W L F F F Y 
+P P N W W L L F Y Y 
+P P W W I I I I I Y 
+Solution 599 :
+U U U T T T L L L L 
+U X U N T Y Y Y Y L 
+X X X N T W Y V V V 
+P X N N W W F Z Z V 
+P P N W W F F F Z V 
+P P I I I I I F Z Z 
+Solution 600 :
+U U U T T T L L L L 
+U X U N T Y Y Y Y L 
+X X X N T W F Y Z Z 
+P X N N W W F F Z V 
+P P N W W F F Z Z V 
+P P I I I I I V V V 
+Solution 601 :
+U U U T T T L L L L 
+U N U F T W L V V V 
+N N F F T W W Z Z V 
+N P P F F X W W Z V 
+N P P P X X X Y Z Z 
+I I I I I X Y Y Y Y 
+Solution 602 :
+U U U T I I I I I F 
+U X U T T T W F F F 
+X X X T N N W W F L 
+V X N N N Z Z W W L 
+V Y Y Y Y Z P P P L 
+V V V Y Z Z P P L L 
+Solution 603 :
+U U U T I I I I I W 
+U X U T T T N N W W 
+X X X T N N N W W Y 
+V X F Z Z L L L L Y 
+V F F F Z L P P Y Y 
+V V V F Z Z P P P Y 
+Solution 604 :
+U U U T I I I I I Y 
+U X U T T T N N Y Y 
+X X X T N N N W W Y 
+V X P P Z Z W W F Y 
+V P P P Z L W F F F 
+V V V Z Z L L L L F 
+Solution 605 :
+U U U T I I I I I Y 
+U F U T T T N N N Y 
+F F F T X N N W Y Y 
+V Z F X X X W W P Y 
+V Z Z Z X W W L P P 
+V V V Z L L L L P P 
+Solution 606 :
+U U U T I I I I I Y 
+U F U T T T N N N Y 
+F F F T X N N P Y Y 
+V Z F X X X W P P Y 
+V Z Z Z X W W P P L 
+V V V Z W W L L L L 
+Solution 607 :
+U U U T I I I I I Y 
+U F U T T T N N N Y 
+F F F T X N N L Y Y 
+V Z F X X X W L P Y 
+V Z Z Z X W W L P P 
+V V V Z W W L L P P 
+Solution 608 :
+U U U T I I I I I Z 
+U X U T T T F Z Z Z 
+X X X T W F F Z N L 
+V X P P W W F F N L 
+V P P P Y W W N N L 
+V V V Y Y Y Y N L L 
+Solution 609 :
+U U U T I I I I I Z 
+U X U T T T Y Z Z Z 
+X X X T W W Y Z N L 
+P X V W W F Y Y N L 
+P P V W F F Y N N L 
+P P V V V F F N L L 
+Solution 610 :
+U U U T I I I I I Z 
+U F U T T T N Z Z Z 
+F F F T W W N Z L L 
+P P F W W X N N V L 
+P P Y W X X X N V L 
+P Y Y Y Y X V V V L 
+Solution 611 :
+U U U T I I I I I L 
+U X U T T T P P P L 
+X X X T N N N P P L 
+V X F N N W W Z L L 
+V F F F W W Y Z Z Z 
+V V V F W Y Y Y Y Z 
+Solution 612 :
+U U U T I I I I I L 
+U F U T T T N N N L 
+F F F T X N N W W L 
+V Z F X X X W W L L 
+V Z Z Z X Y W P P P 
+V V V Z Y Y Y Y P P 
+Solution 613 :
+U U U T I I I I I L 
+U X U T T T L L L L 
+X X X T N N N P P P 
+V X F N N W W Z P P 
+V F F F W W Y Z Z Z 
+V V V F W Y Y Y Y Z 
+Solution 614 :
+U U U T Y Y Y Y W I 
+U X U T T T Y W W I 
+X X X T N N W W L I 
+V X F Z Z N N N L I 
+V F F F Z P P P L I 
+V V V F Z Z P P L L 
+Solution 615 :
+U U U T Y Y Y Y L L 
+U X U T T T Y F F L 
+X X X T Z V F F N L 
+P X Z Z Z V W F N L 
+P P Z V V V W W N N 
+P P I I I I I W W N 
+Solution 616 :
+U U U T Y Y Y Y L L 
+U X U T T T Y W W L 
+X X X T Z V W W N L 
+P X Z Z Z V W F N L 
+P P Z V V V F F N N 
+P P I I I I I F F N 
+Solution 617 :
+U U U T Y Y Y Y L L 
+U X U T T T Y W W L 
+X X X T Z V W W F L 
+P X Z Z Z V W F F L 
+P P Z V V V N N F F 
+P P I I I I I N N N 
+Solution 618 :
+U U U T L L L L Z Z 
+U F U T T T N L Z I 
+F F F T W W N Z Z I 
+P P F W W X N N V I 
+P P Y W X X X N V I 
+P Y Y Y Y X V V V I 
+Solution 619 :
+U U U W I I I I I N 
+U X U W W Y Y Y Y N 
+X X X Z W W Y F N N 
+P X T Z Z Z F F N V 
+P P T T T Z L F F V 
+P P T L L L L V V V 
+Solution 620 :
+U U U W I I I I I T 
+U X U W W N N T T T 
+X X X F W W N N N T 
+P X F F Y Y Y Y Z V 
+P P L F F Y Z Z Z V 
+P P L L L L Z V V V 
+Solution 621 :
+U U U W I I I I I T 
+U X U W W F F T T T 
+X X X Z W W F F N T 
+V X Y Z Z Z F P N N 
+V Y Y Y Y Z L P P N 
+V V V L L L L P P N 
+Solution 622 :
+U U U W I I I I I T 
+U X U W W F F T T T 
+X X X Z W W F F N T 
+V X Y Z Z Z F N N P 
+V Y Y Y Y Z L N P P 
+V V V L L L L N P P 
+Solution 623 :
+U U U W I I I I I Y 
+U X U W W N N N Y Y 
+X X X Z W W T N N Y 
+V X F Z Z Z T T T Y 
+V F F F L Z T P P P 
+V V V F L L L L P P 
+Solution 624 :
+U U U W N N Y Y Y Y 
+U X U W W N N N Y I 
+X X X Z W W P P P I 
+V X F Z Z Z P P T I 
+V F F F L Z T T T I 
+V V V F L L L L T I 
+Solution 625 :
+U U U W N N L L L L 
+U X U W W N N N F L 
+X X X Z W W T F F F 
+V X Y Z Z Z T T T F 
+V Y Y Y Y Z T P P P 
+V V V I I I I I P P 
+Solution 626 :
+U U U W N N L L L L 
+U F U W W N N N X L 
+F F F T W W Z X X X 
+F T T T Z Z Z Y X V 
+P P P T Z Y Y Y Y V 
+P P I I I I I V V V 
+Solution 627 :
+U U U W Y Y Y Y N N 
+U X U W W Y N N N I 
+X X X Z W W P P P I 
+V X F Z Z Z P P T I 
+V F F F L Z T T T I 
+V V V F L L L L T I 
+Solution 628 :
+U U U W Y Y Y Y T I 
+U X U W W Y T T T I 
+X X X Z W W P P T I 
+V X F Z Z Z P P P I 
+V F F F L Z N N N I 
+V V V F L L L L N N 
+Solution 629 :
+U U U W Y Y Y Y Z I 
+U X U W W Y Z Z Z I 
+X X X N W W Z T L I 
+V X F N N T T T L I 
+V F F F N P P T L I 
+V V V F N P P P L L 
+Solution 630 :
+U U U W Y Y Y Y Z I 
+U X U W W Y Z Z Z I 
+X X X F W W Z T L I 
+V X F F F T T T L I 
+V N N N F P P T L I 
+V V V N N P P P L L 
+Solution 631 :
+U U U W Y Y Y Y Z V 
+U X U W W Y Z Z Z V 
+X X X F W W Z V V V 
+T X F F L L L L P P 
+T T T F F N N L P P 
+T I I I I I N N N P 
+Solution 632 :
+U U U W Y Y Y Y Z V 
+U X U W W Y Z Z Z V 
+X X X F W W Z V V V 
+P X F F I I I I I T 
+P P L F F N N T T T 
+P P L L L L N N N T 
+Solution 633 :
+U U U W Y Y Y Y P L 
+U X U W W Y V P P L 
+X X X F W W V P P L 
+T X F F V V V Z L L 
+T T T F F N N Z Z Z 
+T I I I I I N N N Z 
+Solution 634 :
+U U U W Y Y Y Y L L 
+U X U W W Y V P P L 
+X X X F W W V P P L 
+T X F F V V V Z P L 
+T T T F F N N Z Z Z 
+T I I I I I N N N Z 
+Solution 635 :
+U U U W P P P Z Z N 
+U X U W W P P Z N N 
+X X X F W W Z Z N V 
+T X F F Y Y Y Y N V 
+T T T F F Y L V V V 
+T I I I I I L L L L 
+Solution 636 :
+U U U W P P P V V V 
+U X U W W P P Z Z V 
+X X X F W W N N Z V 
+T X F F N N N Y Z Z 
+T T T F F Y Y Y Y L 
+T I I I I I L L L L 
+Solution 637 :
+U U U W L L L L P P 
+U X U W W N N L P P 
+X X X F W W N N N P 
+T X F F Y Y Y Y Z V 
+T T T F F Y Z Z Z V 
+T I I I I I Z V V V 
+Solution 638 :
+U U U W L L L L P P 
+U X U W W F F L P P 
+X X X Z W W F F P T 
+V X Y Z Z Z F T T T 
+V Y Y Y Y Z N N N T 
+V V V I I I I I N N 
+Solution 639 :
+U U U W W I I I I I 
+U X U F W W N V V V 
+X X X F F W N Z Z V 
+T X F F P P N N Z V 
+T T T Y P P L N Z Z 
+T Y Y Y Y P L L L L 
+Solution 640 :
+U U U W W I I I I I 
+U X U F W W Z V V V 
+X X X F F W Z Z Z V 
+T X F F P P N N Z V 
+T T T Y P P L N N N 
+T Y Y Y Y P L L L L 
+Solution 641 :
+U U U W W I I I I I 
+U X U F W W V V V N 
+X X X F F W V Z Z N 
+T X F F P P V Z N N 
+T T T Y P P Z Z N L 
+T Y Y Y Y P L L L L 
+Solution 642 :
+U U U W W I I I I I 
+U X U F W W V V V Z 
+X X X F F W V Z Z Z 
+T X F F P P V Z N N 
+T T T Y P P N N N L 
+T Y Y Y Y P L L L L 
+Solution 643 :
+U U U W W I I I I I 
+U X U F W W L L L L 
+X X X F F W N N N L 
+T X F F P P V Z N N 
+T T T Y P P V Z Z Z 
+T Y Y Y Y P V V V Z 
+Solution 644 :
+U U U W W I I I I I 
+U X U F W W L L L L 
+X X X F F W Z Z N L 
+T X F F P P V Z N N 
+T T T Y P P V Z Z N 
+T Y Y Y Y P V V V N 
+Solution 645 :
+U U U W W I I I I I 
+U X U F W W L L L L 
+X X X F F W L N N N 
+T X F F P P N N Z V 
+T T T Y P P Z Z Z V 
+T Y Y Y Y P Z V V V 
+Solution 646 :
+U U U W W I I I I I 
+U X U F W W L L L L 
+X X X F F W L N Z Z 
+T X F F P P N N Z V 
+T T T Y P P N Z Z V 
+T Y Y Y Y P N V V V 
+Solution 647 :
+U U U W W I I I I I 
+U N U P W W Z Z F F 
+N N V P P W Z F F L 
+N T V P P Z Z X F L 
+N T V V V Y X X X L 
+T T T Y Y Y Y X L L 
+Solution 648 :
+U U U W W I I I I I 
+U N U P W W Z Z F F 
+N N P P V W Z F F L 
+N T P P V Z Z X F L 
+N T V V V Y X X X L 
+T T T Y Y Y Y X L L 
+Solution 649 :
+U U U W W I I I I I 
+U F U X W W N V V V 
+F F X X X W N Z Z V 
+T F F X P P N N Z V 
+T T T Y P P L N Z Z 
+T Y Y Y Y P L L L L 
+Solution 650 :
+U U U W W I I I I I 
+U F U X W W Z V V V 
+F F X X X W Z Z Z V 
+T F F X P P N N Z V 
+T T T Y P P L N N N 
+T Y Y Y Y P L L L L 
+Solution 651 :
+U U U W W I I I I I 
+U F U X W W V V V N 
+F F X X X W V Z Z N 
+T F F X P P V Z N N 
+T T T Y P P Z Z N L 
+T Y Y Y Y P L L L L 
+Solution 652 :
+U U U W W I I I I I 
+U F U X W W V V V Z 
+F F X X X W V Z Z Z 
+T F F X P P V Z N N 
+T T T Y P P N N N L 
+T Y Y Y Y P L L L L 
+Solution 653 :
+U U U W W I I I I I 
+U F U X W W L L L L 
+F F X X X W N N N L 
+T F F X P P V Z N N 
+T T T Y P P V Z Z Z 
+T Y Y Y Y P V V V Z 
+Solution 654 :
+U U U W W I I I I I 
+U F U X W W L L L L 
+F F X X X W Z Z N L 
+T F F X P P V Z N N 
+T T T Y P P V Z Z N 
+T Y Y Y Y P V V V N 
+Solution 655 :
+U U U W W I I I I I 
+U F U X W W L L L L 
+F F X X X W L N N N 
+T F F X P P N N Z V 
+T T T Y P P Z Z Z V 
+T Y Y Y Y P Z V V V 
+Solution 656 :
+U U U W W I I I I I 
+U F U X W W L L L L 
+F F X X X W L N Z Z 
+T F F X P P N N Z V 
+T T T Y P P N Z Z V 
+T Y Y Y Y P N V V V 
+Solution 657 :
+U U U W W N N N L L 
+U X U F W W I N N L 
+X X X F F W I Z Z L 
+T X F F P P I V Z L 
+T T T Y P P I V Z Z 
+T Y Y Y Y P I V V V 
+Solution 658 :
+U U U W W N N N L L 
+U F U X W W I N N L 
+F F X X X W I Z Z L 
+T F F X P P I V Z L 
+T T T Y P P I V Z Z 
+T Y Y Y Y P I V V V 
+Solution 659 :
+U U U W W F F T T T 
+U N U X W W F F T I 
+N N X X X W F L T I 
+N Z Z X L L L L V I 
+N Z P P Y Y Y Y V I 
+Z Z P P P Y V V V I 
+Solution 660 :
+U U U W W F F T T T 
+U Y U X W W F F T I 
+L Y X X X W F N T I 
+L Y Y X Z V P N N I 
+L Y Z Z Z V P P N I 
+L L Z V V V P P N I 
+Solution 661 :
+U U U W W F F T T T 
+U Y U X W W F F T I 
+L Y X X X W F N T I 
+L Y Y X Z V N N P I 
+L Y Z Z Z V N P P I 
+L L Z V V V N P P I 
+Solution 662 :
+U U U W W T T T F F 
+U N U X W W T F F I 
+N N X X X W T L F I 
+N Z Z X L L L L V I 
+N Z P P Y Y Y Y V I 
+Z Z P P P Y V V V I 
+Solution 663 :
+U U U W W T T T F F 
+U Y U X W W T F F I 
+L Y X X X W T N F I 
+L Y Y X Z V P N N I 
+L Y Z Z Z V P P N I 
+L L Z V V V P P N I 
+Solution 664 :
+U U U W W T T T F F 
+U Y U X W W T F F I 
+L Y X X X W T N F I 
+L Y Y X Z V N N P I 
+L Y Z Z Z V N P P I 
+L L Z V V V N P P I 
+Solution 665 :
+U U U W W T T T Y I 
+U X U P W W T Y Y I 
+X X X P P W T Z Y I 
+V X F P P Z Z Z Y I 
+V F F F L Z N N N I 
+V V V F L L L L N N 
+Solution 666 :
+U U U W W T T T P P 
+U N U X W W T P P P 
+N N X X X W T V V V 
+N Z Z X Y Y Y Y F V 
+N Z L L L L Y F F V 
+Z Z L I I I I I F F 
+Solution 667 :
+U U U W W T T T P P 
+U Y U X W W T P P P 
+L Y X X X W T V V V 
+L Y Y X N N F Z Z V 
+L Y N N N F F F Z V 
+L L I I I I I F Z Z 
+Solution 668 :
+U U U W W T T T P P 
+U N U X W W T V P P 
+N N X X X W T V P L 
+N Z Z X Y V V V F L 
+N Z Y Y Y Y F F F L 
+Z Z I I I I I F L L 
+Solution 669 :
+U U U W W T T T P I 
+U Y U N W W T P P I 
+Y Y N N X W T P P I 
+V Y N X X X F Z Z I 
+V Y N L X F F F Z I 
+V V V L L L L F Z Z 
+Solution 670 :
+U U U W W T T T L L 
+U X U P W W T Z Z L 
+X X X P P W T Z N L 
+V X F P P Y Z Z N L 
+V F F F Y Y Y Y N N 
+V V V F I I I I I N 
+Solution 671 :
+U U U W W Y Y Y Y T 
+U X U F W W Y T T T 
+X X X F F W N N N T 
+P X F F Z N N V V V 
+P P Z Z Z L L L L V 
+P P Z I I I I I L V 
+Solution 672 :
+U U U W W Y Y Y Y T 
+U X U F W W Y T T T 
+X X X F F W N N N T 
+L X F F P P V Z N N 
+L L L L P P V Z Z Z 
+I I I I I P V V V Z 
+Solution 673 :
+U U U W W Y Y Y Y T 
+U X U F W W Y T T T 
+X X X F F W Z Z N T 
+L X F F P P V Z N N 
+L L L L P P V Z Z N 
+I I I I I P V V V N 
+Solution 674 :
+U U U W W Y Y Y Y T 
+U F U X W W Y T T T 
+F F X X X W N N N T 
+P F F X Z N N V V V 
+P P Z Z Z L L L L V 
+P P Z I I I I I L V 
+Solution 675 :
+U U U W W Y Y Y Y T 
+U F U X W W Y T T T 
+F F X X X W N N N T 
+L F F X P P V Z N N 
+L L L L P P V Z Z Z 
+I I I I I P V V V Z 
+Solution 676 :
+U U U W W Y Y Y Y T 
+U F U X W W Y T T T 
+F F X X X W Z Z N T 
+L F F X P P V Z N N 
+L L L L P P V Z Z N 
+I I I I I P V V V N 
+Solution 677 :
+U U U W W Y Y Y Y Z 
+U X U N W W Y Z Z Z 
+X X X N N W F Z L L 
+V X P P N F F F T L 
+V P P P N F T T T L 
+V V V I I I I I T L 
+Solution 678 :
+U U U W W Y Y Y Y Z 
+U F U V W W Y Z Z Z 
+F F F V T W X Z N L 
+F V V V T X X X N L 
+P P P T T T X N N L 
+P P I I I I I N L L 
+Solution 679 :
+U U U W W V V V P P 
+U N U X W W T V P P 
+N N X X X W T V P L 
+N Z Z X Y T T T F L 
+N Z Y Y Y Y F F F L 
+Z Z I I I I I F L L 
+Solution 680 :
+U U U W W P P P Z Z 
+U X U Y W W P P Z N 
+X X X Y V W F Z Z N 
+T X Y Y V F F F N N 
+T T T Y V V V F N L 
+T I I I I I L L L L 
+Solution 681 :
+U U U W W L L L L N 
+U X U F W W Z Z L N 
+X X X F F W Z T N N 
+P X F F Y Z Z T N V 
+P P Y Y Y Y T T T V 
+P P I I I I I V V V 
+Solution 682 :
+U U U W W L L L L N 
+U F U X W W Z Z L N 
+F F X X X W Z T N N 
+P F F X Y Z Z T N V 
+P P Y Y Y Y T T T V 
+P P I I I I I V V V 
+Solution 683 :
+U U U Y Y Y Y N N W 
+U X U T Y N N N W W 
+X X X T V V V W W Z 
+L X T T T F V Z Z Z 
+L L L L F F V Z P P 
+I I I I I F F P P P 
+Solution 684 :
+U U U Y Y Y Y N N W 
+U F U Z Y N N N W W 
+F F F Z Z Z T W W V 
+F P P P X Z T T T V 
+L P P X X X T V V V 
+L L L L X I I I I I 
+Solution 685 :
+U U U Y Y Y Y N N W 
+U F U Z Y N N N W W 
+F F F Z Z Z V W W T 
+F P P P X Z V T T T 
+L P P X X X V V V T 
+L L L L X I I I I I 
+Solution 686 :
+U U U Y Y Y Y N N W 
+U P U Z Y N N N W W 
+P P F Z Z Z T W W V 
+P P F F X Z T T T V 
+L F F X X X T V V V 
+L L L L X I I I I I 
+Solution 687 :
+U U U Y Y Y Y N N W 
+U P U Z Y N N N W W 
+P P F Z Z Z V W W T 
+P P F F X Z V T T T 
+L F F X X X V V V T 
+L L L L X I I I I I 
+Solution 688 :
+U U U Y Y Y Y N P P 
+U X U F Y Z Z N P P 
+X X X F F Z W N N P 
+T X F F Z Z W W N V 
+T T T L L L L W W V 
+T I I I I I L V V V 
+Solution 689 :
+U U U Y Y Y Y N P P 
+U F U X Y Z Z N P P 
+F F X X X Z W N N P 
+T F F X Z Z W W N V 
+T T T L L L L W W V 
+T I I I I I L V V V 
+Solution 690 :
+U U U Y Y Y Y F Z Z 
+U X U T Y F F F Z V 
+X X X T W W F Z Z V 
+L X T T T W W V V V 
+L L L L N N W P P P 
+I I I I I N N N P P 
+Solution 691 :
+U U U Y Y Y Y F Z Z 
+U N U X Y F F F Z V 
+N N X X X P F Z Z V 
+N T W X P P L V V V 
+N T W W P P L L L L 
+T T T W W I I I I I 
+Solution 692 :
+U U U Y Y Y Y T T T 
+U N U X Y F L L T I 
+N N X X X F F L T I 
+N Z Z X F F W L V I 
+N Z P P P W W L V I 
+Z Z P P W W V V V I 
+Solution 693 :
+U U U Y Y Y Y T T T 
+U N U F Y X L L T I 
+N N F F X X X L T I 
+N Z Z F F X W L V I 
+N Z P P P W W L V I 
+Z Z P P W W V V V I 
+Solution 694 :
+U U U Y Y Y Y T T T 
+U P U X Y F L L T I 
+P P X X X F F L T I 
+P P Z X F F W L V I 
+Z Z Z N N W W L V I 
+Z N N N W W V V V I 
+Solution 695 :
+U U U Y Y Y Y T T T 
+U P U F Y X L L T I 
+P P F F X X X L T I 
+P P Z F F X W L V I 
+Z Z Z N N W W L V I 
+Z N N N W W V V V I 
+Solution 696 :
+U U U Y Y Y Y Z V I 
+U N U X Y Z Z Z V I 
+N N X X X Z V V V I 
+N T W X L L L L F I 
+N T W W L P P F F I 
+T T T W W P P P F F 
+Solution 697 :
+U U U Y Y Y Y Z P P 
+U X U F Y Z Z Z P P 
+X X X F F Z W W P T 
+V X F F L W W T T T 
+V L L L L W N N N T 
+V V V I I I I I N N 
+Solution 698 :
+U U U Y Y Y Y Z P P 
+U F U X Y Z Z Z P P 
+F F X X X Z W W P T 
+V F F X L W W T T T 
+V L L L L W N N N T 
+V V V I I I I I N N 
+Solution 699 :
+U U U Y Y Y Y V V V 
+U X U F Y Z Z W W V 
+X X X F F Z W W N V 
+T X F F Z Z W P N N 
+T T T L L L L P P N 
+T I I I I I L P P N 
+Solution 700 :
+U U U Y Y Y Y V V V 
+U X U F Y Z Z W W V 
+X X X F F Z W W N V 
+T X F F Z Z W N N P 
+T T T L L L L N P P 
+T I I I I I L N P P 
+Solution 701 :
+U U U Y Y Y Y V V V 
+U X U Z Y T T T F V 
+X X X Z Z Z T F F V 
+L X N N N Z T W F F 
+L L L L N N W W P P 
+I I I I I W W P P P 
+Solution 702 :
+U U U Y Y Y Y V V V 
+U N U X Y W W Z Z V 
+N N X X X F W W Z V 
+N T L X F F F W Z Z 
+N T L L L L F P P P 
+T T T I I I I I P P 
+Solution 703 :
+U U U Y Y Y Y V V V 
+U F U X Y Z Z W W V 
+F F X X X Z W W N V 
+T F F X Z Z W P N N 
+T T T L L L L P P N 
+T I I I I I L P P N 
+Solution 704 :
+U U U Y Y Y Y V V V 
+U F U X Y Z Z W W V 
+F F X X X Z W W N V 
+T F F X Z Z W N N P 
+T T T L L L L N P P 
+T I I I I I L N P P 
+Solution 705 :
+U U U Y Y Y Y P P P 
+U X U Z Y F F P P W 
+X X X Z Z Z F F W W 
+V X N N N Z F W W T 
+V N N L L L L T T T 
+V V V L I I I I I T 
+Solution 706 :
+U U U Y Y Y Y P P N 
+U X U F Y Z Z P P N 
+X X X F F Z W P N N 
+T X F F Z Z W W N V 
+T T T L L L L W W V 
+T I I I I I L V V V 
+Solution 707 :
+U U U Y Y Y Y P P N 
+U F U X Y Z Z P P N 
+F F X X X Z W P N N 
+T F F X Z Z W W N V 
+T T T L L L L W W V 
+T I I I I I L V V V 
+Solution 708 :
+U U U Y I I I I I T 
+U F U Y N N N T T T 
+F F F Y Y X N N W T 
+V Z F Y X X X W W P 
+V Z Z Z L X W W P P 
+V V V Z L L L L P P 
+Solution 709 :
+U U U Y I I I I I T 
+U F U Y N N N T T T 
+F F F Y Y W N N X T 
+V Z F Y P W W X X X 
+V Z Z Z P P W W X L 
+V V V Z P P L L L L 
+Solution 710 :
+U U U Y L L L L W I 
+U X U Y L Z Z W W I 
+X X X Y Y Z W W T I 
+V X F Y Z Z T T T I 
+V F F F P P N N T I 
+V V V F P P P N N N 
+Solution 711 :
+U U U Y I I I I I T 
+U N U Y V V V T T T 
+N N Y Y V W W F F T 
+N Z Z Y V X W W F F 
+N Z P P X X X W F L 
+Z Z P P P X L L L L 
+Solution 712 :
+U U U Y L L F T T T 
+U N U Y L F F F T I 
+N N Y Y L W W F T I 
+N Z Z Y L X W W V I 
+N Z P P X X X W V I 
+Z Z P P P X V V V I 
+Solution 713 :
+U U U Y L L W W P P 
+U F U Y L W W X P P 
+F F Y Y L W X X X P 
+T F F Y L N N X Z V 
+T T T N N N Z Z Z V 
+T I I I I I Z V V V 
+Solution 714 :
+U U U Y L L L L P P 
+U F U Y L W W X P P 
+F F Y Y W W X X X P 
+T F F Y W N N X Z V 
+T T T N N N Z Z Z V 
+T I I I I I Z V V V 
+Solution 715 :
+U U U Y I I I I I T 
+U X U Y Y W W T T T 
+X X X Y P P W W N T 
+V X F Y P P Z W N N 
+V F F F L P Z Z Z N 
+V V V F L L L L Z N 
+Solution 716 :
+U U U Y I I I I I T 
+U X U Y Y Z Z T T T 
+X X X Y P P Z W W T 
+V X F Y P P Z Z W W 
+V F F F L P N N N W 
+V V V F L L L L N N 
+Solution 717 :
+U U U Y I I I I I T 
+U X U Y Y Z Z T T T 
+X X X Y L N Z W W T 
+V X F Y L N Z Z W W 
+V F F F L N N P P W 
+V V V F L L N P P P 
+Solution 718 :
+U U U Y I I I I I W 
+U X U Y Y N L L W W 
+X X X Y N N L W W Z 
+V X F Y N T L Z Z Z 
+V F F F N T L Z P P 
+V V V F T T T P P P 
+Solution 719 :
+U U U Y I I I I I W 
+U X U Y Y T T T W W 
+X X X Y L N T W W Z 
+V X F Y L N T Z Z Z 
+V F F F L N N Z P P 
+V V V F L L N P P P 
+Solution 720 :
+U U U Y I I I I I Z 
+U X U Y Y W W Z Z Z 
+X X X Y W W F Z L L 
+P X T Y W F F F V L 
+P P T T T N N F V L 
+P P T N N N V V V L 
+Solution 721 :
+U U U Y T T T N N N 
+U X U Y Y T N N Z I 
+X X X Y W T Z Z Z I 
+V X F Y W W Z P P I 
+V F F F L W W P P I 
+V V V F L L L L P I 
+Solution 722 :
+U U U Y T T T N N N 
+U X U Y Y T N N Z I 
+X X X Y L T Z Z Z I 
+V X F Y L W Z P P I 
+V F F F L W W P P I 
+V V V F L L W W P I 
+Solution 723 :
+U U U Y T T T N Z Z 
+U X U Y Y T N N Z I 
+X X X Y W T N Z Z I 
+V X F Y W W N P P I 
+V F F F L W W P P I 
+V V V F L L L L P I 
+Solution 724 :
+U U U Y T T T N Z Z 
+U X U Y Y T N N Z I 
+X X X Y L T N Z Z I 
+V X F Y L W N P P I 
+V F F F L W W P P I 
+V V V F L L W W P I 
+Solution 725 :
+U U U Y L L L L Z Z 
+U X U Y Y W W L Z I 
+X X X Y W W F Z Z I 
+P X T Y W F F F V I 
+P P T T T N N F V I 
+P P T N N N V V V I 
+Solution 726 :
+U U U Y Y Y Y X L L 
+U P U W W Y X X X L 
+P P F F W W V X N L 
+P P Z F F W V T N L 
+Z Z Z F V V V T N N 
+Z I I I I I T T T N 
+Solution 727 :
+U U U Y Y Y Y N N N 
+U X U Z Z Y N N F I 
+X X X Z T W F F F I 
+P X Z Z T W W F V I 
+P P L T T T W W V I 
+P P L L L L V V V I 
+Solution 728 :
+U U U Y Y Y Y N N N 
+U F U Z Z Y N N L V 
+F F F T Z L L L L V 
+F W W T Z Z X V V V 
+W W T T T X X X P P 
+W I I I I I X P P P 
+Solution 729 :
+U U U Y Y Y Y N P P 
+U X U Z Z Y F N P P 
+X X X W Z F F N N P 
+V X W W Z Z F F N T 
+V W W L L L L T T T 
+V V V L I I I I I T 
+Solution 730 :
+U U U Y Y Y Y F L L 
+U X U Z Z Y F F F L 
+X X X Z P P F W T L 
+V X Z Z P P W W T L 
+V N N N P W W T T T 
+V V V N N I I I I I 
+Solution 731 :
+U U U Y Y Y Y F P P 
+U X U Z Z Y F F P P 
+X X X W Z N N F F P 
+V X W W Z Z N N N T 
+V W W L L L L T T T 
+V V V L I I I I I T 
+Solution 732 :
+U U U Y Y Y Y F F P 
+U X U Z Z Y F F P P 
+X X X W Z N N F P P 
+V X W W Z Z N N N T 
+V W W L L L L T T T 
+V V V L I I I I I T 
+Solution 733 :
+U U U Y Y Y Y F L L 
+U X U Z Z Y F F F L 
+X X X Z P P T W F L 
+V X Z Z P P T W W L 
+V N N N P T T T W W 
+V V V N N I I I I I 
+Solution 734 :
+U U U Y Y Y Y T T T 
+U X U N Z Y L L T I 
+X X X N Z Z Z L T I 
+P X N N W F Z L V I 
+P P N W W F F L V I 
+P P W W F F V V V I 
+Solution 735 :
+U U U Y Y Y Y T T T 
+U X U L L Y Z N T I 
+X X X L Z Z Z N T I 
+P X V L Z F W N N I 
+P P V L F F W W N I 
+P P V V V F F W W I 
+Solution 736 :
+U U U Y Y Y Y T T T 
+U N U F F Y W W T I 
+N N F F V W W X T I 
+N Z Z F V W X X X I 
+N Z P P V V V X L I 
+Z Z P P P L L L L I 
+Solution 737 :
+U U U Y Y Y Y T T T 
+U N U F F Y W W T L 
+N N F F V W W X T L 
+N Z Z F V W X X X L 
+N Z P P V V V X L L 
+Z Z P P P I I I I I 
+Solution 738 :
+U U U Y Y Y Y W N I 
+U X U Z Z Y W W N I 
+X X X Z V W W N N I 
+P X Z Z V F F N T I 
+P P V V V L F F T I 
+P P L L L L F T T T 
+Solution 739 :
+U U U Y Y Y Y V V V 
+U N U W W Y L L F V 
+N N W W P P L F F V 
+N T W X P P L Z F F 
+N T X X X P L Z Z Z 
+T T T X I I I I I Z 
+Solution 740 :
+U U U Y Y Y Y P P P 
+U X U Z Z Y F P P W 
+X X X Z N F F F W W 
+L X Z Z N F T W W V 
+L L L L N N T T T V 
+I I I I I N T V V V 
+Solution 741 :
+U U U Y Y Y Y P P P 
+U X U Z Z Y F P P W 
+X X X Z N F F F W W 
+L X Z Z N F V W W T 
+L L L L N N V T T T 
+I I I I I N V V V T 
+Solution 742 :
+U U U Y Y Y Y P P N 
+U X U Z Z Y F P P N 
+X X X W Z F F P N N 
+V X W W Z Z F F N T 
+V W W L L L L T T T 
+V V V L I I I I I T 
+Solution 743 :
+U U U Z I I I I I F 
+U X U Z Z Z Y F F F 
+X X X W N Z Y Y F L 
+V X W W N T Y P P L 
+V W W N N T Y P P L 
+V V V N T T T P L L 
+Solution 744 :
+U U U Z I I I I I T 
+U Y U Z Z Z N T T T 
+Y Y P P P Z N F F T 
+V Y W P P X N N F F 
+V Y W W X X X N F L 
+V V V W W X L L L L 
+Solution 745 :
+U U U Z I I I I I L 
+U N U Z Z Z L L L L 
+N N P P P Z F V V V 
+N T W P P X F F F V 
+N T W W X X X F Y V 
+T T T W W X Y Y Y Y 
+Solution 746 :
+U U U Z N N N T T T 
+U F U Z Z Z N N T I 
+Y F F F W Z P P T I 
+Y Y F W W X P P V I 
+Y L W W X X X P V I 
+Y L L L L X V V V I 
+Solution 747 :
+U U U Z N N N V V V 
+U X U Z Z Z N N F V 
+X X X P P Z W F F V 
+T X P P P Y W W F F 
+T T T Y Y Y Y W W L 
+T I I I I I L L L L 
+Solution 748 :
+U U U Z N N N V V V 
+U X U Z Z Z N N Y V 
+X X X F W Z P P Y V 
+T X F F W W P P Y Y 
+T T T F F W W P Y L 
+T I I I I I L L L L 
+Solution 749 :
+U U U Z Y Y Y Y F F 
+U X U Z Z Z Y F F V 
+X X X P P Z W W F V 
+T X P P P W W V V V 
+T T T N N W L L L L 
+T N N N I I I I I L 
+Solution 750 :
+U U U Z Y Y Y Y W W 
+U X U Z Z Z Y W W N 
+X X X P P Z F W N N 
+T X P P P F F F N V 
+T T T L L L L F N V 
+T I I I I I L V V V 
+Solution 751 :
+U U U Z Y Y Y Y P P 
+U X U Z Z Z Y P P P 
+X X X W F Z T N L L 
+V X W W F F T N N L 
+V W W F F T T T N L 
+V V V I I I I I N L 
+Solution 752 :
+U U U Z Y Y Y Y P P 
+U X U Z Z Z Y P P P 
+X X X W T Z F N L L 
+V X W W T F F N N L 
+V W W T T T F F N L 
+V V V I I I I I N L 
+Solution 753 :
+U U U Z Y Y Y Y P P 
+U X U Z Z Z Y N P P 
+X X X W F Z T N P L 
+V X W W F F T N N L 
+V W W F F T T T N L 
+V V V I I I I I L L 
+Solution 754 :
+U U U Z Y Y Y Y P P 
+U X U Z Z Z Y N P P 
+X X X W T Z F N P L 
+V X W W T F F N N L 
+V W W T T T F F N L 
+V V V I I I I I L L 
+Solution 755 :
+U U U Z Y Y Y Y P P 
+U X U Z Z Z Y F P P 
+X X X W T Z F F P L 
+V X W W T N N F F L 
+V W W T T T N N N L 
+V V V I I I I I L L 
+Solution 756 :
+U U U Z V V V N L L 
+U T U Z Z Z V N N L 
+Y T T T X Z V W N L 
+Y T F X X X W W N L 
+Y Y F F X W W P P P 
+Y F F I I I I I P P 
+Solution 757 :
+U U U Z V V V T T T 
+U F U Z Z Z V Y T N 
+P F F F W Z V Y T N 
+P P F W W X Y Y N N 
+P P W W X X X Y N L 
+I I I I I X L L L L 
+Solution 758 :
+U U U Z V V V P L L 
+U X U Z Z Z V P P L 
+X X X F W Z V P P L 
+T X F F W W N N N L 
+T T T F F W W Y N N 
+T I I I I I Y Y Y Y 
+Solution 759 :
+U U U Z L L L L P P 
+U T U Z Z Z N L P P 
+V T T T F Z N W W P 
+V T F F F X N N W W 
+V V V F X X X N Y W 
+I I I I I X Y Y Y Y 
+Solution 760 :
+U U U Z Z I I I I I 
+U X U T Z P P P L L 
+X X X T Z Z P P W L 
+V X T T T F F W W L 
+V N N N F F W W Y L 
+V V V N N F Y Y Y Y 
+Solution 761 :
+U U U Z Z I I I I I 
+U N U F Z P P P V L 
+N N F F Z Z P P V L 
+N T W F F X V V V L 
+N T W W X X X Y L L 
+T T T W W X Y Y Y Y 
+Solution 762 :
+U U U Z Z F L L L L 
+U X U T Z F F F W L 
+X X X T Z Z F W W P 
+V X T T T Y W W P P 
+V N N N Y Y Y Y P P 
+V V V N N I I I I I 
+Solution 763 :
+U U U Z Z P P P W W 
+U X U T Z P P W W I 
+X X X T Z Z F W L I 
+V X T T T F F F L I 
+V Y Y Y Y F N N L I 
+V V V Y N N N L L I 
+Solution 764 :
+U U U Z Z P P P L L 
+U X U T Z P P W W L 
+X X X T Z Z W W F L 
+V X T T T Y W F F L 
+V N N N Y Y Y Y F F 
+V V V N N I I I I I 
+Solution 765 :
+U U U Z Z L L L L I 
+U X U T Z P P P L I 
+X X X T Z Z P P W I 
+V X T T T F F W W I 
+V N N N F F W W Y I 
+V V V N N F Y Y Y Y 
+Solution 766 :
+U U U Z Z L L L L I 
+U X U T Z L P P P I 
+X X X T Z Z P P W I 
+V X T T T F F W W I 
+V N N N F F W W Y I 
+V V V N N F Y Y Y Y 
+Solution 767 :
+U U U Z Z L L L L I 
+U N U F Z L V V V I 
+N N F F Z Z V P P I 
+N T W F F X V P P I 
+N T W W X X X Y P I 
+T T T W W X Y Y Y Y 
+Solution 768 :
+U U U Z Z L L L L I 
+U N U F Z L V V V I 
+N N F F Z Z V P P I 
+N T W F F X V P P I 
+N T W W X X X P Y I 
+T T T W W X Y Y Y Y 
+Solution 769 :
+U U U Z Z L L L L I 
+U N U F Z L V V V I 
+N N F F Z Z P P V I 
+N T W F F X P P V I 
+N T W W X X X P Y I 
+T T T W W X Y Y Y Y 
+Solution 770 :
+U U U Z Z X Y Y Y Y 
+U N U Z X X X Y L L 
+N N Z Z F X V V V L 
+N T W F F P P P V L 
+N T W W F F P P V L 
+T T T W W I I I I I 
+Solution 771 :
+U U U Z Z X Y Y Y Y 
+U N U Z X X X Y L L 
+N N Z Z F X P P V L 
+N T W F F P P P V L 
+N T W W F F V V V L 
+T T T W W I I I I I 
+Solution 772 :
+U U U Z Z X Y Y Y Y 
+U V U Z X X X Y T I 
+L V Z Z F X T T T I 
+L V V V F F W W T I 
+L N N F F P P W W I 
+L L N N N P P P W I 
+Solution 773 :
+U U U Z Z X Y Y Y Y 
+U V U Z X X X Y T I 
+L V Z Z F X T T T I 
+L V V V F F W W T I 
+L N N F F W W P P I 
+L L N N N W P P P I 
+Solution 774 :
+U U U Z Z X Y Y Y Y 
+U V U Z X X X Y W W 
+L V Z Z F X T W W P 
+L V V V F F T W P P 
+L N N F F T T T P P 
+L L N N N I I I I I 
+Solution 775 :
+U U U Z Z X Y Y Y Y 
+U V U Z X X X Y W W 
+L V Z Z T X F W W P 
+L V V V T F F W P P 
+L N N T T T F F P P 
+L L N N N I I I I I 
+Solution 776 :
+U U U Z Z X Y Y Y Y 
+U V U Z X X X Y P P 
+L V Z Z F X T W P P 
+L V V V F F T W W P 
+L N N F F T T T W W 
+L L N N N I I I I I 
+Solution 777 :
+U U U Z Z X Y Y Y Y 
+U V U Z X X X Y P P 
+L V Z Z T X F W P P 
+L V V V T F F W W P 
+L N N T T T F F W W 
+L L N N N I I I I I 
+Solution 778 :
+U U U Z Z X Y Y Y Y 
+U F U Z X X X W Y I 
+F F Z Z L X W W P I 
+T F F V L W W P P I 
+T T T V L N N P P I 
+T V V V L L N N N I 
+Solution 779 :
+U U U Z Z X Y Y Y Y 
+U F U Z X X X W Y I 
+F F Z Z L X W W P I 
+V F F T L W W P P I 
+V T T T L N N P P I 
+V V V T L L N N N I 
+Solution 780 :
+U U U Z Z X Y Y Y Y 
+U P U Z X X X W Y N 
+P P Z Z T X W W N N 
+P P T T T W W F N V 
+L L L L T F F F N V 
+L I I I I I F V V V 
+Solution 781 :
+U U U Z Z X V V V I 
+U N U Z X X X W V I 
+N N Z Z L X W W V I 
+N P P P L W W F T I 
+N Y P P L F F F T I 
+Y Y Y Y L L F T T T 
+Solution 782 :
+U U U Z Z X P P P Y 
+U V U Z X X X P P Y 
+L V Z Z F X T W Y Y 
+L V V V F F T W W Y 
+L N N F F T T T W W 
+L L N N N I I I I I 
+Solution 783 :
+U U U Z Z X P P P Y 
+U V U Z X X X P P Y 
+L V Z Z T X F W Y Y 
+L V V V T F F W W Y 
+L N N T T T F F W W 
+L L N N N I I I I I 
+Solution 784 :
+U U U Z Z X P P P V 
+U N U Z X X X P P V 
+N N Z Z F X Y V V V 
+N T W F F Y Y Y Y L 
+N T W W F F L L L L 
+T T T W W I I I I I 
+Solution 785 :
+U U U Z Z X L L L L 
+U N U Z X X X W F L 
+N N Z Z V X W W F F 
+N P P P V W W F F T 
+N Y P P V V V T T T 
+Y Y Y Y I I I I I T 
+Solution 786 :
+U U U Z Z X L L L L 
+U N U Z X X X P P L 
+N N Z Z F X P P P V 
+N T W F F Y Y Y Y V 
+N T W W F F Y V V V 
+T T T W W I I I I I 
+Solution 787 :
+U U U Z Z X L L L L 
+U F U Z X X X W N L 
+F F Z Z Y X W W N N 
+T F F V Y W W P P N 
+T T T V Y Y P P P N 
+T V V V Y I I I I I 
+Solution 788 :
+U U U Z Z X L L L L 
+U F U Z X X X W N L 
+F F Z Z Y X W W N N 
+V F F T Y W W P P N 
+V T T T Y Y P P P N 
+V V V T Y I I I I I 
+Solution 789 :
+U U U Z Z X L L L L 
+U Y U Z X X X P P L 
+Y Y Z Z F X P P P T 
+V Y W F F N N T T T 
+V Y W W F F N N N T 
+V V V W W I I I I I 
+Solution 790 :
+U U U Z Z I I I I I 
+U N U Z F P P P V L 
+N N Z Z F F P P V L 
+N T W F F X V V V L 
+N T W W X X X Y L L 
+T T T W W X Y Y Y Y 
+Solution 791 :
+U U U Z Z I I I I I 
+U F U Z P P P T T T 
+F F Z Z P P W W T L 
+V F F N N W W X T L 
+V N N N Y W X X X L 
+V V V Y Y Y Y X L L 
+Solution 792 :
+U U U Z Z F L L L L 
+U N U Z F F L V V V 
+N N Z Z X F F V P P 
+N T W X X X Y V P P 
+N T W W X Y Y Y Y P 
+T T T W W I I I I I 
+Solution 793 :
+U U U Z Z F F T T T 
+U Y U Z P P F F T I 
+Y Y Z Z P P F X T I 
+V Y W N N P X X X I 
+V Y W W N N N X L I 
+V V V W W L L L L I 
+Solution 794 :
+U U U Z Z F F T T T 
+U Y U Z P P F F T L 
+Y Y Z Z P P F X T L 
+V Y W N N P X X X L 
+V Y W W N N N X L L 
+V V V W W I I I I I 
+Solution 795 :
+U U U Z Z F F N N N 
+U Y U Z F F N N T I 
+Y Y Z Z X F T T T I 
+V Y W X X X P P T I 
+V Y W W X P P P L I 
+V V V W W L L L L I 
+Solution 796 :
+U U U Z Z F F N N N 
+U Y U Z F F N N T I 
+Y Y Z Z X F T T T I 
+V Y W X X X P P T I 
+V Y W W X L P P P I 
+V V V W W L L L L I 
+Solution 797 :
+U U U Z Z F F N N N 
+U Y U Z F F N N T L 
+Y Y Z Z X F T T T L 
+V Y W X X X P P T L 
+V Y W W X P P P L L 
+V V V W W I I I I I 
+Solution 798 :
+U U U Z Z F F N N N 
+U Y U Z F F N N P I 
+Y Y Z Z X F T P P I 
+V Y W X X X T P P I 
+V Y W W X T T T L I 
+V V V W W L L L L I 
+Solution 799 :
+U U U Z Z F F N N N 
+U Y U Z F F N N P L 
+Y Y Z Z X F T P P L 
+V Y W X X X T P P L 
+V Y W W X T T T L L 
+V V V W W I I I I I 
+Solution 800 :
+U U U Z Z F F N N N 
+U Y U Z F F N N L L 
+Y Y Z Z X F T P P L 
+V Y W X X X T P P L 
+V Y W W X T T T P L 
+V V V W W I I I I I 
+Solution 801 :
+U U U Z Z F F T T T 
+U Y U Z F F P P T I 
+Y Y Z Z X F P P T I 
+V Y W X X X P N N I 
+V Y W W X N N N L I 
+V V V W W L L L L I 
+Solution 802 :
+U U U Z Z F F T T T 
+U Y U Z F F P P T L 
+Y Y Z Z X F P P T L 
+V Y W X X X P N N L 
+V Y W W X N N N L L 
+V V V W W I I I I I 
+Solution 803 :
+U U U Z Z F F P P P 
+U Y U Z F F T P P I 
+Y Y Z Z X F T T T I 
+V Y W X X X T N N I 
+V Y W W X N N N L I 
+V V V W W L L L L I 
+Solution 804 :
+U U U Z Z F F P P P 
+U Y U Z F F T P P L 
+Y Y Z Z X F T T T L 
+V Y W X X X T N N L 
+V Y W W X N N N L L 
+V V V W W I I I I I 
+Solution 805 :
+U U U Z Z T T T F F 
+U Y U Z P P T F F I 
+Y Y Z Z P P T X F I 
+V Y W N N P X X X I 
+V Y W W N N N X L I 
+V V V W W L L L L I 
+Solution 806 :
+U U U Z Z T T T F F 
+U Y U Z P P T F F L 
+Y Y Z Z P P T X F L 
+V Y W N N P X X X L 
+V Y W W N N N X L L 
+V V V W W I I I I I 
+Solution 807 :
+U U U Z Z W W X L L 
+U N U Z W W X X X L 
+Y N Z Z W F F X T L 
+Y N N V P P F F T L 
+Y Y N V P P F T T T 
+Y V V V P I I I I I 
+Solution 808 :
+U U U Z Z W W X L L 
+U F U Z W W X X X L 
+F F Z Z W T P X N L 
+V F F T T T P P N L 
+V Y Y Y Y T P P N N 
+V V V Y I I I I I N 
+Solution 809 :
+U U U Z Z W W X L L 
+U Y U Z W W X X X L 
+Y Y Z Z W N F X T L 
+V Y P P N N F F T L 
+V Y P P N F F T T T 
+V V V P N I I I I I 
+Solution 810 :
+U U U Z Z W W X L L 
+U Y U Z W W X X X L 
+Y Y Z Z W N T X F L 
+V Y P P N N T F F L 
+V Y P P N T T T F F 
+V V V P N I I I I I 
+Solution 811 :
+U U U Z Z W W X L L 
+U Y U Z W W X X X L 
+Y Y Z Z W T P X N L 
+V Y F T T T P P N L 
+V Y F F F T P P N N 
+V V V F I I I I I N 
+Solution 812 :
+U U U Z Z W W X L L 
+U V U Z W W X X X L 
+Y V Z Z W N F X T L 
+Y V V V N N F F T L 
+Y Y P P N F F T T T 
+Y P P P N I I I I I 
+Solution 813 :
+U U U Z Z W W X L L 
+U V U Z W W X X X L 
+Y V Z Z W N T X F L 
+Y V V V N N T F F L 
+Y Y P P N T T T F F 
+Y P P P N I I I I I 
+Solution 814 :
+U U U Z Z W W N N N 
+U F U Z W W N N T I 
+F F Z Z W X T T T I 
+V F F Y X X X P T I 
+V Y Y Y Y X L P P I 
+V V V L L L L P P I 
+Solution 815 :
+U U U Z Z W W N N N 
+U Y U Z W W N N F I 
+Y Y Z Z W X F F F I 
+V Y P P X X X F T I 
+V Y P P L X T T T I 
+V V V P L L L L T I 
+Solution 816 :
+U U U Z Z W W N N N 
+U Y U Z W W N N T I 
+Y Y Z Z W X T T T I 
+V Y P P X X X F T I 
+V Y P P L X F F F I 
+V V V P L L L L F I 
+Solution 817 :
+U U U Z Z W W N N N 
+U V U Z W W N N F I 
+Y V Z Z W X F F F I 
+Y V V V X X X F T I 
+Y Y P P L X T T T I 
+Y P P P L L L L T I 
+Solution 818 :
+U U U Z Z W W N N N 
+U V U Z W W N N T I 
+Y V Z Z W X T T T I 
+Y V V V X X X F T I 
+Y Y P P L X F F F I 
+Y P P P L L L L F I 
+Solution 819 :
+U U U Z Z W W N L L 
+U F U Z W W X N N L 
+F F Z Z W X X X N L 
+T F F V P P X Y N L 
+T T T V P P Y Y Y Y 
+T V V V P I I I I I 
+Solution 820 :
+U U U Z Z W W N L L 
+U F U Z W W X N N L 
+F F Z Z W X X X N L 
+V F F T P P X Y N L 
+V T T T P P Y Y Y Y 
+V V V T P I I I I I 
+Solution 821 :
+U U U Z Z W W P P P 
+U N U Z W W F P P I 
+Y N Z Z W X F F F I 
+Y N N V X X X F T I 
+Y Y N V L X T T T I 
+Y V V V L L L L T I 
+Solution 822 :
+U U U Z Z W W P P P 
+U F U Z W W X P P I 
+F F Z Z W X X X Y I 
+T F F V N N X Y Y I 
+T T T V L N N N Y I 
+T V V V L L L L Y I 
+Solution 823 :
+U U U Z Z W W P P P 
+U F U Z W W X P P I 
+F F Z Z W X X X Y I 
+V F F T N N X Y Y I 
+V T T T L N N N Y I 
+V V V T L L L L Y I 
+Solution 824 :
+U U U Z Z W W P P I 
+U F U Z W W N P P I 
+F F Z Z W X N N P I 
+V F F Y X X X N T I 
+V Y Y Y Y X L N T I 
+V V V L L L L T T T 
+Solution 825 :
+U U U Z Z Y L L L L 
+U F U Z Y Y N N N L 
+F F Z Z P Y W W N N 
+T F F P P Y X W W V 
+T T T P P X X X W V 
+T I I I I I X V V V 
+Solution 826 :
+U U U Z Z Y L L L L 
+U F U Z Y Y Y Y X L 
+F F Z Z P N W X X X 
+T F F P P N W W X V 
+T T T P P N N W W V 
+T I I I I I N V V V 
+Solution 827 :
+U U U Z Z V V V L I 
+U N U Z P P P V L I 
+N N Z Z X P P V L I 
+N T W X X X F L L I 
+N T W W X F F F Y I 
+T T T W W F Y Y Y Y 
+Solution 828 :
+U U U Z Z P P T T T 
+U Y U Z P P P F T I 
+Y Y Z Z X F F F T I 
+V Y W X X X F N N I 
+V Y W W X N N N L I 
+V V V W W L L L L I 
+Solution 829 :
+U U U Z Z P P T T T 
+U Y U Z P P P F T L 
+Y Y Z Z X F F F T L 
+V Y W X X X F N N L 
+V Y W W X N N N L L 
+V V V W W I I I I I 
+Solution 830 :
+U U U Z Z P P V L I 
+U N U Z P P P V L I 
+N N Z Z X V V V L I 
+N T W X X X F L L I 
+N T W W X F F F Y I 
+T T T W W F Y Y Y Y 
+Solution 831 :
+U U U Z Z P P V V V 
+U F U Z N P P W W V 
+F F Z Z N P W W X V 
+T F F N N Y W X X X 
+T T T N Y Y Y Y X L 
+T I I I I I L L L L 
+Solution 832 :
+U U U Z Z P P T T T 
+U Y U Z F P P P T I 
+Y Y Z Z F F F X T I 
+V Y W N N F X X X I 
+V Y W W N N N X L I 
+V V V W W L L L L I 
+Solution 833 :
+U U U Z Z P P T T T 
+U Y U Z F P P P T L 
+Y Y Z Z F F F X T L 
+V Y W N N F X X X L 
+V Y W W N N N X L L 
+V V V W W I I I I I 
+Solution 834 :
+U U U Z Z L L L L V 
+U N U Z Y Y Y Y L V 
+N N Z Z X Y F V V V 
+N T W X X X F F P P 
+N T W W X F F P P P 
+T T T W W I I I I I 
+Solution 835 :
+U U U Z Z L L L L V 
+U N U Z Y Y Y Y L V 
+N N Z Z F Y X V V V 
+N T W F F X X X P P 
+N T W W F F X P P P 
+T T T W W I I I I I 
+Solution 836 :
+U U U Z Z L L L L I 
+U N U Z F L V V V I 
+N N Z Z F F V P P I 
+N T W F F X V P P I 
+N T W W X X X Y P I 
+T T T W W X Y Y Y Y 
+Solution 837 :
+U U U Z Z L L L L I 
+U N U Z F L V V V I 
+N N Z Z F F V P P I 
+N T W F F X V P P I 
+N T W W X X X P Y I 
+T T T W W X Y Y Y Y 
+Solution 838 :
+U U U Z Z L L L L I 
+U N U Z F L V V V I 
+N N Z Z F F P P V I 
+N T W F F X P P V I 
+N T W W X X X P Y I 
+T T T W W X Y Y Y Y 
+Solution 839 :
+U U U Z Z L L L L T 
+U F U Z N L X T T T 
+F F Z Z N X X X W T 
+V F F Y N N X W W P 
+V Y Y Y Y N W W P P 
+V V V I I I I I P P 
+Solution 840 :
+U U U V V V N N W W 
+U X U V N N N W W Y 
+X X X V F Z Z W Y Y 
+T X F F F Z P P P Y 
+T T T F Z Z L P P Y 
+T I I I I I L L L L 
+Solution 841 :
+U U U V V V N N L L 
+U F U V N N N T L I 
+F F F V X T T T L I 
+F W W X X X Z T L I 
+P P W W X Y Z Z Z I 
+P P P W Y Y Y Y Z I 
+Solution 842 :
+U U U V V V N N L L 
+U F U V N N N T L I 
+F F F V X T T T L I 
+F W W X X X Z T L I 
+W W P P X Y Z Z Z I 
+W P P P Y Y Y Y Z I 
+Solution 843 :
+U U U V V V N N L L 
+U X U V N N N W W L 
+X X X V Z Z W W F L 
+T X P P P Z W F F L 
+T T T P P Z Z Y F F 
+T I I I I I Y Y Y Y 
+Solution 844 :
+U U U V V V F Y P P 
+U X U V F F F Y P P 
+X X X V Z F Y Y P W 
+T X N N Z Z Z Y W W 
+T T T N N N Z W W L 
+T I I I I I L L L L 
+Solution 845 :
+U U U V V V F Y P P 
+U X U V F F F Y P P 
+X X X V Z F Y Y P L 
+T X N N Z Z Z Y W L 
+T T T N N N Z W W L 
+T I I I I I W W L L 
+Solution 846 :
+U U U V V V F Z Z I 
+U P U V F F F Z N I 
+P P T V X F Z Z N I 
+P P T X X X W N N I 
+L T T T X W W N Y I 
+L L L L W W Y Y Y Y 
+Solution 847 :
+U U U V V V F T T T 
+U N U V L F F F T I 
+N N X V L F W W T I 
+N X X X L Z Z W W I 
+N Y X L L Z P P W I 
+Y Y Y Y Z Z P P P I 
+Solution 848 :
+U U U V V V F F W W 
+U X U V N F F W W L 
+X X X V N N F W Z L 
+T X P P P N Z Z Z L 
+T T T P P N Z Y L L 
+T I I I I I Y Y Y Y 
+Solution 849 :
+U U U V V V F F W W 
+U X U V P F F W W L 
+X X X V P P F W Z L 
+T X N N P P Z Z Z L 
+T T T N N N Z Y L L 
+T I I I I I Y Y Y Y 
+Solution 850 :
+U U U V V V F P P P 
+U X U V Z F F F P P 
+X X X V Z Z Z F W Y 
+T X L L L L Z W W Y 
+T T T N N L W W Y Y 
+T N N N I I I I I Y 
+Solution 851 :
+U U U V V V F L L I 
+U N U V T F F F L I 
+N N X V T T T F L I 
+N X X X T Z Z W L I 
+N Y X P P P Z W W I 
+Y Y Y Y P P Z Z W W 
+Solution 852 :
+U U U V V V Y Y Y Y 
+U X U V Z Z N Y L L 
+X X X V Z N N W W L 
+P X T Z Z N W W F L 
+P P T T T N W F F L 
+P P T I I I I I F F 
+Solution 853 :
+U U U V V V Z Y P P 
+U X U V Z Z Z Y P P 
+X X X V Z F Y Y P W 
+T X N N F F F Y W W 
+T T T N N N F W W L 
+T I I I I I L L L L 
+Solution 854 :
+U U U V V V Z Y P P 
+U X U V Z Z Z Y P P 
+X X X V Z F Y Y P L 
+T X N N F F F Y W L 
+T T T N N N F W W L 
+T I I I I I W W L L 
+Solution 855 :
+U U U V V V Z P P I 
+U X U V Z Z Z P P I 
+X X X V Z L F F P I 
+T X L L L L W F F I 
+T T T N N W W F Y I 
+T N N N W W Y Y Y Y 
+Solution 856 :
+U U U V V V Z P P P 
+U X U V Z Z Z F P P 
+X X X V Z F F F W Y 
+T X L L L L F W W Y 
+T T T N N L W W Y Y 
+T N N N I I I I I Y 
+Solution 857 :
+U U U V V V P P Z Z 
+U X U V F P P P Z Y 
+X X X V F F F Z Z Y 
+L X N N N F T W Y Y 
+L L L L N N T W W Y 
+I I I I I T T T W W 
+Solution 858 :
+U U U V V V L L L L 
+U X U V Z Z L P P Y 
+X X X V F Z P P P Y 
+T X F F F Z Z W Y Y 
+T T T F N N N W W Y 
+T I I I I I N N W W 
+Solution 859 :
+U U U V I I I I I T 
+U W U V N N N T T T 
+Y W W V V V N N X T 
+Y Y W W Z Z F X X X 
+Y P P P Z F F F X L 
+Y P P Z Z F L L L L 
+Solution 860 :
+U U U V I I I I I T 
+U P U V N N N T T T 
+Y P P V V V N N X T 
+Y P P W Z Z F X X X 
+Y Y W W Z F F F X L 
+Y W W Z Z F L L L L 
+Solution 861 :
+U U U V Z I I I I I 
+U W U V Z Z Z T T T 
+Y W W V V V Z F T L 
+Y Y W W X F F F T L 
+Y P P X X X F N N L 
+Y P P P X N N N L L 
+Solution 862 :
+U U U V Z I I I I I 
+U W U V Z Z Z T T T 
+P W W V V V Z F T L 
+P P W W X F F F T L 
+P P Y X X X F N N L 
+Y Y Y Y X N N N L L 
+Solution 863 :
+U U U V Z N N N L L 
+U W U V Z Z Z N N L 
+Y W W V V V Z F T L 
+Y Y W W X F F F T L 
+Y P P X X X F T T T 
+Y P P P X I I I I I 
+Solution 864 :
+U U U V Z N N N L L 
+U W U V Z Z Z N N L 
+P W W V V V Z F T L 
+P P W W X F F F T L 
+P P Y X X X F T T T 
+Y Y Y Y X I I I I I 
+Solution 865 :
+U U U V Z Y Y Y Y N 
+U X U V Z Z Z Y N N 
+X X X V V V Z F N L 
+T X P P P W F F N L 
+T T T P P W W F F L 
+T I I I I I W W L L 
+Solution 866 :
+U U U V Z Y Y Y Y W 
+U F U V Z Z Z Y W W 
+F F F V V V Z W W T 
+F P P P X N N T T T 
+L P P X X X N N N T 
+L L L L X I I I I I 
+Solution 867 :
+U U U V Z Y Y Y Y W 
+U P U V Z Z Z Y W W 
+P P F V V V Z W W T 
+P P F F X N N T T T 
+L F F X X X N N N T 
+L L L L X I I I I I 
+Solution 868 :
+U U U V L L L L W W 
+U X U V L Z Z W W Y 
+X X X V V V Z W Y Y 
+P X T N N N Z Z F Y 
+P P T T T N N F F Y 
+P P T I I I I I F F 
+Solution 869 :
+U U U V L L L L Z Z 
+U N U V L T T T Z I 
+N N X V V V T Z Z I 
+N X X X F W T P P I 
+N Y X F F W W P P I 
+Y Y Y Y F F W W P I 
+Solution 870 :
+U U U V V V W P P P 
+U X U Z Z V W W P P 
+X X X Z N V F W W T 
+L X Z Z N F F T T T 
+L L L L N N F F Y T 
+I I I I I N Y Y Y Y 
+Solution 871 :
+U U U V V V Y Y Y Y 
+U X U Z Z V W Y P P 
+X X X Z F V W W P P 
+T X Z Z F F F W W P 
+T T T N N F L L L L 
+T N N N I I I I I L 
+Solution 872 :
+U U U V V V Y Y Y Y 
+U N U F F V W W Y I 
+N N F F T V X W W I 
+N Z Z F T X X X W I 
+N Z L T T T X P P I 
+Z Z L L L L P P P I 
+Solution 873 :
+U U U V V V P P P W 
+U X U Z Z V P P W W 
+X X X Z N V F W W T 
+L X Z Z N F F T T T 
+L L L L N N F F Y T 
+I I I I I N Y Y Y Y 
+Solution 874 :
+U U U V V V P L L I 
+U X U Z Z V P P L I 
+X X X Z F V P P L I 
+T X Z Z F F F W L I 
+T T T N N F Y W W I 
+T N N N Y Y Y Y W W 
+Solution 875 :
+U U U V V V P P P Y 
+U X U Z Z V W P P Y 
+X X X Z F V W W Y Y 
+T X Z Z F F F W W Y 
+T T T N N F L L L L 
+T N N N I I I I I L 
+Solution 876 :
+U U U V V V L L L L 
+U X U Z Z V P P P L 
+X X X F Z V W P P Y 
+T X F F Z Z W W Y Y 
+T T T F F N N W W Y 
+T I I I I I N N N Y 
+Solution 877 :
+U U U V V V L L L L 
+U X U Z Z V P P P L 
+X X X Z F V P P W Y 
+T X Z Z F F F W W Y 
+T T T N N F W W Y Y 
+T N N N I I I I I Y 
+Solution 878 :
+U U U V V V L L L L 
+U X U Z Z V P P P L 
+X X X Z W V P P F Y 
+T X Z Z W W F F F Y 
+T T T N N W W F Y Y 
+T N N N I I I I I Y 
+Solution 879 :
+U U U V V V L L L L 
+U X U Z Z V P P P L 
+X X X Z F V W P P Y 
+T X Z Z F F W W Y Y 
+T T T F F N N W W Y 
+T I I I I I N N N Y 
+Solution 880 :
+U U U V V V L L L L 
+U X U Z Z V P P P L 
+X X X Z W V F P P Y 
+T X Z Z W W F F F Y 
+T T T N N W W F Y Y 
+T N N N I I I I I Y 
+Solution 881 :
+U U U V V V L P P Y 
+U X U Z Z V L P P Y 
+X X X Z W V L P Y Y 
+T X Z Z W W L L F Y 
+T T T N N W W F F F 
+T N N N I I I I I F 
+Solution 882 :
+U U U V V V L L L L 
+U X U Z Z V L P P P 
+X X X F Z V W P P Y 
+T X F F Z Z W W Y Y 
+T T T F F N N W W Y 
+T I I I I I N N N Y 
+Solution 883 :
+U U U V V V L L L L 
+U X U Z Z V L P P P 
+X X X Z F V W P P Y 
+T X Z Z F F W W Y Y 
+T T T F F N N W W Y 
+T I I I I I N N N Y 
+Solution 884 :
+U U U V V V L L L L 
+U X U Z Z V L P P P 
+X X X Z W V F P P Y 
+T X Z Z W W F F F Y 
+T T T N N W W F Y Y 
+T N N N I I I I I Y 
+Solution 885 :
+U U U P P P X T T T 
+U F U P P X X X T I 
+F F F Z V W X N T I 
+F Z Z Z V W W N N I 
+L Z V V V Y W W N I 
+L L L L Y Y Y Y N I 
+Solution 886 :
+U U U P P P X T T T 
+U Y U P P X X X T I 
+Y Y Y Y N N X F T I 
+V Z N N N W W F F I 
+V Z Z Z W W F F L I 
+V V V Z W L L L L I 
+Solution 887 :
+U U U P P P X T T T 
+U Y U P P X X X T L 
+Y Y Y Y N N X F T L 
+V Z N N N W W F F L 
+V Z Z Z W W F F L L 
+V V V Z W I I I I I 
+Solution 888 :
+U U U P P P X T T T 
+U Z U P P X X X T I 
+F Z Z Z V W X N T I 
+F F F Z V W W N N I 
+L F V V V Y W W N I 
+L L L L Y Y Y Y N I 
+Solution 889 :
+U U U P P P N N N I 
+U X U P P N N W W I 
+X X X F Z Z W W L I 
+T X F F F Z W V L I 
+T T T Y F Z Z V L I 
+T Y Y Y Y V V V L L 
+Solution 890 :
+U U U P P P F F L L 
+U Y U P P W W F F L 
+Y Y Y Y W W X F T L 
+V V V Z W X X X T L 
+V Z Z Z N N X T T T 
+V Z N N N I I I I I 
+Solution 891 :
+U U U P P P T T T N 
+U F U P P W W T N N 
+F F F Z W W X T N V 
+F Z Z Z W X X X N V 
+L Z Y Y Y Y X V V V 
+L L L L Y I I I I I 
+Solution 892 :
+U U U P P P T T T N 
+U Z U P P W W T N N 
+F Z Z Z W W X T N V 
+F F F Z W X X X N V 
+L F Y Y Y Y X V V V 
+L L L L Y I I I I I 
+Solution 893 :
+U U U P P P W Z Z N 
+U X U P P W W Z N N 
+X X X F W W Z Z N V 
+T X F F Y Y Y Y N V 
+T T T F F Y L V V V 
+T I I I I I L L L L 
+Solution 894 :
+U U U P P P W V V V 
+U X U P P W W Z Z V 
+X X X F W W N N Z V 
+T X F F N N N Y Z Z 
+T T T F F Y Y Y Y L 
+T I I I I I L L L L 
+Solution 895 :
+U U U P P P Y Y Y Y 
+U T U P P W F Y Z Z 
+L T T T W W F F Z V 
+L T X W W F F Z Z V 
+L X X X N N N V V V 
+L L X N N I I I I I 
+Solution 896 :
+U U U P P P L L L L 
+U X U P P Y Y Y Y L 
+X X X F N N N Y Z Z 
+T X F F W W N N Z V 
+T T T F F W W Z Z V 
+T I I I I I W V V V 
+Solution 897 :
+U U U P P P L L L L 
+U X U P P Y L V V V 
+X X X F Y Y Y Y N V 
+T X F F W W Z Z N V 
+T T T F F W W Z N N 
+T I I I I I W Z Z N 
+Solution 898 :
+U U U P I I I I I T 
+U X U P P L N T T T 
+X X X P P L N W W T 
+V X F Z Z L N N W W 
+V F F F Z L L N Y W 
+V V V F Z Z Y Y Y Y 
+Solution 899 :
+U U U P I I I I I Y 
+U X U P P N W W Y Y 
+X X X P P N N W W Y 
+V X F T T T N Z W Y 
+V F F F T L N Z Z Z 
+V V V F T L L L L Z 
+Solution 900 :
+U U U P I I I I I Y 
+U X U P P N N N Y Y 
+X X X P P Z Z N N Y 
+V X F T T T Z W W Y 
+V F F F T L Z Z W W 
+V V V F T L L L L W 
+Solution 901 :
+U U U P Z Z L L L L 
+U N U P P Z L T T T 
+N N X P P Z Z W T V 
+N X X X F F W W T V 
+N Y X F F W W V V V 
+Y Y Y Y F I I I I I 
+Solution 902 :
+U U U P Z Z L L L L 
+U N U P P Z L V V V 
+N N X P P Z Z W T V 
+N X X X F F W W T V 
+N Y X F F W W T T T 
+Y Y Y Y F I I I I I 
+Solution 903 :
+U U U P P I Y Y Y Y 
+U X U P P I Z Y L L 
+X X X N P I Z Z Z L 
+V X F N N I T W Z L 
+V F F F N I T W W L 
+V V V F N T T T W W 
+Solution 904 :
+U U U P P I Y Y Y Y 
+U X U P P I Z Y L L 
+X X X F P I Z Z Z L 
+V X F F F I T W Z L 
+V N N N F I T W W L 
+V V V N N T T T W W 
+Solution 905 :
+U U U P P T T T W W 
+U X U P P I T W W L 
+X X X N P I T W Z L 
+V X F N N I Z Z Z L 
+V F F F N I Z Y L L 
+V V V F N I Y Y Y Y 
+Solution 906 :
+U U U P P T T T W W 
+U X U P P I T W W L 
+X X X F P I T W Z L 
+V X F F F I Z Z Z L 
+V N N N F I Z Y L L 
+V V V N N I Y Y Y Y 
+Solution 907 :
+U U U P P W W T T T 
+U X U P P L W W T I 
+X X X N P L Z W T I 
+V X F N N L Z Z Z I 
+V F F F N L L Y Z I 
+V V V F N Y Y Y Y I 
+Solution 908 :
+U U U P P W W T T T 
+U X U P P L W W T I 
+X X X F P L Z W T I 
+V X F F F L Z Z Z I 
+V N N N F L L Y Z I 
+V V V N N Y Y Y Y I 
+Solution 909 :
+U U U P P Y Y Y Y N 
+U X U P P F Y Z Z N 
+X X X W P F F Z N N 
+V X W W F F Z Z N T 
+V W W L L L L T T T 
+V V V L I I I I I T 
+Solution 910 :
+U U U P P Y Y Y Y Z 
+U X U P P F Y Z Z Z 
+X X X W P F F Z N N 
+V X W W F F N N N T 
+V W W L L L L T T T 
+V V V L I I I I I T 
+Solution 911 :
+U U U P P Y Y Y Y Z 
+U X U P P W Y Z Z Z 
+X X X F P W W Z L L 
+T X F F N N W W V L 
+T T T F F N N N V L 
+T I I I I I V V V L 
+Solution 912 :
+U U U P P Y Y Y Y I 
+U X U P P L L Y Z I 
+X X X N P L Z Z Z I 
+V X F N N L Z W T I 
+V F F F N L W W T I 
+V V V F N W W T T T 
+Solution 913 :
+U U U P P Y Y Y Y I 
+U X U P P L L Y Z I 
+X X X F P L Z Z Z I 
+V X F F F L Z W T I 
+V N N N F L W W T I 
+V V V N N W W T T T 
+Solution 914 :
+U U U P P Y Y Y Y N 
+U F U P P W W Y N N 
+F F Z Z P X W W N V 
+T F F Z X X X W N V 
+T T T Z Z X L V V V 
+T I I I I I L L L L 
+Solution 915 :
+U U U P P L L L L N 
+U X U P P L W Z Z N 
+X X X F P W W Z N N 
+T X F F W W Z Z N V 
+T T T F F Y Y Y Y V 
+T I I I I I Y V V V 
+Solution 916 :
+U U U P P L L L L T 
+U X U P P L F T T T 
+X X X Z P F F W W T 
+V X Y Z Z Z F F W W 
+V Y Y Y Y Z N N N W 
+V V V I I I I I N N 
+Solution 917 :
+U U U P P L L L L W 
+U X U P P L F F W W 
+X X X Z P F F W W T 
+V X Y Z Z Z F T T T 
+V Y Y Y Y Z N N N T 
+V V V I I I I I N N 
+Solution 918 :
+U U U P P L L L L Z 
+U X U P P L W Z Z Z 
+X X X F P W W Z N N 
+T X F F W W N N N V 
+T T T F F Y Y Y Y V 
+T I I I I I Y V V V 
+Solution 919 :
+U U U P P L L L L Z 
+U Y U P P L W Z Z Z 
+Y Y Y Y P W W Z F F 
+T N N N W W X F F V 
+T T T N N X X X F V 
+T I I I I I X V V V 
+Solution 920 :
+U U U P P I I I I I 
+U N U P P W Z Z F F 
+N N V P W W Z F F L 
+N T V W W Z Z X F L 
+N T V V V Y X X X L 
+T T T Y Y Y Y X L L 
+Solution 921 :
+U U U P P T T T Y I 
+U X U P P W T Y Y I 
+X X X P W W T Z Y I 
+V X F W W Z Z Z Y I 
+V F F F L Z N N N I 
+V V V F L L L L N N 
+Solution 922 :
+U U U P P T T T L L 
+U X U P P W T Z Z L 
+X X X P W W T Z N L 
+V X F W W Y Z Z N L 
+V F F F Y Y Y Y N N 
+V V V F I I I I I N 
+Solution 923 :
+U U U P P Z Z F L L 
+U X U P P Z F F F L 
+X X X P Z Z F W T L 
+V X Y Y Y Y W W T L 
+V N N N Y W W T T T 
+V V V N N I I I I I 
+Solution 924 :
+U U U P P Z Z F L L 
+U X U P P Z F F F L 
+X X X P Z Z T W F L 
+V X Y Y Y Y T W W L 
+V N N N Y T T T W W 
+V V V N N I I I I I 
+Solution 925 :
+U U U P P V V V F F 
+U X U P P V W F F L 
+X X X P Z V W W F L 
+T X N N Z Z Z W W L 
+T T T N N N Z Y L L 
+T I I I I I Y Y Y Y 
+Solution 926 :
+U U U P P P N V V V 
+U X U F P P N Z Z V 
+X X X F F W N N Z V 
+T X F F W W Y N Z Z 
+T T T W W Y Y Y Y L 
+T I I I I I L L L L 
+Solution 927 :
+U U U P P P N V V V 
+U F U X P P N Z Z V 
+F F X X X W N N Z V 
+T F F X W W Y N Z Z 
+T T T W W Y Y Y Y L 
+T I I I I I L L L L 
+Solution 928 :
+U U U P P P T T T N 
+U X U F P P W T N N 
+X X X F F W W T N Y 
+V X F F W W Z Z N Y 
+V I I I I I L Z Y Y 
+V V V L L L L Z Z Y 
+Solution 929 :
+U U U P P P T T T N 
+U F U X P P W T N N 
+F F X X X W W T N Y 
+V F F X W W Z Z N Y 
+V I I I I I L Z Y Y 
+V V V L L L L Z Z Y 
+Solution 930 :
+U U U P P P T T T Y 
+U X U F P P W T Y Y 
+X X X F F W W T N Y 
+V X F F W W Z Z N Y 
+V I I I I I L Z N N 
+V V V L L L L Z Z N 
+Solution 931 :
+U U U P P P T T T Y 
+U F U X P P W T Y Y 
+F F X X X W W T N Y 
+V F F X W W Z Z N Y 
+V I I I I I L Z N N 
+V V V L L L L Z Z N 
+Solution 932 :
+U U U P P P Y Y Y Y 
+U N U X P P F F Y I 
+N N X X X W T F F I 
+N Z Z X W W T F V I 
+N Z L W W T T T V I 
+Z Z L L L L V V V I 
+Solution 933 :
+U U U P P P Z V V V 
+U X U F P P Z Z Z V 
+X X X F F W N N Z V 
+T X F F W W Y N N N 
+T T T W W Y Y Y Y L 
+T I I I I I L L L L 
+Solution 934 :
+U U U P P P Z V V V 
+U N U X P P Z Z Z V 
+Y N X X X W T F Z V 
+Y N N X W W T F F F 
+Y Y N W W T T T F L 
+Y I I I I I L L L L 
+Solution 935 :
+U U U P P P Z V V V 
+U F U X P P Z Z Z V 
+F F X X X W N N Z V 
+T F F X W W Y N N N 
+T T T W W Y Y Y Y L 
+T I I I I I L L L L 
+Solution 936 :
+U U U P P P Z Z F F 
+U N U X P P Z F F I 
+N N X X X Z Z L F I 
+N T W X L L L L V I 
+N T W W Y Y Y Y V I 
+T T T W W Y V V V I 
+Solution 937 :
+U U U P P P Z Z F F 
+U Y U X P P Z F F I 
+Y Y X X X Z Z L F I 
+V Y W X L L L L T I 
+V Y W W N N T T T I 
+V V V W W N N N T I 
+Solution 938 :
+U U U P P P L L L L 
+U X U W P P L V V V 
+X X X W W F F Z Z V 
+T X N N W W F F Z V 
+T T T N N N F Y Z Z 
+T I I I I I Y Y Y Y 
+Solution 939 :
+U U U P P I I I I I 
+U X U P P P L L L L 
+X X X N N N L F Z Z 
+T X N N W F F F Z V 
+T T T Y W W F Z Z V 
+T Y Y Y Y W W V V V 
+Solution 940 :
+U U U P P I I I I I 
+U N U P P P Y Y Y Y 
+N N T T T W W Y F F 
+N Z Z T W W X F F V 
+N Z L T W X X X F V 
+Z Z L L L L X V V V 
+Solution 941 :
+U U U P P I I I I I 
+U N U P P P Y Y Y Y 
+N N L L L L X Y Z Z 
+N F L T W X X X Z V 
+N F F T W W X Z Z V 
+F F T T T W W V V V 
+Solution 942 :
+U U U P P I I I I I 
+U N U P P P Y Y Y Y 
+N N L L L L X Y Z Z 
+N T L F W X X X Z V 
+N T F F W W X Z Z V 
+T T T F F W W V V V 
+Solution 943 :
+U U U P P F F L L I 
+U X U P P P F F L I 
+X X X W Z Z F T L I 
+V X W W Z T T T L I 
+V W W Z Z N N T Y I 
+V V V N N N Y Y Y Y 
+Solution 944 :
+U U U P P W W T T T 
+U N U P P P W W T I 
+N N X L L L L W T I 
+N X X X F F L Z V I 
+N Y X F F Z Z Z V I 
+Y Y Y Y F Z V V V I 
+Solution 945 :
+U U U L I I I I I N 
+U X U L L L L W W N 
+X X X F Z Z W W N N 
+T X F F F Z W V N P 
+T T T Y F Z Z V P P 
+T Y Y Y Y V V V P P 
+Solution 946 :
+U U U L I I I I I N 
+U X U L L L L Z N N 
+X X X P P Z Z Z N Y 
+V X F P P Z W T N Y 
+V F F F P W W T Y Y 
+V V V F W W T T T Y 
+Solution 947 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X N P P P W W T 
+V X F N N P P Z W W 
+V F F F N Z Z Z Y W 
+V V V F N Z Y Y Y Y 
+Solution 948 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X F P P P W W T 
+V X F F F P P Z W W 
+V N N N F Z Z Z Y W 
+V V V N N Z Y Y Y Y 
+Solution 949 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X W N Y Y Y Y T 
+V X W W N F Y Z Z P 
+V W W N N F F Z P P 
+V V V N F F Z Z P P 
+Solution 950 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X W F F N N N T 
+V X W W P F F Z N N 
+V W W P P F Y Z Z Z 
+V V V P P Y Y Y Y Z 
+Solution 951 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X W F F Z Z N T 
+V X W W P F F Z N N 
+V W W P P F Y Z Z N 
+V V V P P Y Y Y Y N 
+Solution 952 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X W F Y Y Y Y T 
+V X W W F F Y Z Z P 
+V W W F F N N Z P P 
+V V V N N N Z Z P P 
+Solution 953 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X W Z Z N N N T 
+V X W W Z N N F P P 
+V W W Z Z Y F F P P 
+V V V Y Y Y Y F F P 
+Solution 954 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X W Z Z N N N T 
+V X W W Z N N F F P 
+V W W Z Z Y F F P P 
+V V V Y Y Y Y F P P 
+Solution 955 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X W Z Z F F N T 
+V X W W Z F F P N N 
+V W W Z Z Y F P P N 
+V V V Y Y Y Y P P N 
+Solution 956 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X W Z Z F F N T 
+V X W W Z F F N N P 
+V W W Z Z Y F N P P 
+V V V Y Y Y Y N P P 
+Solution 957 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X Y Y Y Y W N T 
+V X F Z Z Y W W N N 
+V F F F Z W W P P N 
+V V V F Z Z P P P N 
+Solution 958 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X P P P N N N T 
+V X F P P W W Z N N 
+V F F F W W Y Z Z Z 
+V V V F W Y Y Y Y Z 
+Solution 959 :
+U U U L I I I I I T 
+U X U L L L L T T T 
+X X X P P P Z Z N T 
+V X F P P W W Z N N 
+V F F F W W Y Z Z N 
+V V V F W Y Y Y Y N 
+Solution 960 :
+U U U L I I I I I Y 
+U X U L L L L Z Y Y 
+X X X P P Z Z Z N Y 
+V X F P P Z W T N Y 
+V F F F P W W T N N 
+V V V F W W T T T N 
+Solution 961 :
+U U U L I I I I I Z 
+U W U L L L L Z Z Z 
+P W W Y Y Y Y Z F F 
+P P W W T Y X F F V 
+P P N N T X X X F V 
+N N N T T T X V V V 
+Solution 962 :
+U U U L L L L N P P 
+U X U Z Z W L N P P 
+X X X F Z W W N N P 
+T X F F Z Z W W N V 
+T T T F F Y Y Y Y V 
+T I I I I I Y V V V 
+Solution 963 :
+U U U L L L L N P P 
+U X U Z Z W L N P P 
+X X X Z F W W N N P 
+T X Z Z F F W W N V 
+T T T F F Y Y Y Y V 
+T I I I I I Y V V V 
+Solution 964 :
+U U U L L L L T T T 
+U N U W W X L Y T I 
+N N W W X X X Y T I 
+N F W Z Z X Y Y V I 
+N F F Z P P P Y V I 
+F F Z Z P P V V V I 
+Solution 965 :
+U U U L L L L T T T 
+U Y U W W F L N T I 
+Y Y W W F F F N T I 
+V Y W X F Z Z N N I 
+V Y X X X Z P P N I 
+V V V X Z Z P P P I 
+Solution 966 :
+U U U L L L L V V V 
+U X U N F F L V Z Z 
+X X X N T F F V Z Y 
+P X N N T F W Z Z Y 
+P P N T T T W W Y Y 
+P P I I I I I W W Y 
+Solution 967 :
+U U U L L L L V V V 
+U N U W W F L V Y I 
+N N W W F F F V Y I 
+N T W X F Z Z Y Y I 
+N T X X X Z P P Y I 
+T T T X Z Z P P P I 
+Solution 968 :
+U U U L L L L V V V 
+U N U W W F L V Z Z 
+N N W W F F F V Z Y 
+N T W X F P P Z Z Y 
+N T X X X P P P Y Y 
+T T T X I I I I I Y 
+Solution 969 :
+U U U L L L L V V V 
+U X U N N N L Z Z V 
+X X X F W N N Z P V 
+T X F F W W Z Z P P 
+T T T F F W W Y P P 
+T I I I I I Y Y Y Y 
+Solution 970 :
+U U U L L L L V V V 
+U T U N N N L Z Z V 
+Y T T T X N N W Z V 
+Y T F X X X W W Z Z 
+Y Y F F X W W P P P 
+Y F F I I I I I P P 
+Solution 971 :
+U U U L L L L P P P 
+U X U Z Z F L P P T 
+X X X Z F F F T T T 
+V X Z Z N N F W W T 
+V Y Y Y Y N N N W W 
+V V V Y I I I I I W 
+Solution 972 :
+U U U L L L L P P I 
+U Y U W W F L P P I 
+Y Y W W F F F N P I 
+V Y W X F Z Z N T I 
+V Y X X X Z N N T I 
+V V V X Z Z N T T T 
+Solution 973 :
+U U U L L L L P P I 
+U Y U W W F L P P I 
+Y Y W W F F F Z P I 
+V Y W X F Z Z Z T I 
+V Y X X X Z N N T I 
+V V V X N N N T T T 
+Solution 974 :
+U U U L L L L P P I 
+U Y U W W Z L P P I 
+Y Y W W F Z Z Z P I 
+V Y W X F F F Z T I 
+V Y X X X F N N T I 
+V V V X N N N T T T 
+Solution 975 :
+U U U L L L L P P N 
+U X U Z Z W L P P N 
+X X X F Z W W P N N 
+T X F F Z Z W W N V 
+T T T F F Y Y Y Y V 
+T I I I I I Y V V V 
+Solution 976 :
+U U U L L L L P P N 
+U X U Z Z W L P P N 
+X X X Z F W W P N N 
+T X Z Z F F W W N V 
+T T T F F Y Y Y Y V 
+T I I I I I Y V V V 
+Solution 977 :
+U U U L L X Y Y Y Y 
+U F U L X X X N Y W 
+F F F L P X N N W W 
+V Z F L P P N W W T 
+V Z Z Z P P N T T T 
+V V V Z I I I I I T 
+Solution 978 :
+U U U L L X Z Z P P 
+U F U L X X X Z P P 
+F F F L V X Y Z Z P 
+F W W L V Y Y Y Y T 
+W W V V V N N T T T 
+W I I I I I N N N T 
+Solution 979 :
+U U U L L X P P P I 
+U F U L X X X P P I 
+F F F L Y X N N N I 
+V Z F L Y N N W T I 
+V Z Z Z Y Y W W T I 
+V V V Z Y W W T T T 
+Solution 980 :
+U U U L L N N N Z Z 
+U X U L N N W W Z I 
+X X X L Y W W Z Z I 
+V X F L Y W T P P I 
+V F F F Y Y T P P I 
+V V V F Y T T T P I 
+Solution 981 :
+U U U L L N Y Y Y Y 
+U X U L N N W W Y T 
+X X X L N W W T T T 
+V X F L N W Z P P T 
+V F F F Z Z Z P P P 
+V V V F Z I I I I I 
+Solution 982 :
+U U U L I I I I I Z 
+U X U L V V V Z Z Z 
+X X X L V W W Z P P 
+T X L L V F W W P P 
+T T T N N F F W Y P 
+T N N N F F Y Y Y Y 
+Solution 983 :
+U U U L N T T T W W 
+U X U L N N T W W Y 
+X X X L V N T W Y Y 
+P X L L V N F Z Z Y 
+P P V V V F F F Z Y 
+P P I I I I I F Z Z 
+Solution 984 :
+U U U L F Y Y Y Y I 
+U X U L F F F Y Z I 
+X X X L P F Z Z Z I 
+V X L L P P Z W T I 
+V N N N P P W W T I 
+V V V N N W W T T T 
+Solution 985 :
+U U U L T I I I I I 
+U X U L T T T N N N 
+X X X L T W N N F F 
+P X L L Z W W F F V 
+P P Z Z Z Y W W F V 
+P P Z Y Y Y Y V V V 
+Solution 986 :
+U U U L T I I I I I 
+U X U L T T T F F N 
+X X X L T W F F N N 
+P X L L Z W W F N V 
+P P Z Z Z Y W W N V 
+P P Z Y Y Y Y V V V 
+Solution 987 :
+U U U L T I I I I I 
+U X U L T T T Z Z Y 
+X X X L T W W Z Y Y 
+V X L L W W Z Z F Y 
+V N N N W P P F F Y 
+V V V N N P P P F F 
+Solution 988 :
+U U U L T I I I I I 
+U X U L T T T P P P 
+X X X L T W W Z P P 
+V X L L W W F Z Z Z 
+V N N N W F F F Y Z 
+V V V N N F Y Y Y Y 
+Solution 989 :
+U U U L Y Z Z P P I 
+U X U L Y Y Z P P I 
+X X X L Y F Z Z P I 
+V X L L Y F F W T I 
+V N N N F F W W T I 
+V V V N N W W T T T 
+Solution 990 :
+U U U L Y P P P Z Z 
+U X U L Y Y P P Z I 
+X X X L Y W W Z Z I 
+T X L L Y F W W V I 
+T T T N N F F W V I 
+T N N N F F V V V I 
+Solution 991 :
+U U U L V V V N N I 
+U X U L V N N N F I 
+X X X L V W F F F I 
+P X L L Z W W F T I 
+P P Z Z Z Y W W T I 
+P P Z Y Y Y Y T T T 
+Solution 992 :
+U U U L V V V F N I 
+U X U L V F F F N I 
+X X X L V W F N N I 
+P X L L Z W W N T I 
+P P Z Z Z Y W W T I 
+P P Z Y Y Y Y T T T 
+Solution 993 :
+U U U L V V V P P I 
+U X U L V Z Z P P I 
+X X X L V Z F F P I 
+T X L L Z Z W F F I 
+T T T N N W W F Y I 
+T N N N W W Y Y Y Y 
+Solution 994 :
+U U U L V V V P P Y 
+U X U L V Z Z P P Y 
+X X X L V W Z P Y Y 
+T X L L W W Z Z F Y 
+T T T W W N N F F F 
+T I I I I I N N N F 
+Solution 995 :
+U U U L P P Y V V V 
+U X U L P P Y Y F V 
+X X X L W P Y F F V 
+T X L L W W Y Z F F 
+T T T N N W W Z Z Z 
+T N N N I I I I I Z 
+Solution 996 :
+U U U L P P V V V Y 
+U X U L P P V Z Z Y 
+X X X L W P V Z Y Y 
+T X L L W W Z Z F Y 
+T T T N N W W F F F 
+T N N N I I I I I F 
+Solution 997 :
+U U U L P P V V V Z 
+U X U L P P V Z Z Z 
+X X X L F P V Z W Y 
+T X L L F F F W W Y 
+T T T N N F W W Y Y 
+T N N N I I I I I Y 
+Solution 998 :
+U U U L P P V V V Z 
+U X U L P P V Z Z Z 
+X X X L W P V Z F Y 
+T X L L W W F F F Y 
+T T T N N W W F Y Y 
+T N N N I I I I I Y 
+Solution 999 :
+U U U L P P Y V V V 
+U X U L P P Y Y F V 
+X X X L P W Y F F V 
+T X L L W W Y Z F F 
+T T T W W N N Z Z Z 
+T I I I I I N N N Z 
+Solution 1000 :
+U U U L P P V V V Y 
+U X U L P P V Z Z Y 
+X X X L P W V Z Y Y 
+T X L L W W Z Z F Y 
+T T T W W N N F F F 
+T I I I I I N N N F 
+Solution 1001 :
+U U U L P P V V V Z 
+U X U L P P V Z Z Z 
+X X X L P W V Z F Y 
+T X L L W W F F F Y 
+T T T W W N N F Y Y 
+T I I I I I N N N Y 
+Solution 1002 :
+U U U L P P Y Y Y Y 
+U X U L P P P W Y N 
+X X X L Z Z W W N N 
+T X L L Z W W F N V 
+T T T Z Z F F F N V 
+T I I I I I F V V V 
+Solution 1003 :
+U U U L I I I I I T 
+U X U L P P P T T T 
+X X X L P P N N N T 
+V X F L L W W Z N N 
+V F F F W W Y Z Z Z 
+V V V F W Y Y Y Y Z 
+Solution 1004 :
+U U U L I I I I I T 
+U X U L P P P T T T 
+X X X L P P Z Z N T 
+V X F L L W W Z N N 
+V F F F W W Y Z Z N 
+V V V F W Y Y Y Y N 
+Solution 1005 :
+U U U L N P P T T T 
+U X U L N P P P T I 
+X X X L N N W W T I 
+V X F L L N Z W W I 
+V F F F Z Z Z Y W I 
+V V V F Z Y Y Y Y I 
+Solution 1006 :
+U U U L N N N T T T 
+U X U L P P N N T I 
+X X X L P P W W T I 
+V X F L L P Z W W I 
+V F F F Z Z Z Y W I 
+V V V F Z Y Y Y Y I 
+Solution 1007 :
+U U U L T I I I I I 
+U X U L T T T N N Y 
+X X X L T N N N Y Y 
+V X F L L W W Z Z Y 
+V F F F P P W W Z Y 
+V V V F P P P W Z Z 
+Solution 1008 :
+U U U L T I I I I I 
+U X U L T T T N N Y 
+X X X L T N N N Y Y 
+V X F L L W W Z Z Y 
+V F F F W W P P Z Y 
+V V V F W P P P Z Z 
+Solution 1009 :
+U U U L T I I I I I 
+U X U L T T T N N P 
+X X X L T N N N P P 
+V X F L L W W Z P P 
+V F F F W W Y Z Z Z 
+V V V F W Y Y Y Y Z 
+Solution 1010 :
+U U U L T I I I I I 
+U X U L T T T W W Y 
+X X X L T N W W Y Y 
+V X F L L N W Z Z Y 
+V F F F N N P P Z Y 
+V V V F N P P P Z Z 
+Solution 1011 :
+U U U L T I I I I I 
+U X U L T T T W W P 
+X X X L T N W W P P 
+V X F L L N W Z P P 
+V F F F N N Y Z Z Z 
+V V V F N Y Y Y Y Z 
+Solution 1012 :
+U U U L Z Y Y Y Y I 
+U X U L Z Z Z Y N I 
+X X X L W W Z N N I 
+V X F L L W W N T I 
+V F F F P P W N T I 
+V V V F P P P T T T 
+Solution 1013 :
+U U U L L Z V V V I 
+U X U N L Z Z Z V I 
+X X X N L W W Z V I 
+P X N N L F W W T I 
+P P N Y F F F W T I 
+P P Y Y Y Y F T T T 
+Solution 1014 :
+U U U L L L L N N N 
+U X U L F F N N Z Y 
+X X X F F T Z Z Z Y 
+V X P P F T Z W Y Y 
+V P P P T T T W W Y 
+V V V I I I I I W W 
+Solution 1015 :
+U U U L L L L N N N 
+U X U L W F N N Z Z 
+X X X W W F F F Z V 
+T X W W P P F Z Z V 
+T T T Y P P P V V V 
+T Y Y Y Y I I I I I 
+Solution 1016 :
+U U U L L L L N N N 
+U Y U L Z F N N P P 
+Y Y Z Z Z F F W P P 
+V Y Z X F F W W P T 
+V Y X X X W W T T T 
+V V V X I I I I I T 
+Solution 1017 :
+U U U L L L L N N W 
+U P U L X N N N W W 
+V P P X X X F W W T 
+V P P Z X F F T T T 
+V V V Z Z Z F F Y T 
+I I I I I Z Y Y Y Y 
+Solution 1018 :
+U U U L L L L N N W 
+U P U L X N N N W W 
+P P V X X X F W W T 
+P P V Z X F F T T T 
+V V V Z Z Z F F Y T 
+I I I I I Z Y Y Y Y 
+Solution 1019 :
+U U U L L L L N P P 
+U X U L W Z Z N P P 
+X X X W W F Z N N P 
+V X W W F F Z Z N T 
+V Y Y Y Y F F T T T 
+V V V Y I I I I I T 
+Solution 1020 :
+U U U L L L L N P P 
+U X U L W Z Z N P P 
+X X X W W Z F N N P 
+V X W W Z Z F F N T 
+V Y Y Y Y F F T T T 
+V V V Y I I I I I T 
+Solution 1021 :
+U U U L L L L N Z Z 
+U X U L F F N N Z Y 
+X X X F F T N Z Z Y 
+V X P P F T N W Y Y 
+V P P P T T T W W Y 
+V V V I I I I I W W 
+Solution 1022 :
+U U U L L L L T P P 
+U Y U L Z T T T P P 
+Y Y Z Z Z F W T N P 
+V Y Z X F F W W N N 
+V Y X X X F F W W N 
+V V V X I I I I I N 
+Solution 1023 :
+U U U L L L L Y P P 
+U X U L F F Y Y P P 
+X X X W T F F Y N P 
+V X W W T F Z Y N N 
+V W W T T T Z Z Z N 
+V V V I I I I I Z N 
+Solution 1024 :
+U U U L L L L Z P P 
+U X U L W Z Z Z P P 
+X X X W W Z F T N P 
+V X W W F F F T N N 
+V Y Y Y Y F T T T N 
+V V V Y I I I I I N 
+Solution 1025 :
+U U U L L L L Z Z I 
+U X U L T T T Z N I 
+X X X P P T Z Z N I 
+V X F P P T W N N I 
+V F F F P W W N Y I 
+V V V F W W Y Y Y Y 
+Solution 1026 :
+U U U L L L L V V V 
+U X U L Y Y Y Y F V 
+X X X W W Y T F F V 
+P X W W T T T Z F F 
+P P W N N N T Z Z Z 
+P P N N I I I I I Z 
+Solution 1027 :
+U U U L L L L V V V 
+U X U L Z Y Y Y Y V 
+X X X F Z Z Z Y N V 
+T X F F W W Z P N N 
+T T T F F W W P P N 
+T I I I I I W P P N 
+Solution 1028 :
+U U U L L L L V V V 
+U X U L Z Y Y Y Y V 
+X X X F Z Z Z Y N V 
+T X F F W W Z N N P 
+T T T F F W W N P P 
+T I I I I I W N P P 
+Solution 1029 :
+U U U L L L L V V V 
+U N U L X F F Z Z V 
+N N P X X X F F Z V 
+N T P P X W F Y Z Z 
+N T P P W W Y Y Y Y 
+T T T W W I I I I I 
+Solution 1030 :
+U U U L L L L V V V 
+U N U L F F X Z Z V 
+N N P F F X X X Z V 
+N T P P F W X Y Z Z 
+N T P P W W Y Y Y Y 
+T T T W W I I I I I 
+Solution 1031 :
+U U U L L L L P P N 
+U Y U L Z F P P P N 
+Y Y Z Z Z F F W N N 
+V Y Z X F F W W N T 
+V Y X X X W W T T T 
+V V V X I I I I I T 
+Solution 1032 :
+U U U L L L L P P P 
+U X U L W N N P P I 
+X X X F W W N N N I 
+T X F F F W W Z V I 
+T T T Y F Z Z Z V I 
+T Y Y Y Y Z V V V I 
+Solution 1033 :
+U U U L L L L P P P 
+U X U L W N N P P I 
+X X X W W F N N N I 
+T X W W F F F Z V I 
+T T T Y F Z Z Z V I 
+T Y Y Y Y Z V V V I 
+Solution 1034 :
+U U U L L L L P P P 
+U X U L W N N P P I 
+X X X W W Z N N N I 
+T X W W F Z Z Z V I 
+T T T Y F F F Z V I 
+T Y Y Y Y F V V V I 
+Solution 1035 :
+U U U L L L L P P P 
+U X U L Z Z F P P I 
+X X X W N Z F F F I 
+V X W W N Z Z F T I 
+V W W N N Y T T T I 
+V V V N Y Y Y Y T I 
+Solution 1036 :
+U U U L L L L P P P 
+U X U L Z Z F P P Y 
+X X X W T Z F F F Y 
+V X W W T Z Z F Y Y 
+V W W T T T N N N Y 
+V V V I I I I I N N 
+Solution 1037 :
+U U U L L L L P P I 
+U Y U L F W W P P I 
+Y Y N F F F W W P I 
+V Y N Z Z F X W T I 
+V Y N N Z X X X T I 
+V V V N Z Z X T T T 
+Solution 1038 :
+U U U L L L L P P I 
+U Y U L F W W P P I 
+Y Y Z F F F W W P I 
+V Y Z Z Z F X W T I 
+V Y N N Z X X X T I 
+V V V N N N X T T T 
+Solution 1039 :
+U U U L L L L P P I 
+U Y U L Z W W P P I 
+Y Y Z Z Z F W W P I 
+V Y Z F F F X W T I 
+V Y N N F X X X T I 
+V V V N N N X T T T 
+Solution 1040 :
+U U U L L L L P P N 
+U X U L W Z Z P P N 
+X X X W W F Z P N N 
+V X W W F F Z Z N T 
+V Y Y Y Y F F T T T 
+V V V Y I I I I I T 
+Solution 1041 :
+U U U L L L L P P N 
+U X U L W Z Z P P N 
+X X X W W Z F P N N 
+V X W W Z Z F F N T 
+V Y Y Y Y F F T T T 
+V V V Y I I I I I T 
+Solution 1042 :
+U U U L L L L P P P 
+U X U L W Z Z F P P 
+X X X W W Z F F F V 
+T X W W Z Z N N F V 
+T T T Y N N N V V V 
+T Y Y Y Y I I I I I 
+Solution 1043 :
+I I I I I U U X L L 
+W Y Y Y Y U X X X L 
+W W Y F F U U X N L 
+T W W V F F Z Z N L 
+T T T V F P P Z N N 
+T V V V P P P Z Z N 
+Solution 1044 :
+I I I I I U U X L L 
+W Y Y Y Y U X X X L 
+W W Y F F U U X N L 
+V W W T F F Z Z N L 
+V T T T F P P Z N N 
+V V V T P P P Z Z N 
+Solution 1045 :
+I I I I I U U X L L 
+P Y Y Y Y U X X X L 
+P P Y F F U U X N L 
+P P Z V F F W T N L 
+Z Z Z V F W W T N N 
+Z V V V W W T T T N 
+Solution 1046 :
+I I I I I U U N N N 
+T T T W W U N N F F 
+V T W W X U U F F Y 
+V T W X X X Z Z F Y 
+V V V L X P P Z Y Y 
+L L L L P P P Z Z Y 
+Solution 1047 :
+I I I I I U U N N N 
+Z Z P P P U N N F F 
+V Z P P X U U F F Y 
+V Z Z X X X W T F Y 
+V V V L X W W T Y Y 
+L L L L W W T T T Y 
+Solution 1048 :
+I I I I I U U N N N 
+V V V W W U N N F F 
+V T W W X U U F F Y 
+V T W X X X Z Z F Y 
+T T T L X P P Z Y Y 
+L L L L P P P Z Z Y 
+Solution 1049 :
+I I I I I U U F F N 
+T T T W W U F F N N 
+V T W W X U U F N Y 
+V T W X X X Z Z N Y 
+V V V L X P P Z Y Y 
+L L L L P P P Z Z Y 
+Solution 1050 :
+I I I I I U U F F N 
+Z Z P P P U F F N N 
+V Z P P X U U F N Y 
+V Z Z X X X W T N Y 
+V V V L X W W T Y Y 
+L L L L W W T T T Y 
+Solution 1051 :
+I I I I I U U F F N 
+V V V W W U F F N N 
+V T W W X U U F N Y 
+V T W X X X Z Z N Y 
+T T T L X P P Z Y Y 
+L L L L P P P Z Z Y 
+Solution 1052 :
+I I I I I U U F F Y 
+T T T W W U F F Y Y 
+V T W W X U U F N Y 
+V T W X X X Z Z N Y 
+V V V L X P P Z N N 
+L L L L P P P Z Z N 
+Solution 1053 :
+I I I I I U U F F Y 
+Z Z P P P U F F Y Y 
+V Z P P X U U F N Y 
+V Z Z X X X W T N Y 
+V V V L X W W T N N 
+L L L L W W T T T N 
+Solution 1054 :
+I I I I I U U F F Y 
+V V V W W U F F Y Y 
+V T W W X U U F N Y 
+V T W X X X Z Z N Y 
+T T T L X P P Z N N 
+L L L L P P P Z Z N 
+Solution 1055 :
+I I I I I U U F F Y 
+P P P W W U F F Y Y 
+P P W W X U U F T Y 
+V Z W X X X T T T Y 
+V Z Z Z X N N N T L 
+V V V Z N N L L L L 
+Solution 1056 :
+I I I I I U U F F Y 
+P P P Z Z U F F Y Y 
+P P W W Z U U F T Y 
+V W W X Z Z T T T Y 
+V W X X X N N N T L 
+V V V X N N L L L L 
+Solution 1057 :
+I I I I I U U V V V 
+P P N T T T U Z Z V 
+P P N N T U U F Z V 
+P W W N T X F F Z Z 
+W W Y N X X X F F L 
+W Y Y Y Y X L L L L 
+Solution 1058 :
+I I I I I U U V V V 
+P P N T T T U Z Z V 
+P P N N T U U Z F V 
+P W W N T X Z Z F F 
+W W Y N X X X F F L 
+W Y Y Y Y X L L L L 
+Solution 1059 :
+I I I I I U U U Z Z 
+N N N F F U V U Z L 
+W W N N F F V Z Z L 
+P W W T F X V V V L 
+P P W T X X X Y L L 
+P P T T T X Y Y Y Y 
+Solution 1060 :
+I I I I I U U U Z Z 
+N N N F F U V U Z L 
+P P N N F F V Z Z L 
+P P W T F X V V V L 
+P W W T X X X Y L L 
+W W T T T X Y Y Y Y 
+Solution 1061 :
+I I I I I U U U Z Z 
+T T T W W U F U Z V 
+L T W W F F F Z Z V 
+L T W N N F X V V V 
+L N N N Y X X X P P 
+L L Y Y Y Y X P P P 
+Solution 1062 :
+I I I I I U U U Z Z 
+Y P P P X U V U Z L 
+Y P P X X X V Z Z L 
+Y Y W F X T V V V L 
+Y W W F F T N N L L 
+W W F F T T T N N N 
+Solution 1063 :
+I I I I I U U U Z Z 
+Y P P P X U V U Z L 
+Y P P X X X V Z Z L 
+Y Y W T X F V V V L 
+Y W W T F F N N L L 
+W W T T T F F N N N 
+Solution 1064 :
+I I I I I U U U Z Z 
+Y Y Y Y X U V U Z L 
+W W Y X X X V Z Z L 
+P W W F X T V V V L 
+P P W F F T N N L L 
+P P F F T T T N N N 
+Solution 1065 :
+I I I I I U U U Z Z 
+Y Y Y Y X U V U Z L 
+W W Y X X X V Z Z L 
+P W W T X F V V V L 
+P P W T F F N N L L 
+P P T T T F F N N N 
+Solution 1066 :
+I I I I I U U U Z Z 
+Y Y Y Y X U V U Z L 
+P P Y X X X V Z Z L 
+P P W F X T V V V L 
+P W W F F T N N L L 
+W W F F T T T N N N 
+Solution 1067 :
+I I I I I U U U Z Z 
+Y Y Y Y X U V U Z L 
+P P Y X X X V Z Z L 
+P P W T X F V V V L 
+P W W T F F N N L L 
+W W T T T F F N N N 
+Solution 1068 :
+I I I I I U U U Z Z 
+V V V N N U F U Z Y 
+V N N N F F F Z Z Y 
+V P P P X F T W Y Y 
+L P P X X X T W W Y 
+L L L L X T T T W W 
+Solution 1069 :
+I I I I I U U U Z Z 
+L L N N N U T U Z V 
+L N N X T T T Z Z V 
+L F X X X W T V V V 
+L F F X Y W W P P P 
+F F Y Y Y Y W W P P 
+Solution 1070 :
+I I I I I U U U P P 
+T T T W W U F U P P 
+V T W W X F F F N P 
+V T W X X X Z F N N 
+V V V L X Y Z Z Z N 
+L L L L Y Y Y Y Z N 
+Solution 1071 :
+I I I I I U U U P P 
+V V V W W U F U P P 
+V T W W X F F F N P 
+V T W X X X Z F N N 
+T T T L X Y Z Z Z N 
+L L L L Y Y Y Y Z N 
+Solution 1072 :
+I I I I I U U U P P 
+T T T W W U F U P P 
+V T W W F F F X P Y 
+V T W Z Z F X X X Y 
+V V V L Z N N X Y Y 
+L L L L Z Z N N N Y 
+Solution 1073 :
+I I I I I U U U P P 
+V V V W W U F U P P 
+V T W W F F F X P Y 
+V T W Z Z F X X X Y 
+T T T L Z N N X Y Y 
+L L L L Z Z N N N Y 
+Solution 1074 :
+I I I I I X F F U U 
+N Z Z W X X X F F U 
+N N Z W W X T F U U 
+V N Z Z W W T T T P 
+V N Y Y Y Y T L P P 
+V V V Y L L L L P P 
+Solution 1075 :
+I I I I I X F F U U 
+Y N N N X X X F F U 
+Y W W N N X T F U U 
+Y Y W W Z Z T V V V 
+Y P P W Z T T T L V 
+P P P Z Z L L L L V 
+Solution 1076 :
+I I I I I X F F U U 
+Y Z Z W X X X F F U 
+Y Y Z W W X V F U U 
+Y T Z Z W W V P P P 
+Y T N N V V V P P L 
+T T T N N N L L L L 
+Solution 1077 :
+I I I I I X F F U U 
+Y Y Y Y X X X F F U 
+L T Y W W X Z F U U 
+L T T T W W Z Z Z V 
+L T P P P W N N Z V 
+L L P P N N N V V V 
+Solution 1078 :
+I I I I I X F F U U 
+V V V W X X X F F U 
+V Z Z W W X T F U U 
+V Z N N W W T T T P 
+Z Z Y N N N T L P P 
+Y Y Y Y L L L L P P 
+Solution 1079 :
+I I I I I X F F U U 
+P T T T X X X F F U 
+P P T W W X Z F U U 
+P P T Y W W Z Z Z V 
+L Y Y Y Y W N N Z V 
+L L L L N N N V V V 
+Solution 1080 :
+I I I I I X T T T P 
+U U F F X X X T P P 
+U F F W W X Z T P P 
+U U F Y W W Z Z Z V 
+L Y Y Y Y W N N Z V 
+L L L L N N N V V V 
+Solution 1081 :
+I I I I I X W W L L 
+N T T T X X X W W L 
+N N T Z Z X F F W L 
+V N T Z U U U F F L 
+V N Z Z U Y U F P P 
+V V V Y Y Y Y P P P 
+Solution 1082 :
+I I I I I X W W L L 
+Z V V V X X X W W L 
+Z Z Z V T X P P W L 
+U U Z V T P P P F L 
+U N N T T T Y F F F 
+U U N N N Y Y Y Y F 
+Solution 1083 :
+I I I I I X Y Y Y Y 
+U U U F X X X Y Z Z 
+U N U F F X W W Z V 
+N N F F T W W Z Z V 
+N P P P T W L V V V 
+N P P T T T L L L L 
+Solution 1084 :
+I I I I I X Y Y Y Y 
+U U U F X X X Y Z Z 
+U P U F F X W W Z V 
+P P F F T W W Z Z V 
+P P N N T W L V V V 
+N N N T T T L L L L 
+Solution 1085 :
+I I I I I X Y Y Y Y 
+N P P P X X X Y Z Z 
+N P P F F X W W Z V 
+N N F F T W W Z Z V 
+U N U F T W L V V V 
+U U U T T T L L L L 

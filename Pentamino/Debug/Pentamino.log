@@ -1,0 +1,6 @@
+﻿  Figure.cpp
+  Pentamino.cpp
+  main.cpp
+  Создание кода...
+C:\Users\silvo\OneDrive\Рабочий стол\Программирование\Проекты\3 семестр\Pentamino\Pentamino\Pentamino.cpp(204): warning C4715: pentamino::transfer: значение возвращается не при всех путях выполнения
+  Pentamino.vcxproj -> C:\Users\silvo\OneDrive\Рабочий стол\Программирование\Проекты\3 семестр\Pentamino\Debug\Pentamino.exe
